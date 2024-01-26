@@ -1,0 +1,38 @@
+section#question .question-title{
+    text-align: center;
+    padding: 15px;
+}
+
+section#question ul.possible-answers{
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 15px;
+    gap: 5px;
+}
+
+section#question ul.possible-answers li button{
+    display: block;
+    background-color: white;
+    border: 2px solid #333;
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 15px;
+    color: black;
+    cursor: pointer;
+}
+
+section#question ul.possible-answers li:not(.wrong-answer):not(.correct-answer) button:hover{
+    background-color: #eee;
+}
+
+section#question ul.possible-answers li.wrong-answer button{
+    background-color: darkred;
+    color: white;
+}
+
+section#question ul.possible-answers li.correct-answer button{
+    background-color: darkgreen;
+    color: white;
+}
