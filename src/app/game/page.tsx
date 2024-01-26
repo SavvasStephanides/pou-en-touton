@@ -29,7 +29,7 @@ export default function GamePage() {
   population.addPossibleAnswer(new PossibleAnswer(2, "1000-5000"))
   population.addPossibleAnswer(new PossibleAnswer(3, "5000-10000"))
   population.addPossibleAnswer(new PossibleAnswer(4, ">10000"))
-  population.correctAnswer = 3
+  population.correctAnswer = 2
 
   const game = new Game(whereIsThisGame, whichDistrict, population)
 
@@ -41,8 +41,13 @@ export default function GamePage() {
     "WRONG": "wrong-answer"
   }
 
-  function checkAnswer(question:string, answerId: number){    
-    gameState[question].checkAnswer(answerId)
+  function getAnswerClassNameForStatus(status: string): string{
+    return status === "CORRECT" ? "correct-answer" : 
+            status === "WRONG" ? "wrong-answer" : ""
+  }
+
+  function checkAnswer(question:GameQuestion, answerId: number){    
+    question.checkAnswer(answerId)
     setGameState({...gameState})    
   }
 
@@ -62,7 +67,7 @@ export default function GamePage() {
             <ul className="possible-answers">
               {
                 gameState.whereIsThisGame.possibleAnswers.map((answer) => {
-                  return <li key={answer.id}  className={answerClassNames[answer.status]}><button onClick={() => checkAnswer("whereIsThisGame", answer.id)}>{answer.title}</button></li>
+                  return <li key={answer.id}  className={getAnswerClassNameForStatus(answer.status)}><button onClick={() => checkAnswer(gameState.whereIsThisGame, answer.id)}>{answer.title}</button></li>
                 })
               }
             </ul>
@@ -80,7 +85,7 @@ export default function GamePage() {
             <ul className="possible-answers">
               {
                 gameState.whichDistrict.possibleAnswers.map((answer) => {
-                  return <li key={answer.id}  className={answerClassNames[answer.status]}><button onClick={() => checkAnswer("whichDistrict", answer.id)}>{answer.title}</button></li>
+                  return <li key={answer.id}  className={getAnswerClassNameForStatus(answer.status)}><button onClick={() => checkAnswer(gameState.whichDistrict, answer.id)}>{answer.title}</button></li>
                 })
               }
             </ul>
@@ -98,7 +103,7 @@ export default function GamePage() {
             <ul className="possible-answers">
               {
                 gameState.population.possibleAnswers.map((answer) => {
-                  return <li key={answer.id}  className={answerClassNames[answer.status]}><button onClick={() => checkAnswer("population", answer.id)}>{answer.title}</button></li>
+                  return <li key={answer.id}  className={getAnswerClassNameForStatus(answer.status)}><button onClick={() => checkAnswer(gameState.population, answer.id)}>{answer.title}</button></li>
                 })
               }
             </ul>

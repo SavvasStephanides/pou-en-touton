@@ -16,11 +16,17 @@ export default class GameQuestion {
     }
 
     checkAnswer(answerId: number){
+        const possibleAnswer: PossibleAnswer | undefined = this.possibleAnswers.find(answer => answer.id === answerId)
+
+        if(possibleAnswer === undefined){
+            throw "Answer not found for this answer ID"
+        }
+
         if(answerId === this.correctAnswer){
-            this.possibleAnswers.find(answer => answer.id === answerId).status = "CORRECT"
+            possibleAnswer.status = "CORRECT"
         }
         else{
-            this.possibleAnswers.find(answer => answer.id === answerId).status = "WRONG"
+            possibleAnswer.status = "WRONG"
         }
     }
 
