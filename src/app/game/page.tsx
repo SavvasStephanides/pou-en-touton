@@ -4,7 +4,7 @@ import "./main.css"
 import "./header.css"
 import "./place-photo.css"
 import "./question.css"
-import { useState } from "react"
+import { useEffect, useState } from "react"
 import GameQuestion from "@/modules/GameQuestion"
 import PossibleAnswer from "@/modules/PossibleAnswer"
 import Game from "@/modules/Game"
@@ -12,13 +12,22 @@ import Game from "@/modules/Game"
 export default function GamePage() {
   let game: Game = new Game()
   
-  const whereIsThisGame: GameQuestion = new GameQuestion("athienou.jpeg", "Πού εν τούτον;", ["Πυρόι", "Αθηένου", "Τρούλλοι", "Άσσια"], 1)  
+  const whereIsThisGame: GameQuestion = new GameQuestion(
+    "athienou.jpeg", 
+    "Πού εν τούτον;", 
+    ["Πυρόι", "Αθηένου", "Τρούλλοι", "Άσσια"], 1)  
   game.appendGameQuestion(whereIsThisGame)
 
-  const whichDistrict: GameQuestion = new GameQuestion("athienou.jpeg", "Σε πια επαρχία βρίσκεται η Αθηένου;", ["Λάρνακα", "Πάφος", "Λευκωσία", "Λεμεσός"], 0)  
+  const whichDistrict: GameQuestion = new GameQuestion(
+    "athienou.jpeg", 
+    "Σε πια επαρχία βρίσκεται η Αθηένου;", 
+    ["Λάρνακα", "Πάφος", "Λευκωσία", "Λεμεσός"], 0)  
   game.appendGameQuestion(whichDistrict)
 
-  const population: GameQuestion = new GameQuestion("athienou.jpeg", "Πόσος είναι ο πληθυσμός της Αθηένου;", ["<1000", "1000-5000", "5000-10000", ">10000"], 1)  
+  const population: GameQuestion = new GameQuestion(
+    "athienou.jpeg", 
+    "Πόσος είναι ο πληθυσμός της Αθηένου;", 
+    ["<1000", "1000-5000", "5000-10000", ">10000"], 1)  
   game.appendGameQuestion(population)
 
   const [gameState, setGameState] = useState(game)
@@ -58,7 +67,7 @@ export default function GamePage() {
               }
             </ul>
           </section>
-          {gameState.gameQuestions[gameState.currentLevel].correctAnswerIsFound() && <button onClick={() => goToNextLevel()}>Επόμενος γύρος</button>}
+          {gameState.gameQuestions[gameState.currentLevel].correctAnswerIsFound() && <button className="next-level" onClick={() => goToNextLevel()}>Επόμενος γύρος</button>}
         </div>
       </main>
     </main>
