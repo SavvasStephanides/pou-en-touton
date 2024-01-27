@@ -1,13 +1,10 @@
 import GameQuestion from "./GameQuestion";
 
 export default class Game{
-    whereIsThisGame: GameQuestion
-    whichDistrict: GameQuestion
-    population: GameQuestion
+    gameQuestions: GameQuestion[] = []
+    currentLevel: number = 0
 
-    constructor(whereIsThisGame: GameQuestion, whichDistrict: GameQuestion, population: GameQuestion){
-        this.whereIsThisGame = whereIsThisGame
-        this.whichDistrict = whichDistrict
-        this.population = population
+    appendGameQuestion = (gameQuestion: GameQuestion) => {
+        this.gameQuestions.push(gameQuestion)
     }
 }

@@ -4,25 +4,27 @@ export default class GameQuestion {
     placePhoto: string
     question: string
     possibleAnswers: PossibleAnswer[] = []
-    correctAnswer: number = 0
+    correctAnswer: number
 
-    constructor(placePhoto: string, question: string){
+    constructor(placePhoto: string, question: string, possibleAnswers: string[], correctAnswer: number){
         this.placePhoto = placePhoto
         this.question = question
+        this.possibleAnswers = possibleAnswers.map((answer: string) => new PossibleAnswer(answer))
+        this.correctAnswer = correctAnswer
     }
 
     addPossibleAnswer(answer: PossibleAnswer){
         this.possibleAnswers.push(answer)
     }
 
-    checkAnswer(answerId: number){
-        const possibleAnswer: PossibleAnswer | undefined = this.possibleAnswers.find(answer => answer.id === answerId)
+    checkAnswer(answerIndex: number){
+        const possibleAnswer: PossibleAnswer | undefined = this.possibleAnswers[answerIndex]
 
         if(possibleAnswer === undefined){
-            throw "Answer not found for this answer ID"
+            throw `Answer not found for this answer ID: ${answerIndex}`
         }
 
-        if(answerId === this.correctAnswer){
+        if(answerIndex === this.correctAnswer){
             possibleAnswer.status = "CORRECT"
         }
         else{

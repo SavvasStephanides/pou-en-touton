@@ -1,10 +1,8 @@
 export default class PossibleAnswer {
-    id: number
     title: string
     status:string = "none"
 
-    constructor(id:number, title:string){
-        this.id = id
+    constructor(title:string){
         this.title = title
     }
 }
