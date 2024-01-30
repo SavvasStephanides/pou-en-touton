@@ -11,7 +11,8 @@ import Game from "@/modules/Game"
 
 export default function GamePage() {
   let game: Game = new Game()
-  
+  const BASE_PATH = process.env.BASE_PATH  
+
   const whereIsThisGame: GameQuestion = new GameQuestion(
     "athienou.jpeg", 
     "Πού εν τούτον;", 
@@ -50,12 +51,12 @@ export default function GamePage() {
   return (
     <main>
       <header>
-        <img src="/pouentouto-logo.png" alt="" />
+        <img src={`${BASE_PATH}/pouentouto-logo.png`} alt="" />
       </header>
       <main>
         <div className="game-question where-is-this">
           <section id="place-photo">
-            <img src={`/place-photos/${gameState.gameQuestions[gameState.currentLevel].placePhoto}`} alt="" />
+            <img src={`${BASE_PATH}/place-photos/${gameState.gameQuestions[gameState.currentLevel].placePhoto}`} alt="" />
           </section>
           <section id="question">
             <div className="question-title">{gameState.gameQuestions[gameState.currentLevel].question}</div>
