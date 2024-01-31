@@ -4,30 +4,35 @@ import "./main.css"
 import "./header.css"
 import "./place-photo.css"
 import "./question.css"
-import { useEffect, useState } from "react"
-import GameQuestion from "@/modules/GameQuestion"
-import PossibleAnswer from "@/modules/PossibleAnswer"
-import Game from "@/modules/Game"
+import { useState } from "react"
+import GameQuestion from "@/modules/game/GameQuestion"
+import PossibleAnswer from "@/modules/game/PossibleAnswer"
+import Game from "@/modules/game/Game"
+import VillageService from "@/modules/villages/village-service"
+
+let villageService = new VillageService()
+let village = villageService.getVillageById(264)
 
 export default function GamePage() {
+  
   let game: Game = new Game()
   const BASE_PATH = process.env.BASE_PATH  
 
   const whereIsThisGame: GameQuestion = new GameQuestion(
-    "athienou.jpeg", 
+    village.photoFilename, 
     "Πού εν τούτον;", 
-    ["Πυρόι", "Αθηένου", "Τρούλλοι", "Άσσια"], 1)  
+    ["Τρούλλοι", village.name, "Αβδελλερό", "Αραδίππου"], 1)  
   game.appendGameQuestion(whereIsThisGame)
 
   const whichDistrict: GameQuestion = new GameQuestion(
-    "athienou.jpeg", 
-    "Σε πια επαρχία βρίσκεται η Αθηένου;", 
-    ["Λάρνακα", "Πάφος", "Λευκωσία", "Λεμεσός"], 0)  
+    village.photoFilename, 
+    `Σε πια επαρχία βρίσκεται το χωριό ${village.name};`, 
+    [village.district ? village.district.name : "", "Πάφος", "Λευκωσία", "Λεμεσός"], 0)  
   game.appendGameQuestion(whichDistrict)
 
   const population: GameQuestion = new GameQuestion(
-    "athienou.jpeg", 
-    "Πόσος είναι ο πληθυσμός της Αθηένου;", 
+    village.photoFilename, 
+    "Πόσος είναι ο πληθυσμός του χωριού Αθηένου;", 
     ["<1000", "1000-5000", "5000-10000", ">10000"], 1)  
   game.appendGameQuestion(population)
 

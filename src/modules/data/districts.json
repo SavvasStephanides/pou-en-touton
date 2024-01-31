@@ -1,0 +1,22 @@
+[
+    {
+        "id": "KYRENIA",
+        "name": "Κερύνεια"
+    },
+    {
+        "id": "LIMASSOL",
+        "name": "Λεμεσός"
+    },
+    {
+        "id": "LARNACA",
+        "name": "Λάρνακα"
+    },
+    {
+        "id": "PAPHOS",
+        "name": "Πάφος"
+    },
+    {
+        "id": "FAMAGUSTA",
+        "name": "Αμμόχωστος"
+    }
+]
