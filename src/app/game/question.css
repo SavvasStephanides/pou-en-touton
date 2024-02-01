@@ -1,3 +1,20 @@
+.game-question[hide]{
+    transform: translate(-30px); opacity: 0;
+}
+.game-question[fade-in]{
+    animation: fade-in 0.6s;
+}
+
+.game-question[fade-in] .possible-answers button{
+    animation: fade-in 1.2s;
+}
+
+.game-question[data-level='0'] .possible-answers button,
+.game-question[data-level='1'] .possible-answers button,
+.game-question[data-level='2'] .possible-answers button{
+    animation: scale-up 1s;
+}
+
 section#question .question-title{
     text-align: center;
     padding: 15px;
@@ -30,11 +47,15 @@ section#question ul.possible-answers li:not(.wrong-answer):not(.correct-answer) 
 section#question ul.possible-answers li.wrong-answer button{
     background-color: darkred;
     color: white;
+    animation: tilt-horizontally 0.3s;
+    animation-iteration-count: 3;
 }
 
 section#question ul.possible-answers li.correct-answer button{
     background-color: darkgreen;
     color: white;
+    animation: scale-up-and-shake 0.5s;
+    /* animation-iteration-count: 3; */
 }
 
 button.next-level{
@@ -47,4 +68,27 @@ button.next-level{
     border: 0;
     border-radius: 15px;
     font-weight: bold;
+}
+
+@keyframes tilt-horizontally {
+    0% {transform: translate(0,0);}
+    33% {transform: translate(-10px,0);}
+    66% {transform: translate(20px,0);}
+    100% {transform: translate(-10px,0);}
+}
+
+@keyframes scale-up-and-shake {
+    0% {transform: scale(1) rotate(0deg);}
+    33% {transform: scale(1.1) rotate(-15deg);}
+    66% {transform: scale(1.3) rotate(30deg);}
+    100% {transform: scale(1) rotate(-15deg);}
+}
+
+@keyframes fade-in {
+    0% {transform: translate(-30px); opacity: 0;}
+    100% {transform: translate(0); opacity: 1;}
+}
+
+@keyframes scale-up {
+    0% {transform: scale(0.6);}
 }

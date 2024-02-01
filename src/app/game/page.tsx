@@ -49,6 +49,15 @@ export default function GamePage() {
   }
 
   function goToNextLevel(){    
+    document.querySelector(".game-question")?.removeAttribute("fade-in")
+    document.querySelector(".game-question")?.setAttribute("hide", "")
+
+    setTimeout(() => {
+      document.querySelector(".game-question")?.removeAttribute("hide")
+      document.querySelector(".game-question")?.setAttribute("fade-in", "")
+    }, 50)
+    console.log(document.querySelector(".game-question"))
+    
     gameState.currentLevel++
     setGameState({...gameState})   
   }
@@ -59,7 +68,7 @@ export default function GamePage() {
         <img src={`${BASE_PATH}/pouentouto-logo.png`} alt="" />
       </header>
       <main>
-        <div className="game-question where-is-this">
+        <div className="game-question">
           <section id="place-photo">
             <img src={`${BASE_PATH}/place-photos/${gameState.gameQuestions[gameState.currentLevel].placePhoto}`} alt="" />
           </section>
