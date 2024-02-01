@@ -6,13 +6,7 @@
 }
 
 .game-question[fade-in] .possible-answers button{
-    animation: fade-in 1.2s;
-}
-
-.game-question[data-level='0'] .possible-answers button,
-.game-question[data-level='1'] .possible-answers button,
-.game-question[data-level='2'] .possible-answers button{
-    animation: scale-up 1s;
+    animation: scale-up 1.2s;
 }
 
 section#question .question-title{
