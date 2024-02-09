@@ -65,13 +65,9 @@ export default function GamePage() {
   let lastSavedToday: boolean = window.localStorage.getItem("pouentouton-game-date") === new Date().toDateString()
   if(gameFromLocalStorage && lastSavedToday){
     game = new GameService().jsonToGame(gameFromLocalStorage)
-    console.log("Saved game")
-    console.log(game)
   }
   else{
     game = createGame()
-    console.log("New game");
-    console.log(game)
   }
 
   const [gameState, setGameState] = useState(game)
