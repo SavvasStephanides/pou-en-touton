@@ -6,10 +6,10 @@ export default class GameQuestion {
     possibleAnswers: PossibleAnswer[] = []
     correctAnswer: number
 
-    constructor(placePhoto: string, question: string, possibleAnswers: string[], correctAnswer: number){
+    constructor(placePhoto: string, question: string, possibleAnswers: PossibleAnswer[], correctAnswer: number){
         this.placePhoto = placePhoto
         this.question = question
-        this.possibleAnswers = possibleAnswers.map((answer: string) => new PossibleAnswer(answer))
+        this.possibleAnswers = possibleAnswers
         this.correctAnswer = correctAnswer
     }
 

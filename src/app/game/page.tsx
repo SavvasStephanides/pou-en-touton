@@ -4,37 +4,75 @@ import "./main.css"
 import "./header.css"
 import "./place-photo.css"
 import "./question.css"
-import { useState } from "react"
+import { useEffect, useState } from "react"
 import GameQuestion from "@/modules/game/GameQuestion"
 import PossibleAnswer from "@/modules/game/PossibleAnswer"
 import Game from "@/modules/game/Game"
 import VillageService from "@/modules/villages/village-service"
+import GameService from "@/modules/game/game-service"
 
 let villageService = new VillageService()
 let village = villageService.getVillageById(264)
 
-export default function GamePage() {
-  
+function createGame(){
   let game: Game = new Game()
-  const BASE_PATH = process.env.BASE_PATH  
 
   const whereIsThisGame: GameQuestion = new GameQuestion(
     village.photoFilename, 
     "Πού εν τούτον;", 
-    ["Τρούλλοι", village.name, "Αβδελλερό", "Αραδίππου"], 1)  
+    [
+      new PossibleAnswer("Τρούλλοι"), 
+      new PossibleAnswer(village.name), 
+      new PossibleAnswer("Αβδελλερό"), 
+      new PossibleAnswer("Αραδίππου")
+    ], 1)  
   game.appendGameQuestion(whereIsThisGame)
 
   const whichDistrict: GameQuestion = new GameQuestion(
     village.photoFilename, 
     `Σε πια επαρχία βρίσκεται το χωριό ${village.name};`, 
-    [village.district ? village.district.name : "", "Πάφος", "Λευκωσία", "Λεμεσός"], 0)  
+    [
+      new PossibleAnswer(village.district ? village.district.name : ""), 
+      new PossibleAnswer("Πάφος"), 
+      new PossibleAnswer("Λευκωσία"), 
+      new PossibleAnswer("Λεμεσός")
+    ], 0)  
   game.appendGameQuestion(whichDistrict)
 
   const population: GameQuestion = new GameQuestion(
     village.photoFilename, 
     "Πόσος είναι ο πληθυσμός του χωριού Αθηένου;", 
-    ["<1000", "1000-5000", "5000-10000", ">10000"], 1)  
+    [
+      new PossibleAnswer("<1000"), 
+      new PossibleAnswer("1000-5000"), 
+      new PossibleAnswer("1000-5000"), 
+      new PossibleAnswer(">10000")
+    ], 1)  
   game.appendGameQuestion(population)
+
+  return game;
+}
+
+export default function GamePage() {
+  if(typeof window === "undefined"){
+    return (<main>...</main>)
+  }
+  const BASE_PATH = process.env.BASE_PATH  
+  
+  let game: Game
+  
+  let gameFromLocalStorage = window.localStorage.getItem("pouentouton-game")
+  let lastSavedToday: boolean = window.localStorage.getItem("pouentouton-game-date") === new Date().toDateString()
+  if(gameFromLocalStorage && lastSavedToday){
+    game = new GameService().jsonToGame(gameFromLocalStorage)
+    console.log("Saved game")
+    console.log(game)
+  }
+  else{
+    game = createGame()
+    console.log("New game");
+    console.log(game)
+  }
 
   const [gameState, setGameState] = useState(game)
 
@@ -62,8 +100,19 @@ export default function GamePage() {
     setGameState({...gameState})   
   }
 
+  function setGameStateToLocalStorage(){
+    if(typeof window !== "undefined"){
+      localStorage.setItem("pouentouton-game", JSON.stringify(gameState))
+      localStorage.setItem("pouentouton-game-date", new Date().toDateString())
+    }
+    return true
+  }
+
   return (
     <main>
+    {
+      setGameStateToLocalStorage()
+    }
       <header>
         <img src={`${BASE_PATH}/pouentouto-logo.png`} alt="" />
       </header>
