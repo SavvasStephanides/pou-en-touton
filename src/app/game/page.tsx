@@ -138,7 +138,7 @@ export default function GamePage() {
               }
             </ul>
           </section>
-          {gameState.gameQuestions[gameState.currentLevel].correctAnswerIsFound() && gameState.currentLevel === gameState.gameQuestions.length && <button className="next-level" onClick={() => goToNextLevel()}>Επόμενος γύρος</button>}
+          {gameState.gameQuestions[gameState.currentLevel].correctAnswerIsFound() && gameState.currentLevel !== gameState.gameQuestions.length && <button className="next-level" onClick={() => goToNextLevel()}>Επόμενος γύρος</button>}
         </div>
       </main>
     </main>
