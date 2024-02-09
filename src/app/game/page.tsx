@@ -48,7 +48,18 @@ function createGame(){
       new PossibleAnswer("1000-5000"), 
       new PossibleAnswer(">10000")
     ], 1)  
-  game.appendGameQuestion(population)
+    game.appendGameQuestion(population)
+
+  const inCapital: GameQuestion = new GameQuestion(
+      village.photoFilename, 
+      "Ποιό απο τα χωριά βρίσκονται στην επαρχία Λάρνακα;", 
+      [
+        new PossibleAnswer("Γερόλακκος"), 
+        new PossibleAnswer("Κισσόνεργα"), 
+        new PossibleAnswer("Πωμός"), 
+        new PossibleAnswer("Αγγλισίδες")
+      ], 3)  
+  game.appendGameQuestion(inCapital)
 
   return game;
 }
@@ -127,7 +138,7 @@ export default function GamePage() {
               }
             </ul>
           </section>
-          {gameState.gameQuestions[gameState.currentLevel].correctAnswerIsFound() && <button className="next-level" onClick={() => goToNextLevel()}>Επόμενος γύρος</button>}
+          {gameState.gameQuestions[gameState.currentLevel].correctAnswerIsFound() && gameState.currentLevel === gameState.gameQuestions.length && <button className="next-level" onClick={() => goToNextLevel()}>Επόμενος γύρος</button>}
         </div>
       </main>
     </main>
