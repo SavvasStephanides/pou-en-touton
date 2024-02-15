@@ -4,81 +4,31 @@ import "./main.css"
 import "./header.css"
 import "./place-photo.css"
 import "./question.css"
-import { useEffect, useState } from "react"
-import GameQuestion from "@/modules/game/GameQuestion"
+import { useState } from "react"
 import PossibleAnswer from "@/modules/game/PossibleAnswer"
 import Game from "@/modules/game/Game"
-import VillageService from "@/modules/villages/village-service"
 import GameService from "@/modules/game/game-service"
 
-let villageService = new VillageService()
-let village = villageService.getVillageById(264)
-
-function createGame(){
-  let game: Game = new Game()
-
-  const whereIsThisGame: GameQuestion = new GameQuestion(
-    village.photoFilename, 
-    "Πού εν τούτον;", 
-    [
-      new PossibleAnswer("Τρούλλοι"), 
-      new PossibleAnswer(village.name), 
-      new PossibleAnswer("Αβδελλερό"), 
-      new PossibleAnswer("Αραδίππου")
-    ], 1)  
-  game.appendGameQuestion(whereIsThisGame)
-
-  const whichDistrict: GameQuestion = new GameQuestion(
-    village.photoFilename, 
-    `Σε πια επαρχία βρίσκεται το χωριό ${village.name};`, 
-    [
-      new PossibleAnswer(village.district ? village.district.name : ""), 
-      new PossibleAnswer("Πάφος"), 
-      new PossibleAnswer("Λευκωσία"), 
-      new PossibleAnswer("Λεμεσός")
-    ], 0)  
-  game.appendGameQuestion(whichDistrict)
-
-  const population: GameQuestion = new GameQuestion(
-    village.photoFilename, 
-    "Πόσος είναι ο πληθυσμός του χωριού Αθηένου;", 
-    [
-      new PossibleAnswer("<1000"), 
-      new PossibleAnswer("1000-5000"), 
-      new PossibleAnswer("1000-5000"), 
-      new PossibleAnswer(">10000")
-    ], 1)  
-    game.appendGameQuestion(population)
-
-  const inCapital: GameQuestion = new GameQuestion(
-      village.photoFilename, 
-      "Ποιό απο τα χωριά βρίσκονται στην επαρχία Λάρνακα;", 
-      [
-        new PossibleAnswer("Γερόλακκος"), 
-        new PossibleAnswer("Κισσόνεργα"), 
-        new PossibleAnswer("Πωμός"), 
-        new PossibleAnswer("Αγγλισίδες")
-      ], 3)  
-  game.appendGameQuestion(inCapital)
-
-  return game;
-}
+let gameService: GameService = new GameService()
 
 export default function GamePage() {
   if(typeof window === "undefined"){
     return (<main>...</main>)
   }
   const BASE_PATH = process.env.BASE_PATH  
+
+  let todaysGame: Game = gameService.getTodaysGame()
+  console.log(todaysGame)
   
   let game: Game
   
   let gameFromLocalStorage = window.localStorage.getItem("pouentouton-game")
   let lastSavedToday: boolean = window.localStorage.getItem("pouentouton-game-date") === new Date().toDateString()
   if(gameFromLocalStorage && lastSavedToday){
-    game = new GameService().jsonToGame(gameFromLocalStorage)
+    game = gameService.jsonToGame(gameFromLocalStorage)
   }
   else{
-    game = createGame()
+    game = gameService.getTodaysGame()
   }
 
   const [gameState, setGameState] = useState(game)

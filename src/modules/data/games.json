@@ -1,0 +1,102 @@
+[
+    {
+        "date": "Thu Feb 15 2024",
+        "game": {
+            "gameQuestions": [
+                {
+                    "possibleAnswers": [
+                        {
+                            "status": "none",
+                            "title": "Τρούλλοι"
+                        },
+                        {
+                            "status": "none",
+                            "title": "Αθηένου"
+                        },
+                        {
+                            "status": "none",
+                            "title": "Αβδελλερό"
+                        },
+                        {
+                            "status": "none",
+                            "title": "Αραδίππου"
+                        }
+                    ],
+                    "placePhoto": "athienou.jpeg",
+                    "question": "Πού εν τούτον;",
+                    "correctAnswer": 1
+                },
+                {
+                    "possibleAnswers": [
+                        {
+                            "status": "none",
+                            "title": "Λάρνακα"
+                        },
+                        {
+                            "status": "none",
+                            "title": "Πάφος"
+                        },
+                        {
+                            "status": "none",
+                            "title": "Λευκωσία"
+                        },
+                        {
+                            "status": "none",
+                            "title": "Λεμεσός"
+                        }
+                    ],
+                    "placePhoto": "athienou.jpeg",
+                    "question": "Σε πια επαρχία βρίσκεται το χωριό Αθηένου;",
+                    "correctAnswer": 0
+                },
+                {
+                    "possibleAnswers": [
+                        {
+                            "status": "none",
+                            "title": "<1000"
+                        },
+                        {
+                            "status": "none",
+                            "title": "1000-5000"
+                        },
+                        {
+                            "status": "none",
+                            "title": "1000-5000"
+                        },
+                        {
+                            "status": "none",
+                            "title": ">10000"
+                        }
+                    ],
+                    "placePhoto": "athienou.jpeg",
+                    "question": "Πόσος είναι ο πληθυσμός του χωριού Αθηένου;",
+                    "correctAnswer": 1
+                },
+                {
+                    "possibleAnswers": [
+                        {
+                            "status": "none",
+                            "title": "Γερόλακκος"
+                        },
+                        {
+                            "status": "none",
+                            "title": "Κισσόνεργα"
+                        },
+                        {
+                            "status": "none",
+                            "title": "Πωμός"
+                        },
+                        {
+                            "status": "none",
+                            "title": "Αγγλισίδες"
+                        }
+                    ],
+                    "placePhoto": "athienou.jpeg",
+                    "question": "Ποιό απο τα χωριά βρίσκονται στην επαρχία Λάρνακα;",
+                    "correctAnswer": 3
+                }
+            ],
+            "currentLevel": 0
+        }
+    }
+]

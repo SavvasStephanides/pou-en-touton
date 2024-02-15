@@ -2,6 +2,8 @@ import Game from "./Game";
 import GameQuestion from "./GameQuestion";
 import PossibleAnswer from "./PossibleAnswer";
 
+const allGames = require("../data/games.json")
+
 export default class GameService{
     jsonToGame(jsonString: any): Game{
         let gameJsonObject = JSON.parse(jsonString)
@@ -17,5 +19,11 @@ export default class GameService{
         })
 
         return game
+    }
+
+    getTodaysGame(){
+        const today = new Date().toDateString()
+        let todaysGame = allGames.find((game: any) => game.date === today).game
+        return this.jsonToGame(JSON.stringify(todaysGame))
     }
 }
