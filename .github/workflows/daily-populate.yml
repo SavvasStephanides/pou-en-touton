@@ -1,0 +1,29 @@
+name: Populate
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+    # ^ This cron expression triggers the action at 00:00 (midnight) every day
+
+jobs:
+  execute_at_midnight:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Display current time in Cyprus
+        run: date
+        env:
+          TZ: Asia/Nicosia
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3.1.1
+
+      - name: Start deployment
+        run: |
+          npm install
+          HOME_DIR=$PWD
+          cd src/modules/data
+          node populateGames.js 
+          cd $HOME_DIR
+          git add -A
+          git commit -m "Automated Update village of the day"
+          git push --all -f https://${{ secrets.GH_TOKEN }}@github.com/SavvasStephanides/pou-en-touton.git
