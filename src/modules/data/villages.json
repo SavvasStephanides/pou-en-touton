@@ -101,13 +101,15 @@
         "name": "Αρναδί",
         "population": 193,
         "district": "FAMAGUSTA",
-        "id": 15
+        "id": 15,
+        "photoFilename": "v-15.jpg"
     },
     {
         "name": "Άγιος Αθανάσιος",
         "population": 14578,
         "district": "LIMASSOL",
-        "id": 16
+        "id": 16,
+        "photoFilename": "v-16.jpg"
     },
     {
         "name": "Ακρωτήρι",
@@ -120,37 +122,43 @@
         "name": "Λύμπια",
         "population": 2694,
         "district": "NICOSIA",
-        "id": 18
+        "id": 18,
+        "photoFilename": "v-18.jpg"
     },
     {
         "name": "Θέρμια",
         "population": 63,
         "district": "KYRENIA",
-        "id": 19
+        "id": 19,
+        "photoFilename": "v-19.jpg"
     },
     {
         "name": "Ασκάς",
         "population": 170,
         "district": "NICOSIA",
-        "id": 20
+        "id": 20,
+        "photoFilename": "v-20.jpg"
     },
     {
         "name": "Μακράσυκα",
         "population": 140,
         "district": "FAMAGUSTA",
-        "id": 21
+        "id": 21,
+        "photoFilename": "v-21.jpg"
     },
     {
         "name": "Κοιλάνι",
         "population": 216,
         "district": "LIMASSOL",
-        "id": 22
+        "id": 22,
+        "photoFilename": "v-22.jpg"
     },
     {
         "name": "Αστρομερίτης",
         "population": 2307,
         "district": "NICOSIA",
-        "id": 23
+        "id": 23,
+        "photoFilename": "v-23.jpg"
     },
     {
         "name": "Άγιος Γεώργιος",
