@@ -37,15 +37,19 @@ function getGameFromVillage(village) {
             gameQuestions: [
                 {
                     question: "Πού εν τούτον;",
+                    iconEmoji: "📍"
                 },
                 {
                     question: `Σε πια επαρχία βρίσκεται το χωριό ${village.name};`,
+                    iconEmoji: "🌆"
                 },
                 {
                     question: `Πόσος είναι ο πληθυσμός του χωριού ${village.name};`,
+                    iconEmoji: "👨‍👩‍👦"
                 },
                 {
                     question: `Ποιό απο τα χωριά βρίσκονται στην επαρχία ${districts.find(d => d.id === village.district).name};`,
+                    iconEmoji: "🏙️"
                 }
             ]
         }

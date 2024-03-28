@@ -5,12 +5,14 @@ export default class GameQuestion {
     question: string
     possibleAnswers: PossibleAnswer[] = []
     correctAnswer: number
+    iconEmoji: string
 
-    constructor(placePhoto: string, question: string, possibleAnswers: PossibleAnswer[], correctAnswer: number){
+    constructor(placePhoto: string, question: string, possibleAnswers: PossibleAnswer[], correctAnswer: number, iconEmoji: string){
         this.placePhoto = placePhoto
         this.question = question
         this.possibleAnswers = possibleAnswers
         this.correctAnswer = correctAnswer
+        this.iconEmoji = iconEmoji
     }
 
     addPossibleAnswer(answer: PossibleAnswer){
@@ -34,5 +36,16 @@ export default class GameQuestion {
 
     correctAnswerIsFound(): boolean{                
         return this.possibleAnswers.some(answer => answer.status === "CORRECT")
+    }
+
+    toShareableString(): string{
+        let totalGuesses = this.possibleAnswers.length - this.possibleAnswers.filter((answer) => answer.status === "none").length
+        if(totalGuesses > 0){
+            let wrongGuesses = this.possibleAnswers.filter((answer) => answer.status === "WRONG").length
+            return `${this.iconEmoji} ${"🟥".repeat(wrongGuesses)}${this.correctAnswerIsFound() ? "🟩" : ""}`
+        }
+        else {
+            return ""
+        }
     }
 }

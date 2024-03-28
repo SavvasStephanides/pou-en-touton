@@ -9,13 +9,10 @@ export default class GameService{
         
         let game: Game = new Game()
         game.currentLevel = gameJsonObject.currentLevel
-        
 
         game.gameQuestions = gameJsonObject.gameQuestions.map((question: any) => {
-            console.log(question.possibleAnswers);
-            
             let answers: PossibleAnswer[] = question.possibleAnswers
-            let gameQuestion: GameQuestion = new GameQuestion(question.placePhoto, question.question, answers, question.correctAnswer)
+            let gameQuestion: GameQuestion = new GameQuestion(question.placePhoto, question.question, answers, question.correctAnswer, question.iconEmoji)
             return gameQuestion
         })
 

@@ -52,6 +52,14 @@ section#question ul.possible-answers li.correct-answer button{
     /* animation-iteration-count: 3; */
 }
 
+.question-end-buttons{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 9px;
+    padding: 15px;
+    border: 1px solid #dedede;
+    border-radius: 9px;
+}
 button.next-level{
     display: block;
     background-color: darkgreen;
@@ -62,6 +70,19 @@ button.next-level{
     border: 0;
     border-radius: 15px;
     font-weight: bold;
+}
+
+button.share{
+    display: block;
+    background-color: #dedede;
+    color: black;
+    width: 100%;
+    padding: 15px;
+    cursor: pointer;
+    border: 0;
+    border-radius: 15px;
+    font-weight: bold;
+    
 }
 
 @keyframes tilt-horizontally {

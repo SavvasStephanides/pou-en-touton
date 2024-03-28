@@ -18,7 +18,6 @@ export default function GamePage() {
   const BASE_PATH = process.env.BASE_PATH  
 
   let todaysGame: Game = gameService.getTodaysGame()
-  console.log(todaysGame)
   
   let game: Game
   
@@ -51,10 +50,21 @@ export default function GamePage() {
       document.querySelector(".game-question")?.removeAttribute("hide")
       document.querySelector(".game-question")?.setAttribute("fade-in", "")
     }, 50)
-    console.log(document.querySelector(".game-question"))
     
     gameState.currentLevel++
     setGameState({...gameState})   
+  }
+
+  function copyShareableString(){
+    let shareableString = game.toShareableString()
+    if(navigator.share){
+      navigator.share({
+        text: shareableString
+      })
+    }
+    else{
+      navigator.clipboard.writeText(shareableString)
+    }
   }
 
   function setGameStateToLocalStorage(){
@@ -88,7 +98,11 @@ export default function GamePage() {
               }
             </ul>
           </section>
-          {gameState.gameQuestions[gameState.currentLevel].correctAnswerIsFound() && gameState.currentLevel !== (gameState.gameQuestions.length-1) && <button className="next-level" onClick={() => goToNextLevel()}>Επόμενος γύρος</button>}
+          {gameState.gameQuestions[gameState.currentLevel].correctAnswerIsFound() && <div className="question-end-buttons">
+            <button className="share" onClick={() => copyShareableString()}>Share</button>
+            {gameState.currentLevel !== (gameState.gameQuestions.length-1) && <button className="next-level" onClick={() => goToNextLevel()}>Επόμενος γύρος</button>}
+            
+          </div>}
         </div>
       </main>
     </main>
