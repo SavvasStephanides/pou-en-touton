@@ -6,9 +6,10 @@ on:
     # ^ This cron expression triggers the action at 00:00 (midnight) every day
 
 jobs:
-  execute_at_midnight:
+  populate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - name: Display current time in Cyprus
         run: date
         env:
