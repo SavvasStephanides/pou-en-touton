@@ -8,7 +8,7 @@ export default class Game{
         this.gameQuestions.push(gameQuestion)
     }
 
-    toShareableString(): string {
+    toShareableString = (): string => {
         let questionShareableStrings = this.gameQuestions.map((question) => question.toShareableString())
         return "Πού εν τουτον; 🇨🇾\n" 
             + questionShareableStrings
