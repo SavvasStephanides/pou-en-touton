@@ -17,8 +17,6 @@ export default function GamePage() {
   }
   const BASE_PATH = process.env.BASE_PATH  
 
-  let todaysGame: Game = gameService.getTodaysGame()
-  
   let game: Game
   
   let gameFromLocalStorage = window.localStorage.getItem("pouentouton-game")
@@ -56,7 +54,7 @@ export default function GamePage() {
   }
 
   function copyShareableString(){
-    let shareableString = game.toShareableString()
+    let shareableString = gameState.toShareableString()
     if(navigator.share){
       navigator.share({
         text: shareableString
