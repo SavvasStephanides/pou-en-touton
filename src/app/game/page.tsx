@@ -87,7 +87,7 @@ export default function GamePage() {
             <img src={`${BASE_PATH}/place-photos/${gameState.gameQuestions[gameState.currentLevel].placePhoto}`} alt="" />
           </section>
           <section id="question">
-            <div className="question-title">{gameState.gameQuestions[gameState.currentLevel].question}</div>
+            <div className="question-title">{gameState.gameQuestions[gameState.currentLevel].iconEmoji} {gameState.gameQuestions[gameState.currentLevel].question}</div>
             <ul className="possible-answers">
               {
                 gameState.gameQuestions[gameState.currentLevel].possibleAnswers.map((answer: PossibleAnswer, index: number) => {
