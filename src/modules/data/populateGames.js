@@ -1,7 +1,10 @@
 const fs = require('fs')
 
+const currentGame = require("./game.json")
 const villages = require("./villages.json")
 const districts = require("./districts.json")
+
+let gameId = ++currentGame.game.id
 
 let ranges = {
     "BIG": (v) => {
@@ -33,6 +36,7 @@ function getGameFromVillage(village) {
 
     const game = {
         game: {
+            id: gameId,
             currentLevel: 0,
             gameQuestions: [
                 {

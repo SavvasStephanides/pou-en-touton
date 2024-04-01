@@ -1,8 +1,10 @@
 import GameQuestion from "./GameQuestion";
 
 export default class Game{
+    id: number = 0
     gameQuestions: GameQuestion[] = []
     currentLevel: number = 0
+
 
     appendGameQuestion = (gameQuestion: GameQuestion) => {
         this.gameQuestions.push(gameQuestion)
@@ -10,7 +12,7 @@ export default class Game{
 
     toShareableString = (): string => {
         let questionShareableStrings = this.gameQuestions.map((question) => question.toShareableString())
-        return "Πού εν τουτον; 🇨🇾\n" 
+        return `🇨🇾 Πού εν τουτον; ${this.id} \n`
             + questionShareableStrings
                 .filter((shareableString) => shareableString !== "")
                 .join("\n")
