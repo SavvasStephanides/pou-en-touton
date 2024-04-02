@@ -1,26 +1,32 @@
 [
     {
         "id": "NICOSIA",
-        "name": "Λευκωσία"
+        "name": "Λευκωσία",
+        "photoFilename": "nicosia.jpg"
     },
     {
         "id": "KYRENIA",
-        "name": "Κερύνεια"
+        "name": "Κερύνεια",
+        "photoFilename": "kyrenia.jpg"
     },
     {
         "id": "LIMASSOL",
-        "name": "Λεμεσός"
+        "name": "Λεμεσός",
+        "photoFilename": "limassol.jpg"
     },
     {
         "id": "LARNACA",
-        "name": "Λάρνακα"
+        "name": "Λάρνακα",
+        "photoFilename": "larnaca.jpg"
     },
     {
         "id": "PAPHOS",
-        "name": "Πάφος"
+        "name": "Πάφος",
+        "photoFilename": "paphos.jpg"
     },
     {
         "id": "FAMAGUSTA",
-        "name": "Αμμόχωστος"
+        "name": "Αμμόχωστος",
+        "photoFilename": "famagusta.jpg"
     }
 ]

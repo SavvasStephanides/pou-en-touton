@@ -6,7 +6,7 @@ export default class DistrictService{
         let jsonDistrict = districts.find((district) => district.id === districtId)
         
         if(jsonDistrict !== undefined){
-            return new District(jsonDistrict.id, jsonDistrict.name)
+            return new District(jsonDistrict.id, jsonDistrict.name, jsonDistrict.photoFilename)
         }
     }
 }

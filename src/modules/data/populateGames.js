@@ -108,7 +108,9 @@ function getGameFromVillage(village) {
 
     // Ποιό απο τα χωριά βρίσκονται στην επαρχία
 
-    game.game.gameQuestions[3].placePhoto = village.photoFilename ? village.photoFilename : ""
+    let district = districts.find(district => district.id === village.district)
+
+    game.game.gameQuestions[3].placePhoto = `districts/${district.photoFilename}`
     game.game.gameQuestions[3].possibleAnswers = Array(4)
     let correctIndex = Math.floor(Math.random() * 4)
     game.game.gameQuestions[3].correctAnswer = correctIndex
