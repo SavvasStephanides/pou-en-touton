@@ -12,7 +12,7 @@ export default class Game{
 
     toShareableString = (): string => {
         let questionShareableStrings = this.gameQuestions.map((question) => question.toShareableString())
-        return `🇨🇾 Πού εν τουτον; ${this.id} \n`
+        return `🇨🇾 Πού εν τουτον; ${this.id} \n\n`
             + questionShareableStrings
                 .filter((shareableString) => shareableString !== "")
                 .join("\n")

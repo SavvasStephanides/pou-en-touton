@@ -42,6 +42,10 @@ export default class GameQuestion {
         let totalGuesses = this.possibleAnswers.length - this.possibleAnswers.filter((answer) => answer.status === "none").length
         if(totalGuesses > 0){
             let wrongGuesses = this.possibleAnswers.filter((answer) => answer.status === "WRONG").length
+
+            if(wrongGuesses === 0 && this.possibleAnswers.find((answer) => answer.status === "CORRECT")){
+                return `${this.iconEmoji} 🎉`
+            }
             return `${this.iconEmoji} ${"🟥".repeat(wrongGuesses)}${this.correctAnswerIsFound() ? "🟩" : ""}`
         }
         else {
