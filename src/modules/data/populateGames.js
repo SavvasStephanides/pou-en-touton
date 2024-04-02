@@ -21,8 +21,10 @@ let ranges = {
     }
 }
 
-const getRandomVillage = () => {
-    let villagesWithPhoto = villages.filter(v => v.photoFilename !== undefined)
+const getRandomVillage = ({villageNameToExclude}) => {
+    let villagesWithPhoto = villages
+        .filter(v => v.photoFilename !== undefined)
+        .filter(v => v.name !== villageNameToExclude)
     return villagesWithPhoto[Math.floor(Math.random() * villagesWithPhoto.length)]
 }
 
@@ -63,7 +65,7 @@ function getGameFromVillage(village) {
     game.game.gameQuestions[0].possibleAnswers = Array(4)
 
     for (let i = 0; i <= 2; i++) {
-        game.game.gameQuestions[0].possibleAnswers[i] = getRandomVillage().name
+        game.game.gameQuestions[0].possibleAnswers[i] = getRandomVillage({villageNameToExclude: village.name}).name
     }
     game.game.gameQuestions[0].possibleAnswers[3] = village.name
     game.game.gameQuestions[0].possibleAnswers.sort((a, b) => 0.5 - Math.random())
