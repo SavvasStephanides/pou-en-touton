@@ -7,10 +7,10 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     url: "https://savvas.me/pouentouton",
-    images: "https://savvas.me/pouentouton/pouentouto-tw.png"
+    images: "https://savvas.me/pouentouton/pouentouton-tw.png"
   },
   twitter: {
-    images: "https://savvas.me/pouentouton/pouentouto-tw.png",
+    images: "https://savvas.me/pouentouton/pouentouton-tw.png",
     card: "summary_large_image"
   }
 };
