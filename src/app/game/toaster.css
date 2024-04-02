@@ -1,0 +1,26 @@
+/* style={{display: "flex", position: "absolute", top: 0, left: 0, width: "100%", opacity: 0}} */
+
+#toaster-wrapper{
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 1s ease;
+    font-weight: bold;
+}
+
+#toaster-wrapper #toaster{
+    margin: auto;
+    background-color: black;
+    color: white;
+    padding: 9px 30px;
+    margin-top: 30px;
+    width: 300px;
+    text-align: center;
+}
+
+#toaster-wrapper[show="1"]{
+    opacity: 1;
+}

@@ -4,6 +4,7 @@ import "./main.css"
 import "./header.css"
 import "./place-photo.css"
 import "./question.css"
+import "./toaster.css"
 import { useState } from "react"
 import PossibleAnswer from "@/modules/game/PossibleAnswer"
 import Game from "@/modules/game/Game"
@@ -37,6 +38,11 @@ export default function GamePage() {
 
   function checkAnswer(answerIndex: number){        
     gameState.gameQuestions[gameState.currentLevel].checkAnswer(answerIndex)
+    
+    if(gameState.gameQuestions[gameState.currentLevel].possibleAnswers.find(a => a.status === "CORRECT")){
+      showToaster("🎉 Ήβρες το!")
+    }
+    
     setGameState({...gameState})    
   }
 
@@ -62,6 +68,7 @@ export default function GamePage() {
     }
     else{
       navigator.clipboard.writeText(shareableString)
+      showToaster("📋 Εμπήκε στο clipboard")
     }
   }
 
@@ -73,8 +80,21 @@ export default function GamePage() {
     return true
   }
 
+  function showToaster(text: string){
+    let toasterWrapper = document.querySelector("#toaster-wrapper")
+    let toaster = document.querySelector("#toaster-wrapper #toaster")
+    if(toaster){
+      toaster.innerHTML = text
+    }
+    toasterWrapper?.setAttribute("show", "1")
+
+    setTimeout(() => {
+      toasterWrapper?.setAttribute("show", "0")
+    }, 3000)
+  }
+
   return (
-    <main>
+    <div>
     {
       setGameStateToLocalStorage()
     }
@@ -103,6 +123,11 @@ export default function GamePage() {
           </div>}
         </div>
       </main>
-    </main>
+      <div id="toaster-wrapper">
+        <div id="toaster" style={{margin: "auto", backgroundColor: "black", color: "white", padding: "9px 30px", marginTop: "30px", width: "300px", textAlign: "center"}}>
+
+        </div>
+      </div>
+    </div>
   )
 }
