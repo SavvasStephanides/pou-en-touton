@@ -21,10 +21,16 @@ let ranges = {
     }
 }
 
-const getRandomVillage = ({villageNameToExclude}) => {
+const getRandomVillage = (props) => {
+
     let villagesWithPhoto = villages
         .filter(v => v.photoFilename !== undefined)
-        .filter(v => v.name !== villageNameToExclude)
+
+    if(props){
+        villagesWithPhoto
+        .filter(v => v.name !== props.villageNameToExclude)
+    }
+        
     return villagesWithPhoto[Math.floor(Math.random() * villagesWithPhoto.length)]
 }
 
