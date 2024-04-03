@@ -170,61 +170,71 @@
         "name": "Κοινότητα Έγκωμης Αμμοχώστου",
         "population": 159,
         "district": "FAMAGUSTA",
-        "id": 25
+        "id": 25,
+        "photoFilename": "v-25.jpg"
     },
     {
         "name": "Καλό Χωριό Σολέας",
         "population": 174,
         "district": "NICOSIA",
-        "id": 26
+        "id": 26,
+        "photoFilename": "v-26.jpg"
     },
     {
         "name": "Κλήρου",
         "population": 1847,
         "district": "NICOSIA",
-        "id": 27
+        "id": 27,
+        "photoFilename": "v-27.png"
     },
     {
         "name": "Κρηνί",
         "population": 100,
         "district": "KYRENIA",
-        "id": 28
+        "id": 28,
+        "photoFilename": "v-28.jpg"
     },
     {
         "name": "Άγιος Δομέτιος",
         "population": 12456,
         "district": "NICOSIA",
-        "id": 29
+        "id": 29,
+        "photoFilename": "v-29.jpg"
     },
     {
         "name": "Λακατάμια",
         "population": 38345,
         "district": "NICOSIA",
-        "id": 30
+        "id": 30,
+        "photoFilename": "v-30.jpg"
     },
     {
         "name": "Δορά",
         "population": 145,
         "district": "LIMASSOL",
-        "id": 31
+        "id": 31,
+        "photoFilename": "v-31.jpg"
     },
     {
         "name": "Κρίδια",
         "population": 136,
         "district": "FAMAGUSTA",
-        "id": 32
+        "id": 32,
+        "photoFilename": "v-32.jpg"
     },
     {
         "name": "Αγία Βαρβάρα",
         "population": 2204,
         "district": "NICOSIA",
-        "id": 33
+        "id": 33,
+        "photoFilename": "v-33.jpg"
     },
     {
         "name": "Μένικο",
         "population": 1023,
         "district": "NICOSIA",
-        "id": 34
+        "id": 34,
+        "photoFilename": "v-34.jpg"
     },
     {
         "name": "Λαζανιάς",
@@ -236,7 +246,8 @@
         "name": "Χοιροκοιτία",
         "population": 632,
         "district": "LARNACA",
-        "id": 36
+        "id": 36,
+        "photoFilename": "v-36.jpg"
     },
     {
         "name": "Κορμακίτης",
