@@ -5,7 +5,7 @@ import "./header.css"
 import "./place-photo.css"
 import "./question.css"
 import "./toaster.css"
-import { useState } from "react"
+import { useEffect, useState } from "react"
 import PossibleAnswer from "@/modules/game/PossibleAnswer"
 import Game from "@/modules/game/Game"
 import GameService from "@/modules/game/game-service"
@@ -30,6 +30,25 @@ export default function GamePage() {
   }
 
   const [gameState, setGameState] = useState(game)
+  const [nextGameTimer, setNextGameTimer] = useState("")
+
+  useEffect(() => {
+    setTimeout(() => {
+      let timeNowAsUTC = new Date(new Date(Date.now()).toLocaleString("en-US", {timeZone: "UTC"}))
+      let hours = 23 - timeNowAsUTC.getHours()
+      let minutes = 59 - timeNowAsUTC.getMinutes()
+      let seconds = 59-timeNowAsUTC.getSeconds()
+
+      let hoursDisplay = hours >= 10 ? hours : `0${hours}`
+      let minutesDisplay = minutes >= 10 ? minutes : `0${minutes}`
+      let secondsDisplay = seconds >= 10 ? seconds : `0${seconds}`
+
+      setNextGameTimer(`${hoursDisplay}:${minutesDisplay}:${secondsDisplay}`)
+    }, 1000)
+    
+
+    
+  })
 
   function getAnswerClassNameForStatus(status: string): string{
     return status === "CORRECT" ? "correct-answer" : 
@@ -133,8 +152,13 @@ export default function GamePage() {
           {gameState.gameQuestions[gameState.currentLevel].correctAnswerIsFound() && <div className="question-end-buttons">
             <button className="share" onClick={() => copyShareableString()}>Share</button>
             {gameState.currentLevel !== (gameState.gameQuestions.length-1) && <button className="next-level" onClick={() => goToNextLevel()}>Επόμενος γύρος</button>}
+
             
           </div>}
+          <div style={{padding: "30px"}}>
+              <div>Επόμενη φωτογραφία σε:</div>
+              <div style={{fontSize: "30px", fontWeight: "bold", marginTop: "9px"}}>{nextGameTimer}</div>
+          </div>
         </div>
       </main>
       <div id="toaster-wrapper">
