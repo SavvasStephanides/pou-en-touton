@@ -151,8 +151,8 @@ export default function GamePage() {
             </ul>
           </section>
           {gameState.gameQuestions[gameState.currentLevel].correctAnswerIsFound() && <div className="question-end-buttons">
-            <button className="share" onClick={() => copyShareableString()}>Share</button>
-            {gameState.currentLevel !== (gameState.gameQuestions.length-1) && <button className="next-level" onClick={() => goToNextLevel()}>Επόμενος γύρος</button>}
+            <button className="share" onClick={() => copyShareableString()}>Μοιράσου το σκόρ σου!</button>
+            {gameState.currentLevel !== (gameState.gameQuestions.length-1) && <button className="next-level" onClick={() => goToNextLevel()}>🎁 Επόμενος γύρος</button>}
 
             
           </div>}
@@ -161,7 +161,7 @@ export default function GamePage() {
           </div>
           <div style={{padding: "30px"}}>
               <div style={{textAlign: "center"}}>Επόμενη φωτογραφία σε:</div>
-              <div style={{fontSize: "30px", fontWeight: "bold", marginTop: "9px", textAlign: "center"}}>{nextGameTimer}</div>
+              <div style={{fontSize: "30px", fontWeight: "bold", marginTop: "9px", textAlign: "center"}}>🕰️ {nextGameTimer}</div>
           </div>
         </div>
       </main>
