@@ -156,13 +156,17 @@ export default function GamePage() {
 
             
           </div>}
-          <div style={{textAlign: "center", marginTop: "30px"}}>
-            <Link href={`https://www.google.com/maps/place/${gameState.gameQuestions[0].possibleAnswers[gameState.gameQuestions[0].correctAnswer].title},Cyprus`}>Μάθε περισσότερα!</Link>
+          {gameState.gameQuestions[gameState.currentLevel].correctAnswerIsFound() &&
+          <div>
+            <div style={{textAlign: "center", marginTop: "30px"}}>
+              <Link href={`https://www.google.com/maps/place/${gameState.gameQuestions[0].possibleAnswers[gameState.gameQuestions[0].correctAnswer].title},Cyprus`}>Μάθε περισσότερα!</Link>
+            </div>
+            <div style={{padding: "30px"}}>
+                <div style={{textAlign: "center"}}>Επόμενη φωτογραφία σε:</div>
+                <div style={{fontSize: "30px", fontWeight: "bold", marginTop: "9px", textAlign: "center"}}>🕰️ {nextGameTimer}</div>
+            </div>
           </div>
-          <div style={{padding: "30px"}}>
-              <div style={{textAlign: "center"}}>Επόμενη φωτογραφία σε:</div>
-              <div style={{fontSize: "30px", fontWeight: "bold", marginTop: "9px", textAlign: "center"}}>🕰️ {nextGameTimer}</div>
-          </div>
+          }
         </div>
       </main>
       <div id="toaster-wrapper">
