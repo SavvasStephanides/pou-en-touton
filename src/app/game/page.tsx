@@ -32,6 +32,7 @@ export default function GamePage() {
 
   const [gameState, setGameState] = useState(game)
   const [nextGameTimer, setNextGameTimer] = useState("")
+  const [sideMenuIsVisible, setSideMenuIsVisible] = useState(false)
 
   useEffect(() => {
     setTimeout(() => {
@@ -113,6 +114,11 @@ export default function GamePage() {
     }, 3000)
   }
 
+  function showSideMenu(){
+    setSideMenuIsVisible(true)
+    
+  }
+
   return (
     <div>
     {
@@ -132,7 +138,8 @@ export default function GamePage() {
           (adsbygoogle = window.adsbygoogle || []).push({});
       </script>`}}></div>
       
-      <header>
+      <header style={{maxWidth: "600px", margin: "auto", position: "relative"}}>
+        <button onClick={showSideMenu} style={{position: "absolute", left: "15px", backgroundColor: "white", border: "1px solid #eee", borderRadius: "15px"}}><img src={`${BASE_PATH}/hamburger.png`} alt="" style={{height: "30px"}}/></button>
         <img src={`${BASE_PATH}/pouentouto-logo.png`} alt="" />
       </header>
       <main>
@@ -174,6 +181,21 @@ export default function GamePage() {
 
         </div>
       </div>
+      <div style={{position: "absolute", left: 0, top: 0, width: "300px", backgroundColor: "white", height: "100%", borderRight: "1px solid #eee", display: sideMenuIsVisible ? "block" : "none", padding: "21px"}}>
+        <h2>Τζιάλλα παιχνίδκια!</h2>
+        <div style={{marginTop: "15px"}}>
+          <Link href={"https://savvas.me/xorkaton"} style={{display: "block", width: "100%"}}>
+            <img src={`${BASE_PATH}/xorkaton-logo.png`} alt="" style={{width: "150px"}}/>
+          </Link>
+        </div>
+
+        <h2 style={{marginTop: "30px"}}>Developer</h2>
+        <div style={{marginTop: "12px"}}>
+          <Link href={"https://forms.gle/iKYcxP7azDEUjgEm7"}>Contact developer</Link>
+        </div>
+        <button style={{position: "absolute", right: "12px", top: "12px", fontSize: "21px"}} onClick={() => setSideMenuIsVisible(false)}>X</button>
+      </div>
+      
     </div>
   )
 }
