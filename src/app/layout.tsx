@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Που εν τούτο;",
+  title: "Που εν τούτον;",
   description: "Που εν το χωρκό στη φωτογραφία;",
   openGraph: {
     type: "website",
