@@ -139,7 +139,7 @@ export default function GamePage() {
       </script>`}}></div>
       
       <header style={{maxWidth: "600px", margin: "auto", position: "relative"}}>
-        <button onClick={showSideMenu} style={{position: "absolute", left: "15px", backgroundColor: "white", border: "1px solid #eee", borderRadius: "15px"}}><img src={`${BASE_PATH}/hamburger.png`} alt="" style={{height: "30px"}}/></button>
+        <button onClick={showSideMenu} style={{position: "absolute", left: "15px", backgroundColor: "white", border: "1px solid #eee", borderRadius: "15px", cursor: "pointer"}}><img src={`${BASE_PATH}/hamburger.png`} alt="" style={{height: "30px"}}/></button>
         <img src={`${BASE_PATH}/pouentouto-logo.png`} alt="" />
       </header>
       <main>
@@ -189,9 +189,9 @@ export default function GamePage() {
           </Link>
         </div>
 
-        <h2 style={{marginTop: "30px"}}>Developer</h2>
-        <div style={{marginTop: "12px"}}>
-          <Link href={"https://forms.gle/iKYcxP7azDEUjgEm7"}>Contact developer</Link>
+        <h2 style={{marginTop: "30px"}}>Δημιουργός</h2>
+        <div style={{marginTop: "21px"}}>
+          <Link href={"/contact"} style={{border: "1px solid #ddd", padding: "6px", borderRadius: "12px", textDecoration: "none", color: "black"}}>Επικοινωνία με τον δημιουργό</Link>
         </div>
         <button style={{position: "absolute", right: "12px", top: "12px", fontSize: "21px"}} onClick={() => setSideMenuIsVisible(false)}>X</button>
       </div>
