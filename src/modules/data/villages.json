@@ -253,31 +253,36 @@
         "name": "Κορμακίτης",
         "population": 386,
         "district": "KYRENIA",
-        "id": 37
+        "id": 37,
+        "photoFilename": "v-37.jpg"
     },
     {
         "name": "Μανσούρα",
         "population": 9,
         "district": "NICOSIA",
-        "id": 38
+        "id": 38,
+        "photoFilename": "v-38.jpg"
     },
     {
         "name": "Παραμύθα",
         "population": 569,
         "district": "LIMASSOL",
-        "id": 39
+        "id": 39,
+        "photoFilename": "v-39.jpg"
     },
     {
         "name": "Καλό Χωριό",
         "population": 497,
         "district": "LIMASSOL",
-        "id": 40
+        "id": 40,
+        "photoFilename": "v-40.jpg"
     },
     {
         "name": "Άγιος Ηλίας Αμμοχώστου",
         "population": 315,
         "district": "FAMAGUSTA",
-        "id": 41
+        "id": 41,
+        "photoFilename": "v-41.jpg"
     },
     {
         "name": "Δύο Ποταμοί",
@@ -289,49 +294,57 @@
         "name": "Καλό Χωριό Καπούτη",
         "population": 243,
         "district": "NICOSIA",
-        "id": 43
+        "id": 43,
+        "photoFilename": "v-43.jpg"
     },
     {
         "name": "Μάμμαρη",
         "population": 1592,
         "district": "NICOSIA",
-        "id": 44
+        "id": 44,
+        "photoFilename": "v-44.jpg"
     },
     {
         "name": "Κοντέα",
         "population": 403,
         "district": "FAMAGUSTA",
-        "id": 45
+        "id": 45,
+        "photoFilename": "v-45.jpg"
     },
     {
         "name": "Κάτω Δευτερά",
         "population": 2054,
         "district": "NICOSIA",
-        "id": 46
+        "id": 46,
+        "photoFilename": "v-46.jpg"
     },
     {
         "name": "Μοναγρούλλι",
         "population": 536,
         "district": "LIMASSOL",
-        "id": 47
+        "id": 47,
+        "photoFilename": "v-47.jpg"
     },
     {
         "name": "Φοινικάρια",
         "population": 339,
         "district": "LIMASSOL",
-        "id": 48
+        "id": 48,
+        "photoFilename": "v-48.jpg"
     },
     {
         "name": "Αυγολίδα",
         "population": 47,
         "district": "FAMAGUSTA",
-        "id": 49
+        "id": 49,
+        "photoFilename": "v-49.jpg"
     },
     {
         "name": "Συγχαρί",
         "population": 125,
         "district": "KYRENIA",
-        "id": 50
+        "id": 50,
+        "photoFilename": "v-50.jpg"
     },
     {
         "name": "Άλωνα",
