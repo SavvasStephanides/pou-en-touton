@@ -419,13 +419,15 @@
         "name": "Μάσαρη",
         "population": 45,
         "district": "NICOSIA",
-        "id": 61
+        "id": 61,
+        "photoFilename": "v-61.jpg"
     },
     {
         "name": "Τρεις Ελιές",
         "population": 25,
         "district": "LIMASSOL",
-        "id": 62
+        "id": 62,
+        "photoFilename": "v-62.jpg"
     },
     {
         "name": "Κουρού Μοναστήρι",
@@ -437,7 +439,8 @@
         "name": "Κελλάκι",
         "population": 299,
         "district": "LIMASSOL",
-        "id": 64
+        "id": 64,
+        "photoFilename": "v-64.jpg"
     },
     {
         "name": "Μαργό",
@@ -449,25 +452,29 @@
         "name": "Αγγλισίδες",
         "population": 1146,
         "district": "LARNACA",
-        "id": 66
+        "id": 66,
+        "photoFilename": "v-66.jpg"
     },
     {
         "name": "Γερόλακκος",
         "population": 447,
         "district": "NICOSIA",
-        "id": 67
+        "id": 67,
+        "photoFilename": "v-67.jpg"
     },
     {
         "name": "Μηλιά Αμμοχώστου",
         "population": 253,
         "district": "FAMAGUSTA",
-        "id": 68
+        "id": 68,
+        "photoFilename": "v-68.jpg"
     },
     {
         "name": "Σίντα",
         "population": 289,
         "district": "FAMAGUSTA",
-        "id": 69
+        "id": 69,
+        "photoFilename": "v-69.jpg"
     },
     {
         "name": "Τρυπημένη",
@@ -491,7 +498,8 @@
         "name": "Μονή",
         "population": 622,
         "district": "LIMASSOL",
-        "id": 73
+        "id": 73,
+        "photoFilename": "v-73.jpg"
     },
     {
         "name": "Λιβάδια Λευκωσίας",
