@@ -350,25 +350,29 @@
         "name": "Άλωνα",
         "population": 67,
         "district": "NICOSIA",
-        "id": 51
+        "id": 51,
+        "photoFilename": "v-51.jpg"
     },
     {
         "name": "Άγιος Συμεών",
         "population": 271,
         "district": "FAMAGUSTA",
-        "id": 52
+        "id": 52,
+        "photoFilename": "v-52.jpg"
     },
     {
         "name": "Μηλικούρι",
         "population": 17,
         "district": "NICOSIA",
-        "id": 53
+        "id": 53,
+        "photoFilename": "v-53.jpg"
     },
     {
         "name": "Κατύδατα",
         "population": 114,
         "district": "NICOSIA",
-        "id": 54
+        "id": 54,
+        "photoFilename": "v-54.jpg"
     },
     {
         "name": "Ψυλλάτος",
@@ -380,31 +384,36 @@
         "name": "Άγιος Νικόλαος Αμμοχώστου",
         "population": 105,
         "district": "FAMAGUSTA",
-        "id": 56
+        "id": 56,
+        "photoFilename": "v-56.jpg"
     },
     {
         "name": "Άγιος Βασίλειος",
         "population": 195,
         "district": "NICOSIA",
-        "id": 57
+        "id": 57,
+        "photoFilename": "v-57.jpg"
     },
     {
         "name": "Κοινότητα Ριζοκάρπασου",
         "population": 1858,
         "district": "FAMAGUSTA",
-        "id": 58
+        "id": 58,
+        "photoFilename": "v-58.jpg"
     },
     {
         "name": "Μαθικολώνη",
         "population": 174,
         "district": "LIMASSOL",
-        "id": 59
+        "id": 59,
+        "photoFilename": "v-59.jpg"
     },
     {
         "name": "Μαλούντα",
         "population": 490,
         "district": "NICOSIA",
-        "id": 60
+        "id": 60,
+        "photoFilename": "v-60.jpg"
     },
     {
         "name": "Μάσαρη",
