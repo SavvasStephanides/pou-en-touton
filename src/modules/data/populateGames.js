@@ -27,7 +27,7 @@ const getRandomVillage = (props) => {
         .filter(v => v.photoFilename !== undefined)
 
     if(props){
-        villagesWithPhoto
+        villagesWithPhoto = villagesWithPhoto
         .filter(v => v.name !== props.villageNameToExclude)
     }
         
