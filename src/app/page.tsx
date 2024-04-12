@@ -9,7 +9,7 @@ export default function Home() {
       </div>
       
       <div style={{display: "flex"}}>
-        <Link href={"/game"} style={{display: "block", margin: "auto", marginTop: "30px", border: "1px solid #333", padding: "9px 12px", textDecoration: "none", borderRadius: "6px", color: "black", fontWeight: "bold"}}>Continue to game</Link>
+        <Link href={"/game"} style={{display: "block", margin: "auto", marginTop: "30px", border: "1px solid #333", padding: "9px 12px", textDecoration: "none", borderRadius: "6px", color: "black", fontWeight: "bold"}}>Πάμεν να παίξουμε!</Link>
       </div>
     </main>
   );
