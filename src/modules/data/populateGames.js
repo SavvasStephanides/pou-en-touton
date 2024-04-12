@@ -23,15 +23,22 @@ let ranges = {
 
 const getRandomVillage = (props) => {
 
-    let villagesWithPhoto = villages
-        .filter(v => v.photoFilename !== undefined)
+    let filteredVillages = [...villages]
 
     if(props){
-        villagesWithPhoto = villagesWithPhoto
-        .filter(v => v.name !== props.villageNameToExclude)
+        if(props.onlyWithPhotos){
+            console.log("Only with photos")
+            filteredVillages = filteredVillages
+                .filter(v => v.photoFilename !== undefined)
+        }
+        
+        if(props.villageNameToExclude){
+            filteredVillages = filteredVillages
+                .filter(v => v.name !== props.villageNameToExclude)
+        }
     }
         
-    return villagesWithPhoto[Math.floor(Math.random() * villagesWithPhoto.length)]
+    return filteredVillages[Math.floor(Math.random() * filteredVillages.length)]
 }
 
 const getRandomVillageByDistrict = (districtId) => {
@@ -143,6 +150,6 @@ function getGameFromVillage(village) {
 
 const weeklyRanges = ["MEDIUM", "BIG", "TINY", "SMALL", "TINY", "MEDIUM", "BIG"]
 
-let village = getRandomVillage()
+let village = getRandomVillage({onlyWithPhotos: true})
 let game = getGameFromVillage(village)
 fs.writeFileSync("game.json", JSON.stringify(game))
