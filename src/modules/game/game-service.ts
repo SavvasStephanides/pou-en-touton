@@ -5,7 +5,7 @@ const game = require("../data/game.json")
 
 export default class GameService{
     jsonToGame(jsonString: any): Game{
-        let gameJsonObject = JSON.parse(jsonString)        
+        let gameJsonObject = JSON.parse(jsonString)                
         
         let game: Game = new Game()
         game.currentLevel = gameJsonObject.currentLevel

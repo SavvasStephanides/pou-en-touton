@@ -72,4 +72,38 @@ describe("Game Question", () => {
         expect(fakeGameQuestion.correctAnswerIsFound()).toBe(false)
 
     })
+
+    it("toShareableString should return the correct string when wrong answers are present", () => {
+        let fakePossibleAnswer1 = new PossibleAnswer("Answer title 1", "WRONG")
+        let fakePossibleAnswer2 = new PossibleAnswer("Answer title 2", "WRONG")
+        let fakePossibleAnswer3 = new PossibleAnswer("Answer title 3", "CORRECT")
+        let fakePossibleAnswer4 = new PossibleAnswer("Answer title 4", "WRONG")
+        let possibleAnswers: PossibleAnswer[] = [fakePossibleAnswer1, fakePossibleAnswer2, fakePossibleAnswer3, fakePossibleAnswer4]
+
+        let fakeGameQuestion = new GameQuestion("photo.jpg", "Question?", possibleAnswers, 0, "😬")
+
+        let expectedShareableString = `😬 🟥🟥🟥🟩`
+        let actualShareableString = fakeGameQuestion.toShareableString()
+
+        expect(actualShareableString).toBe(expectedShareableString)
+
+
+    })
+
+    it("toShareableString should return a string with a confetti emoji if no wrong answers are present", () => {
+        let fakePossibleAnswer1 = new PossibleAnswer("Answer title 1", "CORRECT")
+        let fakePossibleAnswer2 = new PossibleAnswer("Answer title 2", "none")
+        let fakePossibleAnswer3 = new PossibleAnswer("Answer title 3", "none")
+        let fakePossibleAnswer4 = new PossibleAnswer("Answer title 4", "none")
+        let possibleAnswers: PossibleAnswer[] = [fakePossibleAnswer1, fakePossibleAnswer2, fakePossibleAnswer3, fakePossibleAnswer4]
+
+        let fakeGameQuestion = new GameQuestion("photo.jpg", "Question?", possibleAnswers, 0, "😬")
+
+        let expectedShareableString = `😬 🎉`
+        let actualShareableString = fakeGameQuestion.toShareableString()
+
+        expect(actualShareableString).toBe(expectedShareableString)
+
+
+    })
 })
