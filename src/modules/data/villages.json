@@ -480,19 +480,22 @@
         "name": "Τρυπημένη",
         "population": 254,
         "district": "FAMAGUSTA",
-        "id": 70
+        "id": 70,
+        "photoFilename": "v-70.jpg"
     },
     {
         "name": "Γαστριά",
         "population": 247,
         "district": "FAMAGUSTA",
-        "id": 71
+        "id": 71,
+        "photoFilename": "v-71.jpg"
     },
     {
         "name": "Πάνω Κυβίδες",
         "population": 707,
         "district": "LIMASSOL",
-        "id": 72
+        "id": 72,
+        "photoFilename": "v-72.jpg"
     },
     {
         "name": "Μονή",
@@ -505,31 +508,36 @@
         "name": "Λιβάδια Λευκωσίας",
         "population": 18,
         "district": "NICOSIA",
-        "id": 74
+        "id": 74,
+        "photoFilename": "v-74.jpg"
     },
     {
         "name": "Αρεδιού",
         "population": 1225,
         "district": "NICOSIA",
-        "id": 75
+        "id": 75,
+        "photoFilename": "v-75.jpg"
     },
     {
         "name": "Γεράσα",
         "population": 69,
         "district": "LIMASSOL",
-        "id": 76
+        "id": 76,
+        "photoFilename": "v-76.jpg"
     },
     {
         "name": "Καμινάρια",
         "population": 44,
         "district": "LIMASSOL",
-        "id": 77
+        "id": 77,
+        "photoFilename": "v-77.jpg"
     },
     {
         "name": "Μαθιάτης",
         "population": 646,
         "district": "NICOSIA",
-        "id": 78
+        "id": 78,
+        "photoFilename": "v-78.jpg"
     },
     {
         "name": "Άρτεμη Αμμοχώστου",
@@ -541,7 +549,8 @@
         "name": "Καλιάνα",
         "population": 200,
         "district": "NICOSIA",
-        "id": 80
+        "id": 80,
+        "photoFilename": "v-80.jpg"
     },
     {
         "name": "Φτερικούδι",
