@@ -1,3795 +1,3798 @@
 [
-    {
-        "name": "Κάτω Ζώδεια",
-        "population": 497,
-        "district": "NICOSIA",
-        "id": 1,
-        "photoFilename": "1670834891-04644.jpg"
-    },
-    {
-        "name": "Άγιος Επίκτητος Κερύνειας",
-        "population": 1252,
-        "district": "KYRENIA",
-        "id": 2,
-        "photoFilename": "ag-epik.jpg"
-    },
-    {
-        "name": "Κνώδαρα",
-        "population": 439,
-        "district": "FAMAGUSTA",
-        "id": 3,
-        "photoFilename": "1671113101-16897.jpg"
-    },
-    {
-        "name": "Λόφου",
-        "population": 46,
-        "district": "LIMASSOL",
-        "id": 4,
-        "photoFilename": "l-lim.jpg"
-    },
-    {
-        "name": "Δαυλός",
-        "population": 359,
-        "district": "FAMAGUSTA",
-        "id": 5,
-        "photoFilename": "283745628736583276.jpg"
-    },
-    {
-        "name": "Μελούντα",
-        "population": 73,
-        "district": "FAMAGUSTA",
-        "id": 6,
-        "photoFilename": "1623654402-24216.jpg"
-    },
-    {
-        "name": "Τόχνη",
-        "population": 424,
-        "district": "LARNACA",
-        "id": 7,
-        "photoFilename": "1681217708-11553.jpg"
-    },
-    {
-        "name": "Τραχυπέδουλα",
-        "population": 64,
-        "district": "PAPHOS",
-        "id": 8,
-        "photoFilename": "1687850577-13884.jpg"
-    },
-    {
-        "name": "Φοινί",
-        "population": 391,
-        "district": "LIMASSOL",
-        "id": 9,
-        "photoFilename": "hp_theme_02.jpg"
-    },
-    {
-        "name": "Καλοπαναγιώτης",
-        "population": 263,
-        "district": "NICOSIA",
-        "id": 10,
-        "photoFilename": "43c68c4dfc1cf29f78205f42ad9d79f7_XL.jpg"
-    },
-    {
-        "name": "Αγροκηπιά",
-        "population": 509,
-        "district": "NICOSIA",
-        "id": 11,
-        "photoFilename": "slider1-1500x578.jpg"
-    },
-    {
-        "name": "Κοινότητα Έξω Μετόχι",
-        "population": 332,
-        "district": "NICOSIA",
-        "id": 12,
-        "photoFilename": "326797490_651079903372808_5169134787782161756_n.jpg"
-    },
-    {
-        "name": "Άγιος Θεόδωρος Αμμοχώστου",
-        "population": 315,
-        "district": "FAMAGUSTA",
-        "id": 13,
-        "photoFilename": "1661415345-13733.jpg"
-    },
-    {
-        "name": "Κώμη Κεπίρ",
-        "population": 714,
-        "district": "FAMAGUSTA",
-        "id": 14,
-        "photoFilename": "1663848407-32589.jpg"
-    },
-    {
-        "name": "Αρναδί",
-        "population": 193,
-        "district": "FAMAGUSTA",
-        "id": 15,
-        "photoFilename": "v-15.jpg"
-    },
-    {
-        "name": "Άγιος Αθανάσιος",
-        "population": 14578,
-        "district": "LIMASSOL",
-        "id": 16,
-        "photoFilename": "v-16.jpg"
-    },
-    {
-        "name": "Ακρωτήρι",
-        "population": 870,
-        "district": "LIMASSOL",
-        "id": 17,
-        "photoFilename": "lady-mile-beach.jpg"
-    },
-    {
-        "name": "Λύμπια",
-        "population": 2694,
-        "district": "NICOSIA",
-        "id": 18,
-        "photoFilename": "v-18.jpg"
-    },
-    {
-        "name": "Θέρμια",
-        "population": 63,
-        "district": "KYRENIA",
-        "id": 19,
-        "photoFilename": "v-19.jpg"
-    },
-    {
-        "name": "Ασκάς",
-        "population": 170,
-        "district": "NICOSIA",
-        "id": 20,
-        "photoFilename": "v-20.jpg"
-    },
-    {
-        "name": "Μακράσυκα",
-        "population": 140,
-        "district": "FAMAGUSTA",
-        "id": 21,
-        "photoFilename": "v-21.jpg"
-    },
-    {
-        "name": "Κοιλάνι",
-        "population": 216,
-        "district": "LIMASSOL",
-        "id": 22,
-        "photoFilename": "v-22.jpg"
-    },
-    {
-        "name": "Αστρομερίτης",
-        "population": 2307,
-        "district": "NICOSIA",
-        "id": 23,
-        "photoFilename": "v-23.jpg"
-    },
-    {
-        "name": "Άγιος Γεώργιος",
-        "population": 26,
-        "district": "NICOSIA",
-        "id": 24
-    },
-    {
-        "name": "Κοινότητα Έγκωμης Αμμοχώστου",
-        "population": 159,
-        "district": "FAMAGUSTA",
-        "id": 25,
-        "photoFilename": "v-25.jpg"
-    },
-    {
-        "name": "Καλό Χωριό Σολέας",
-        "population": 174,
-        "district": "NICOSIA",
-        "id": 26,
-        "photoFilename": "v-26.jpg"
-    },
-    {
-        "name": "Κλήρου",
-        "population": 1847,
-        "district": "NICOSIA",
-        "id": 27,
-        "photoFilename": "v-27.png"
-    },
-    {
-        "name": "Κρηνί",
-        "population": 100,
-        "district": "KYRENIA",
-        "id": 28,
-        "photoFilename": "v-28.jpg"
-    },
-    {
-        "name": "Άγιος Δομέτιος",
-        "population": 12456,
-        "district": "NICOSIA",
-        "id": 29,
-        "photoFilename": "v-29.jpg"
-    },
-    {
-        "name": "Λακατάμια",
-        "population": 38345,
-        "district": "NICOSIA",
-        "id": 30,
-        "photoFilename": "v-30.jpg"
-    },
-    {
-        "name": "Δορά",
-        "population": 145,
-        "district": "LIMASSOL",
-        "id": 31,
-        "photoFilename": "v-31.jpg"
-    },
-    {
-        "name": "Κρίδια",
-        "population": 136,
-        "district": "FAMAGUSTA",
-        "id": 32,
-        "photoFilename": "v-32.jpg"
-    },
-    {
-        "name": "Αγία Βαρβάρα",
-        "population": 2204,
-        "district": "NICOSIA",
-        "id": 33,
-        "photoFilename": "v-33.jpg"
-    },
-    {
-        "name": "Μένικο",
-        "population": 1023,
-        "district": "NICOSIA",
-        "id": 34,
-        "photoFilename": "v-34.jpg"
-    },
-    {
-        "name": "Λαζανιάς",
-        "population": 39,
-        "district": "NICOSIA",
-        "id": 35
-    },
-    {
-        "name": "Χοιροκοιτία",
-        "population": 632,
-        "district": "LARNACA",
-        "id": 36,
-        "photoFilename": "v-36.jpg"
-    },
-    {
-        "name": "Κορμακίτης",
-        "population": 386,
-        "district": "KYRENIA",
-        "id": 37,
-        "photoFilename": "v-37.jpg"
-    },
-    {
-        "name": "Μανσούρα",
-        "population": 9,
-        "district": "NICOSIA",
-        "id": 38,
-        "photoFilename": "v-38.jpg"
-    },
-    {
-        "name": "Παραμύθα",
-        "population": 569,
-        "district": "LIMASSOL",
-        "id": 39,
-        "photoFilename": "v-39.jpg"
-    },
-    {
-        "name": "Καλό Χωριό",
-        "population": 497,
-        "district": "LIMASSOL",
-        "id": 40,
-        "photoFilename": "v-40.jpg"
-    },
-    {
-        "name": "Άγιος Ηλίας Αμμοχώστου",
-        "population": 315,
-        "district": "FAMAGUSTA",
-        "id": 41,
-        "photoFilename": "v-41.jpg"
-    },
-    {
-        "name": "Δύο Ποταμοί",
-        "population": 5,
-        "district": "NICOSIA",
-        "id": 42
-    },
-    {
-        "name": "Καλό Χωριό Καπούτη",
-        "population": 243,
-        "district": "NICOSIA",
-        "id": 43,
-        "photoFilename": "v-43.jpg"
-    },
-    {
-        "name": "Μάμμαρη",
-        "population": 1592,
-        "district": "NICOSIA",
-        "id": 44,
-        "photoFilename": "v-44.jpg"
-    },
-    {
-        "name": "Κοντέα",
-        "population": 403,
-        "district": "FAMAGUSTA",
-        "id": 45,
-        "photoFilename": "v-45.jpg"
-    },
-    {
-        "name": "Κάτω Δευτερά",
-        "population": 2054,
-        "district": "NICOSIA",
-        "id": 46,
-        "photoFilename": "v-46.jpg"
-    },
-    {
-        "name": "Μοναγρούλλι",
-        "population": 536,
-        "district": "LIMASSOL",
-        "id": 47,
-        "photoFilename": "v-47.jpg"
-    },
-    {
-        "name": "Φοινικάρια",
-        "population": 339,
-        "district": "LIMASSOL",
-        "id": 48,
-        "photoFilename": "v-48.jpg"
-    },
-    {
-        "name": "Αυγολίδα",
-        "population": 47,
-        "district": "FAMAGUSTA",
-        "id": 49,
-        "photoFilename": "v-49.jpg"
-    },
-    {
-        "name": "Συγχαρί",
-        "population": 125,
-        "district": "KYRENIA",
-        "id": 50,
-        "photoFilename": "v-50.jpg"
-    },
-    {
-        "name": "Άλωνα",
-        "population": 67,
-        "district": "NICOSIA",
-        "id": 51,
-        "photoFilename": "v-51.jpg"
-    },
-    {
-        "name": "Άγιος Συμεών",
-        "population": 271,
-        "district": "FAMAGUSTA",
-        "id": 52,
-        "photoFilename": "v-52.jpg"
-    },
-    {
-        "name": "Μηλικούρι",
-        "population": 17,
-        "district": "NICOSIA",
-        "id": 53,
-        "photoFilename": "v-53.jpg"
-    },
-    {
-        "name": "Κατύδατα",
-        "population": 114,
-        "district": "NICOSIA",
-        "id": 54,
-        "photoFilename": "v-54.jpg"
-    },
-    {
-        "name": "Ψυλλάτος",
-        "population": 334,
-        "district": "FAMAGUSTA",
-        "id": 55
-    },
-    {
-        "name": "Άγιος Νικόλαος Αμμοχώστου",
-        "population": 105,
-        "district": "FAMAGUSTA",
-        "id": 56,
-        "photoFilename": "v-56.jpg"
-    },
-    {
-        "name": "Άγιος Βασίλειος",
-        "population": 195,
-        "district": "NICOSIA",
-        "id": 57,
-        "photoFilename": "v-57.jpg"
-    },
-    {
-        "name": "Κοινότητα Ριζοκάρπασου",
-        "population": 1858,
-        "district": "FAMAGUSTA",
-        "id": 58,
-        "photoFilename": "v-58.jpg"
-    },
-    {
-        "name": "Μαθικολώνη",
-        "population": 174,
-        "district": "LIMASSOL",
-        "id": 59,
-        "photoFilename": "v-59.jpg"
-    },
-    {
-        "name": "Μαλούντα",
-        "population": 490,
-        "district": "NICOSIA",
-        "id": 60,
-        "photoFilename": "v-60.jpg"
-    },
-    {
-        "name": "Μάσαρη",
-        "population": 45,
-        "district": "NICOSIA",
-        "id": 61,
-        "photoFilename": "v-61.jpg"
-    },
-    {
-        "name": "Τρεις Ελιές",
-        "population": 25,
-        "district": "LIMASSOL",
-        "id": 62,
-        "photoFilename": "v-62.jpg"
-    },
-    {
-        "name": "Κουρού Μοναστήρι",
-        "population": 64,
-        "district": "NICOSIA",
-        "id": 63
-    },
-    {
-        "name": "Κελλάκι",
-        "population": 299,
-        "district": "LIMASSOL",
-        "id": 64,
-        "photoFilename": "v-64.jpg"
-    },
-    {
-        "name": "Μαργό",
-        "population": 17,
-        "district": "NICOSIA",
-        "id": 65
-    },
-    {
-        "name": "Αγγλισίδες",
-        "population": 1146,
-        "district": "LARNACA",
-        "id": 66,
-        "photoFilename": "v-66.jpg"
-    },
-    {
-        "name": "Γερόλακκος",
-        "population": 447,
-        "district": "NICOSIA",
-        "id": 67,
-        "photoFilename": "v-67.jpg"
-    },
-    {
-        "name": "Μηλιά Αμμοχώστου",
-        "population": 253,
-        "district": "FAMAGUSTA",
-        "id": 68,
-        "photoFilename": "v-68.jpg"
-    },
-    {
-        "name": "Σίντα",
-        "population": 289,
-        "district": "FAMAGUSTA",
-        "id": 69,
-        "photoFilename": "v-69.jpg"
-    },
-    {
-        "name": "Τρυπημένη",
-        "population": 254,
-        "district": "FAMAGUSTA",
-        "id": 70,
-        "photoFilename": "v-70.jpg"
-    },
-    {
-        "name": "Γαστριά",
-        "population": 247,
-        "district": "FAMAGUSTA",
-        "id": 71,
-        "photoFilename": "v-71.jpg"
-    },
-    {
-        "name": "Πάνω Κυβίδες",
-        "population": 707,
-        "district": "LIMASSOL",
-        "id": 72,
-        "photoFilename": "v-72.jpg"
-    },
-    {
-        "name": "Μονή",
-        "population": 622,
-        "district": "LIMASSOL",
-        "id": 73,
-        "photoFilename": "v-73.jpg"
-    },
-    {
-        "name": "Λιβάδια Λευκωσίας",
-        "population": 18,
-        "district": "NICOSIA",
-        "id": 74,
-        "photoFilename": "v-74.jpg"
-    },
-    {
-        "name": "Αρεδιού",
-        "population": 1225,
-        "district": "NICOSIA",
-        "id": 75,
-        "photoFilename": "v-75.jpg"
-    },
-    {
-        "name": "Γεράσα",
-        "population": 69,
-        "district": "LIMASSOL",
-        "id": 76,
-        "photoFilename": "v-76.jpg"
-    },
-    {
-        "name": "Καμινάρια",
-        "population": 44,
-        "district": "LIMASSOL",
-        "id": 77,
-        "photoFilename": "v-77.jpg"
-    },
-    {
-        "name": "Μαθιάτης",
-        "population": 646,
-        "district": "NICOSIA",
-        "id": 78,
-        "photoFilename": "v-78.jpg"
-    },
-    {
-        "name": "Άρτεμη Αμμοχώστου",
-        "population": 90,
-        "district": "FAMAGUSTA",
-        "id": 79
-    },
-    {
-        "name": "Καλιάνα",
-        "population": 200,
-        "district": "NICOSIA",
-        "id": 80,
-        "photoFilename": "v-80.jpg"
-    },
-    {
-        "name": "Φτερικούδι",
-        "population": 90,
-        "district": "NICOSIA",
-        "id": 81
-    },
-    {
-        "name": "Καταλιόντας",
-        "population": 24,
-        "district": "NICOSIA",
-        "id": 82
-    },
-    {
-        "name": "Ανδρολύκου",
-        "population": 34,
-        "district": "PAPHOS",
-        "id": 83
-    },
-    {
-        "name": "Παραμάλι",
-        "population": 220,
-        "district": "LIMASSOL",
-        "id": 84
-    },
-    {
-        "name": "Τραχώνι",
-        "population": 3952,
-        "district": "LIMASSOL",
-        "id": 85
-    },
-    {
-        "name": "Αργάκα",
-        "population": 1078,
-        "district": "PAPHOS",
-        "id": 86
-    },
-    {
-        "name": "Γαλαταριά",
-        "population": 56,
-        "district": "PAPHOS",
-        "id": 87
-    },
-    {
-        "name": "Άγιος Ιωάννης Μαλούντας",
-        "population": 472,
-        "district": "NICOSIA",
-        "id": 88
-    },
-    {
-        "name": "Κώμα του Γιαλού",
-        "population": 482,
-        "district": "FAMAGUSTA",
-        "id": 89
-    },
-    {
-        "name": "Λυθράγκωμη",
-        "population": 194,
-        "district": "FAMAGUSTA",
-        "id": 90
-    },
-    {
-        "name": "Τσερκέζ Τσιφτλίκ",
-        "population": 50,
-        "district": "LIMASSOL",
-        "id": 91
-    },
-    {
-        "name": "Βασίλι",
-        "population": 183,
-        "district": "FAMAGUSTA",
-        "id": 92
-    },
-    {
-        "name": "Κάτω Πύργος",
-        "population": 1036,
-        "district": "NICOSIA",
-        "id": 93
-    },
-    {
-        "name": "Μάνδρες Λευκωσίας",
-        "population": 113,
-        "district": "NICOSIA",
-        "id": 94
-    },
-    {
-        "name": "Ελεδιώ",
-        "population": 44,
-        "district": "PAPHOS",
-        "id": 95
-    },
-    {
-        "name": "Εργάτες",
-        "population": 1792,
-        "district": "NICOSIA",
-        "id": 96
-    },
-    {
-        "name": "Κάτω Ακουρδάλια",
-        "population": 65,
-        "district": "PAPHOS",
-        "id": 97
-    },
-    {
-        "name": "Πεντάγεια",
-        "population": 84,
-        "district": "NICOSIA",
-        "id": 98
-    },
-    {
-        "name": "Γερακιές",
-        "population": 75,
-        "district": "NICOSIA",
-        "id": 99
-    },
-    {
-        "name": "Τράχωνας",
-        "population": 179,
-        "district": "NICOSIA",
-        "id": 100
-    },
-    {
-        "name": "Γαλάτεια (Κύπρος)",
-        "population": 596,
-        "district": "FAMAGUSTA",
-        "id": 101
-    },
-    {
-        "name": "Καρπάσια",
-        "population": 63,
-        "district": "KYRENIA",
-        "id": 102
-    },
-    {
-        "name": "Άγιοι Τριμιθιάς",
-        "population": 1529,
-        "district": "NICOSIA",
-        "id": 103
-    },
-    {
-        "name": "Κάμπος",
-        "population": 271,
-        "district": "NICOSIA",
-        "id": 104
-    },
-    {
-        "name": "Δήμος Αμμοχώστου",
-        "population": 658,
-        "district": "FAMAGUSTA",
-        "id": 105
-    },
-    {
-        "name": "Ακαπνού",
-        "population": 20,
-        "district": "LIMASSOL",
-        "id": 106
-    },
-    {
-        "name": "Δήμος Λαπήθου",
-        "population": 2370,
-        "district": "KYRENIA",
-        "id": 107
-    },
-    {
-        "name": "Λάγια",
-        "population": 28,
-        "district": "LARNACA",
-        "id": 108
-    },
-    {
-        "name": "Μπογάζι",
-        "population": 15,
-        "district": "FAMAGUSTA",
-        "id": 109
-    },
-    {
-        "name": "Γεροσκήπου",
-        "population": 7878,
-        "district": "PAPHOS",
-        "id": 110
-    },
-    {
-        "name": "Λάσα Πάφου",
-        "population": 67,
-        "district": "PAPHOS",
-        "id": 111
-    },
-    {
-        "name": "Τρόοδος",
-        "population": 0,
-        "district": "LIMASSOL",
-        "id": 112
-    },
-    {
-        "name": "Λουτρός",
-        "population": 143,
-        "district": "NICOSIA",
-        "id": 113
-    },
-    {
-        "name": "Μεσόγη",
-        "population": 1689,
-        "district": "PAPHOS",
-        "id": 114
-    },
-    {
-        "name": "Μάρωνας",
-        "population": 0,
-        "district": "PAPHOS",
-        "id": 115
-    },
-    {
-        "name": "Καράκουμι",
-        "population": 43,
-        "district": "KYRENIA",
-        "id": 116
-    },
-    {
-        "name": "Λατσιά",
-        "population": 16774,
-        "district": "NICOSIA",
-        "id": 117
-    },
-    {
-        "name": "Τρούλλοι",
-        "population": 1169,
-        "district": "LARNACA",
-        "id": 118
-    },
-    {
-        "name": "Κοινότητα Άγιος Ευστάθιος Αμμοχώστου",
-        "population": 78,
-        "district": "FAMAGUSTA",
-        "id": 119
-    },
-    {
-        "name": "Σταυροκόννου",
-        "population": 56,
-        "district": "PAPHOS",
-        "id": 120
-    },
-    {
-        "name": "Αγία Μαρίνα Σκυλλούρας",
-        "population": 74,
-        "district": "NICOSIA",
-        "id": 121
-    },
-    {
-        "name": "Άγιος Νικόλαος Πάφου",
-        "population": 61,
-        "district": "PAPHOS",
-        "id": 122
-    },
-    {
-        "name": "Κολόσσι",
-        "population": 5651,
-        "district": "LIMASSOL",
-        "id": 123
-    },
-    {
-        "name": "Έμπα",
-        "population": 4855,
-        "district": "PAPHOS",
-        "id": 124
-    },
-    {
-        "name": "Πέγεια",
-        "population": 3953,
-        "district": "PAPHOS",
-        "id": 125
-    },
-    {
-        "name": "Μαρί",
-        "population": 158,
-        "district": "LARNACA",
-        "id": 126
-    },
-    {
-        "name": "Πωμός",
-        "population": 448,
-        "district": "PAPHOS",
-        "id": 127
-    },
-    {
-        "name": "Κοινότητα Ξερόβουνος",
-        "population": 227,
-        "district": "NICOSIA",
-        "id": 128
-    },
-    {
-        "name": "Αληθινού",
-        "population": 9,
-        "district": "NICOSIA",
-        "id": 129
-    },
-    {
-        "name": "Κέδαρες",
-        "population": 80,
-        "district": "PAPHOS",
-        "id": 130
-    },
-    {
-        "name": "Αθηένου",
-        "population": 4996,
-        "district": "LARNACA",
-        "id": 131,
-        "photoFilename": "athienou.jpeg"
-    },
-    {
-        "name": "Λαγουδερά",
-        "population": 84,
-        "district": "NICOSIA",
-        "id": 132
-    },
-    {
-        "name": "Διερώνα",
-        "population": 192,
-        "district": "LIMASSOL",
-        "id": 133
-    },
-    {
-        "name": "Αφάνεια",
-        "population": 355,
-        "district": "FAMAGUSTA",
-        "id": 134
-    },
-    {
-        "name": "Καλογραία",
-        "population": 283,
-        "district": "KYRENIA",
-        "id": 135
-    },
-    {
-        "name": "Αγριδάκι",
-        "population": 165,
-        "district": "KYRENIA",
-        "id": 136,
-        "photoFilename": "agraki.jpg"
-    },
-    {
-        "name": "Συλίκου",
-        "population": 137,
-        "district": "LIMASSOL",
-        "id": 137
-    },
-    {
-        "name": "Φασούλα Κελοκεδάρων",
-        "population": 56,
-        "district": "PAPHOS",
-        "id": 138
-    },
-    {
-        "name": "Ακανθού",
-        "population": 1162,
-        "district": "FAMAGUSTA",
-        "id": 139
-    },
-    {
-        "name": "Φλάσου",
-        "population": 240,
-        "district": "NICOSIA",
-        "id": 140
-    },
-    {
-        "name": "Γέναγρα",
-        "population": 381,
-        "district": "FAMAGUSTA",
-        "id": 141
-    },
-    {
-        "name": "Ληνού",
-        "population": 161,
-        "district": "NICOSIA",
-        "id": 142
-    },
-    {
-        "name": "Μέσανα",
-        "population": 31,
-        "district": "PAPHOS",
-        "id": 143
-    },
-    {
-        "name": "Δήμος Δρομολαξιάς-Μενεού",
-        "population": 6689,
-        "district": "LARNACA",
-        "id": 144
-    },
-    {
-        "name": "Ορούντα",
-        "population": 604,
-        "district": "NICOSIA",
-        "id": 145
-    },
-    {
-        "name": "Μότιδες",
-        "population": 31,
-        "district": "KYRENIA",
-        "id": 146
-    },
-    {
-        "name": "Αγία Μαρινούδα",
-        "population": 266,
-        "district": "PAPHOS",
-        "id": 147
-    },
-    {
-        "name": "Άγιος Θεόδωρος Σκαρίνου",
-        "population": 663,
-        "district": "LARNACA",
-        "id": 148
-    },
-    {
-        "name": "Μανδριά",
-        "population": 107,
-        "district": "LIMASSOL",
-        "id": 149
-    },
-    {
-        "name": "Ασώματος",
-        "population": 726,
-        "district": "LIMASSOL",
-        "id": 150
-    },
-    {
-        "name": "Κάτω Λεύκαρα",
-        "population": 128,
-        "district": "LARNACA",
-        "id": 151
-    },
-    {
-        "name": "Μπέικιοϊ",
-        "population": 191,
-        "district": "NICOSIA",
-        "id": 152
-    },
-    {
-        "name": "Μόρα",
-        "population": 238,
-        "district": "NICOSIA",
-        "id": 153
-    },
-    {
-        "name": "Κοινότητα Κόκκινα",
-        "population": 155,
-        "district": "NICOSIA",
-        "id": 154
-    },
-    {
-        "name": "Φυλλιά",
-        "population": 153,
-        "district": "NICOSIA",
-        "id": 155
-    },
-    {
-        "name": "Στατός-Άγιος Φώτιος",
-        "population": 243,
-        "district": "PAPHOS",
-        "id": 156
-    },
-    {
-        "name": "Λουρουκίνα",
-        "population": 11,
-        "district": "NICOSIA",
-        "id": 157
-    },
-    {
-        "name": "Ψεματισμένος",
-        "population": 271,
-        "district": "LARNACA",
-        "id": 158
-    },
-    {
-        "name": "Περιστερώνα Χρυσοχούς",
-        "population": 302,
-        "district": "PAPHOS",
-        "id": 159
-    },
-    {
-        "name": "Μενόγια",
-        "population": 50,
-        "district": "LARNACA",
-        "id": 160
-    },
-    {
-        "name": "Βουνό",
-        "population": 63,
-        "district": "KYRENIA",
-        "id": 161,
-        "photoFilename": "vnky.jpg"
-    },
-    {
-        "name": "Πενταλιά",
-        "population": 63,
-        "district": "PAPHOS",
-        "id": 162
-    },
-    {
-        "name": "Μουτουλλάς",
-        "population": 174,
-        "district": "NICOSIA",
-        "id": 163
-    },
-    {
-        "name": "Αργάκι",
-        "population": 451,
-        "district": "NICOSIA",
-        "id": 164
-    },
-    {
-        "name": "Κάτω Δίκωμο",
-        "population": 415,
-        "district": "KYRENIA",
-        "id": 165
-    },
-    {
-        "name": "Σανίδα",
-        "population": 42,
-        "district": "LIMASSOL",
-        "id": 166,
-        "photoFilename": "sanlem.jpg"
-    },
-    {
-        "name": "Περιστερώνα Αμμοχώστου",
-        "population": 450,
-        "district": "FAMAGUSTA",
-        "id": 167
-    },
-    {
-        "name": "Αναφωτία",
-        "population": 790,
-        "district": "LARNACA",
-        "id": 168
-    },
-    {
-        "name": "Αλόδα",
-        "population": 34,
-        "district": "FAMAGUSTA",
-        "id": 169
-    },
-    {
-        "name": "Συνοικισμός Ανθούπολης",
-        "population": 1756,
-        "district": "NICOSIA",
-        "id": 170
-    },
-    {
-        "name": "Πραστειό Κελοκεδάρων",
-        "population": 8,
-        "district": "PAPHOS",
-        "id": 171
-    },
-    {
-        "name": "Ορά",
-        "population": 206,
-        "district": "LARNACA",
-        "id": 172
-    },
-    {
-        "name": "Δήμος Λευκωσίας",
-        "population": 55014,
-        "district": "NICOSIA",
-        "id": 173
-    },
-    {
-        "name": "Περιβόλια του Τρικώμου",
-        "population": 73,
-        "district": "FAMAGUSTA",
-        "id": 174
-    },
-    {
-        "name": "Μαζωτός",
-        "population": 832,
-        "district": "LARNACA",
-        "id": 175
-    },
-    {
-        "name": "Μοσφιλωτή",
-        "population": 1342,
-        "district": "LARNACA",
-        "id": 176
-    },
-    {
-        "name": "Ασώματος Κερύνειας",
-        "population": 191,
-        "district": "KYRENIA",
-        "id": 177,
-        "photoFilename": "asmtky.jpg"
-    },
-    {
-        "name": "Πάνω Κουτραφάς",
-        "population": 4,
-        "district": "NICOSIA",
-        "id": 178
-    },
-    {
-        "name": "Γεράνι Αμμοχώστου",
-        "population": 141,
-        "district": "FAMAGUSTA",
-        "id": 179
-    },
-    {
-        "name": "Φιλούσα Χρυσοχούς",
-        "population": 31,
-        "district": "PAPHOS",
-        "id": 180
-    },
-    {
-        "name": "Τύμβου",
-        "population": 278,
-        "district": "NICOSIA",
-        "id": 181
-    },
-    {
-        "name": "Αναλιόντας",
-        "population": 443,
-        "district": "NICOSIA",
-        "id": 182
-    },
-    {
-        "name": "Περβόλια Λάρνακας",
-        "population": 3009,
-        "district": "LARNACA",
-        "id": 183
-    },
-    {
-        "name": "Φροδίσια",
-        "population": 297,
-        "district": "NICOSIA",
-        "id": 184
-    },
-    {
-        "name": "Πάνω Πύργος",
-        "population": 22,
-        "district": "NICOSIA",
-        "id": 185
-    },
-    {
-        "name": "Φασλί",
-        "population": 0,
-        "district": "PAPHOS",
-        "id": 186
-    },
-    {
-        "name": "Καννάβια",
-        "population": 129,
-        "district": "NICOSIA",
-        "id": 187
-    },
-    {
-        "name": "Πεντάκωμο",
-        "population": 644,
-        "district": "LIMASSOL",
-        "id": 188
-    },
-    {
-        "name": "Κούκλια",
-        "population": 892,
-        "district": "PAPHOS",
-        "id": 189
-    },
-    {
-        "name": "Πάνω Πολεμίδια",
-        "population": 3470,
-        "district": "LIMASSOL",
-        "id": 190
-    },
-    {
-        "name": "Δήμος Καραβά",
-        "population": 1474,
-        "district": "KYRENIA",
-        "id": 191,
-        "photoFilename": "Escape_Beach_North_Cyprus.jpg"
-    },
-    {
-        "name": "Σωτήρα",
-        "population": 143,
-        "district": "LIMASSOL",
-        "id": 192
-    },
-    {
-        "name": "Μύρτου",
-        "population": 278,
-        "district": "KYRENIA",
-        "id": 193
-    },
-    {
-        "name": "Δήμος Κερύνειας",
-        "population": 1192,
-        "district": "KYRENIA",
-        "id": 194
-    },
-    {
-        "name": "Κούκλια Αμμοχώστου",
-        "population": 135,
-        "district": "FAMAGUSTA",
-        "id": 195
-    },
-    {
-        "name": "Γαληνή",
-        "population": 283,
-        "district": "NICOSIA",
-        "id": 196
-    },
-    {
-        "name": "Κισσόνεργα",
-        "population": 2004,
-        "district": "PAPHOS",
-        "id": 197
-    },
-    {
-        "name": "Αχέλεια",
-        "population": 145,
-        "district": "PAPHOS",
-        "id": 198
-    },
-    {
-        "name": "Τριμίκλινη",
-        "population": 307,
-        "district": "LIMASSOL",
-        "id": 199
-    },
-    {
-        "name": "Στύλλοι",
-        "population": 216,
-        "district": "FAMAGUSTA",
-        "id": 200
-    },
-    {
-        "name": "Άγιος Σωζόμενος",
-        "population": 11,
-        "district": "NICOSIA",
-        "id": 201
-    },
-    {
-        "name": "Παλαιχώρι Ορεινής",
-        "population": 333,
-        "district": "NICOSIA",
-        "id": 202
-    },
-    {
-        "name": "Λιβάδι Πάφου",
-        "population": 0,
-        "district": "PAPHOS",
-        "id": 203
-    },
-    {
-        "name": "Βατυλή",
-        "population": 866,
-        "district": "FAMAGUSTA",
-        "id": 204
-    },
-    {
-        "name": "Κοινότητα Λεύκα Λευκωσίας",
-        "population": 4544,
-        "district": "NICOSIA",
-        "id": 205
-    },
-    {
-        "name": "Κλεπίνη",
-        "population": 88,
-        "district": "KYRENIA",
-        "id": 206
-    },
-    {
-        "name": "Άγιος Ιωάννης",
-        "population": 339,
-        "district": "LIMASSOL",
-        "id": 207
-    },
-    {
-        "name": "Κοινότητα Πέργαμος",
-        "population": 193,
-        "district": "LARNACA",
-        "id": 208,
-        "photoFilename": "1692712624-31528.jpg"
-    },
-    {
-        "name": "Πηγή Αμμοχώστου",
-        "population": 291,
-        "district": "FAMAGUSTA",
-        "id": 209
-    },
-    {
-        "name": "Άγιοι Ηλιόφωτοι",
-        "population": 60,
-        "district": "NICOSIA",
-        "id": 210
-    },
-    {
-        "name": "Όμοδος",
-        "population": 322,
-        "district": "LIMASSOL",
-        "id": 211
-    },
-    {
-        "name": "Μπέλλα-Πάις",
-        "population": 319,
-        "district": "KYRENIA",
-        "id": 212
-    },
-    {
-        "name": "Δελίκηπος",
-        "population": 23,
-        "district": "LARNACA",
-        "id": 213
-    },
-    {
-        "name": "Γούφες",
-        "population": 263,
-        "district": "FAMAGUSTA",
-        "id": 214
-    },
-    {
-        "name": "Βαθύλακας",
-        "population": 213,
-        "district": "FAMAGUSTA",
-        "id": 215
-    },
-    {
-        "name": "Γιόλου",
-        "population": 762,
-        "district": "PAPHOS",
-        "id": 216
-    },
-    {
-        "name": "Πραστειό",
-        "population": 190,
-        "district": "NICOSIA",
-        "id": 217
-    },
-    {
-        "name": "Τρεμετουσιά",
-        "population": 139,
-        "district": "LARNACA",
-        "id": 218
-    },
-    {
-        "name": "Άγιος Ιωάννης",
-        "population": 29,
-        "district": "PAPHOS",
-        "id": 219
-    },
-    {
-        "name": "Ύψωνας",
-        "population": 11117,
-        "district": "LIMASSOL",
-        "id": 220
-    },
-    {
-        "name": "Λιβερά",
-        "population": 34,
-        "district": "KYRENIA",
-        "id": 221
-    },
-    {
-        "name": "Βοκολίδα",
-        "population": 170,
-        "district": "FAMAGUSTA",
-        "id": 222
-    },
-    {
-        "name": "Βάβλα",
-        "population": 39,
-        "district": "LARNACA",
-        "id": 223
-    },
-    {
-        "name": "Κρήτου Μαρόττου",
-        "population": 85,
-        "district": "PAPHOS",
-        "id": 224
-    },
-    {
-        "name": "Μηλιά Πάφου",
-        "population": 14,
-        "district": "PAPHOS",
-        "id": 225
-    },
-    {
-        "name": "Μια Μηλιά",
-        "population": 268,
-        "district": "NICOSIA",
-        "id": 226
-    },
-    {
-        "name": "Φικάρδου",
-        "population": 15,
-        "district": "NICOSIA",
-        "id": 227
-    },
-    {
-        "name": "Άγιος Θωμάς",
-        "population": 50,
-        "district": "LIMASSOL",
-        "id": 228
-    },
-    {
-        "name": "Κοίλη",
-        "population": 466,
-        "district": "PAPHOS",
-        "id": 229
-    },
-    {
-        "name": "Αλέκτορα",
-        "population": 64,
-        "district": "LIMASSOL",
-        "id": 230
-    },
-    {
-        "name": "Σαραμά",
-        "population": 2,
-        "district": "PAPHOS",
-        "id": 231
-    },
-    {
-        "name": "Καμπυλή",
-        "population": 103,
-        "district": "KYRENIA",
-        "id": 232
-    },
-    {
-        "name": "Σπήλια",
-        "population": 142,
-        "district": "NICOSIA",
-        "id": 233
-    },
-    {
-        "name": "Γαϊδουράς",
-        "population": 150,
-        "district": "FAMAGUSTA",
-        "id": 234
-    },
-    {
-        "name": "Πύλα",
-        "population": 2771,
-        "district": "LARNACA",
-        "id": 235
-    },
-    {
-        "name": "Καζάφανι",
-        "population": 497,
-        "district": "KYRENIA",
-        "id": 236
-    },
-    {
-        "name": "Πάνω Δίκωμο",
-        "population": 227,
-        "district": "KYRENIA",
-        "id": 237
-    },
-    {
-        "name": "Μαμούνταλι",
-        "population": 18,
-        "district": "PAPHOS",
-        "id": 238
-    },
-    {
-        "name": "Δωρός",
-        "population": 135,
-        "district": "LIMASSOL",
-        "id": 239
-    },
-    {
-        "name": "Μονάγρι",
-        "population": 175,
-        "district": "LIMASSOL",
-        "id": 240
-    },
-    {
-        "name": "Κουκά",
-        "population": 27,
-        "district": "LIMASSOL",
-        "id": 241
-    },
-    {
-        "name": "Πραιτώρι",
-        "population": 23,
-        "district": "PAPHOS",
-        "id": 242
-    },
-    {
-        "name": "Μαραθούντα",
-        "population": 309,
-        "district": "PAPHOS",
-        "id": 243
-    },
-    {
-        "name": "Στατός",
-        "population": 214,
-        "district": "PAPHOS",
-        "id": 244
-    },
-    {
-        "name": "Άγιος Δημήτριος",
-        "population": 54,
-        "district": "LIMASSOL",
-        "id": 245
-    },
-    {
-        "name": "Πεδουλάς",
-        "population": 132,
-        "district": "NICOSIA",
-        "id": 246
-    },
-    {
-        "name": "Κοκκινοτριμιθιά",
-        "population": 4077,
-        "district": "NICOSIA",
-        "id": 247
-    },
-    {
-        "name": "Παλαιχώρι Μόρφου",
-        "population": 686,
-        "district": "NICOSIA",
-        "id": 248
-    },
-    {
-        "name": "Κοινότητα Τρίκωμου",
-        "population": 869,
-        "district": "FAMAGUSTA",
-        "id": 249
-    },
-    {
-        "name": "Μέσα Γειτονιά",
-        "population": 14477,
-        "district": "LIMASSOL",
-        "id": 250
-    },
-    {
-        "name": "Δύμες",
-        "population": 165,
-        "district": "LIMASSOL",
-        "id": 251
-    },
-    {
-        "name": "Καπηλειό",
-        "population": 34,
-        "district": "LIMASSOL",
-        "id": 252
-    },
-    {
-        "name": "Κάτω Αρόδες",
-        "population": 39,
-        "district": "PAPHOS",
-        "id": 253
-    },
-    {
-        "name": "Καπέδες",
-        "population": 572,
-        "district": "NICOSIA",
-        "id": 254
-    },
-    {
-        "name": "Άγιος Γεώργιος Πάφου",
-        "population": 101,
-        "district": "PAPHOS",
-        "id": 255
-    },
-    {
-        "name": "Καραμούλληδες",
-        "population": 33,
-        "district": "PAPHOS",
-        "id": 256
-    },
-    {
-        "name": "Μελίνη",
-        "population": 59,
-        "district": "LARNACA",
-        "id": 257
-    },
-    {
-        "name": "Λέμπα",
-        "population": 506,
-        "district": "PAPHOS",
-        "id": 258
-    },
-    {
-        "name": "Κιόνελι",
-        "population": 307,
-        "district": "NICOSIA",
-        "id": 259
-    },
-    {
-        "name": "Επισκοπή",
-        "population": 3681,
-        "district": "LIMASSOL",
-        "id": 260
-    },
-    {
-        "name": "Κούρτακα",
-        "population": 7,
-        "district": "PAPHOS",
-        "id": 261
-    },
-    {
-        "name": "Σωτήρα",
-        "population": 5474,
-        "district": "FAMAGUSTA",
-        "id": 262
-    },
-    {
-        "name": "Ελιά Κερύνειας",
-        "population": 59,
-        "district": "KYRENIA",
-        "id": 263
-    },
-    {
-        "name": "Γούρρη",
-        "population": 196,
-        "district": "NICOSIA",
-        "id": 264
-    },
-    {
-        "name": "Βάσα Κελλακίου",
-        "population": 73,
-        "district": "LIMASSOL",
-        "id": 265
-    },
-    {
-        "name": "Άγιος Γεώργιος",
-        "population": 111,
-        "district": "LIMASSOL",
-        "id": 266
-    },
-    {
-        "name": "Όβγορος",
-        "population": 201,
-        "district": "FAMAGUSTA",
-        "id": 267
-    },
-    {
-        "name": "Λιμνιά",
-        "population": 498,
-        "district": "FAMAGUSTA",
-        "id": 268
-    },
-    {
-        "name": "Κρήτου Τέρρα",
-        "population": 86,
-        "district": "PAPHOS",
-        "id": 269
-    },
-    {
-        "name": "Φασούλα",
-        "population": 560,
-        "district": "LIMASSOL",
-        "id": 270
-    },
-    {
-        "name": "Πραστειό (Αυδήμου)",
-        "population": 245,
-        "district": "LIMASSOL",
-        "id": 271
-    },
-    {
-        "name": "Ασπρογιά",
-        "population": 60,
-        "district": "PAPHOS",
-        "id": 272
-    },
-    {
-        "name": "Δρούσια",
-        "population": 405,
-        "district": "PAPHOS",
-        "id": 273
-    },
-    {
-        "name": "Κοινότητα Κατωκοπιά",
-        "population": 1578,
-        "district": "NICOSIA",
-        "id": 274
-    },
-    {
-        "name": "Αυλώνα",
-        "population": 160,
-        "district": "NICOSIA",
-        "id": 275
-    },
-    {
-        "name": "Πετροφάνι",
-        "population": 0,
-        "district": "LARNACA",
-        "id": 276
-    },
-    {
-        "name": "Άγιος Ερμόλαος",
-        "population": 508,
-        "district": "KYRENIA",
-        "id": 277,
-        "photoFilename": "a-erm.jpg"
-    },
-    {
-        "name": "Σιά",
-        "population": 754,
-        "district": "NICOSIA",
-        "id": 278
-    },
-    {
-        "name": "Πύργος",
-        "population": 2363,
-        "district": "LIMASSOL",
-        "id": 279,
-        "photoFilename": "pyrlem.jpg"
-    },
-    {
-        "name": "Λυθροδόντας",
-        "population": 3043,
-        "district": "NICOSIA",
-        "id": 280
-    },
-    {
-        "name": "Κιομουρτζιού",
-        "population": 44,
-        "district": "KYRENIA",
-        "id": 281
-    },
-    {
-        "name": "Αμίαντος",
-        "population": 228,
-        "district": "LIMASSOL",
-        "id": 282
-    },
-    {
-        "name": "Λεμύθου",
-        "population": 88,
-        "district": "LIMASSOL",
-        "id": 283
-    },
-    {
-        "name": "Νικήτας",
-        "population": 160,
-        "district": "NICOSIA",
-        "id": 284
-    },
-    {
-        "name": "Νικητάρι",
-        "population": 447,
-        "district": "NICOSIA",
-        "id": 285
-    },
-    {
-        "name": "Τριμιθούσα Χρυσοχούς",
-        "population": 0,
-        "district": "PAPHOS",
-        "id": 286
-    },
-    {
-        "name": "Χανδριά",
-        "population": 162,
-        "district": "LIMASSOL",
-        "id": 287
-    },
-    {
-        "name": "Μαργί",
-        "population": 146,
-        "district": "NICOSIA",
-        "id": 288
-    },
-    {
-        "name": "Κοιλίνια",
-        "population": 39,
-        "district": "PAPHOS",
-        "id": 289
-    },
-    {
-        "name": "Πυργά Λάρνακας",
-        "population": 782,
-        "district": "LARNACA",
-        "id": 290
-    },
-    {
-        "name": "Πέρα Πεδί",
-        "population": 120,
-        "district": "LIMASSOL",
-        "id": 291
-    },
-    {
-        "name": "Μαρώνι",
-        "population": 710,
-        "district": "LARNACA",
-        "id": 292
-    },
-    {
-        "name": "Άγιος Ιάκωβος",
-        "population": 92,
-        "district": "FAMAGUSTA",
-        "id": 293
-    },
-    {
-        "name": "Ίνεια",
-        "population": 385,
-        "district": "PAPHOS",
-        "id": 294
-    },
-    {
-        "name": "Μέσα Χωριό",
-        "population": 586,
-        "district": "PAPHOS",
-        "id": 295
-    },
-    {
-        "name": "Πατρίκι",
-        "population": 354,
-        "district": "FAMAGUSTA",
-        "id": 296
-    },
-    {
-        "name": "Κάτω Κουτραφάς",
-        "population": 17,
-        "district": "NICOSIA",
-        "id": 297
-    },
-    {
-        "name": "Πάνω Λεύκαρα",
-        "population": 737,
-        "district": "LARNACA",
-        "id": 298
-    },
-    {
-        "name": "Κιβισίλι",
-        "population": 233,
-        "district": "LARNACA",
-        "id": 299
-    },
-    {
-        "name": "Έγκωμη Λευκωσίας",
-        "population": 18010,
-        "district": "NICOSIA",
-        "id": 300
-    },
-    {
-        "name": "Νήσου",
-        "population": 2179,
-        "district": "NICOSIA",
-        "id": 301
-    },
-    {
-        "name": "Πυργά Αμμοχώστου",
-        "population": 347,
-        "district": "FAMAGUSTA",
-        "id": 302
-    },
-    {
-        "name": "Στρουμπί",
-        "population": 540,
-        "district": "PAPHOS",
-        "id": 303
-    },
-    {
-        "name": "Ακάκι",
-        "population": 3003,
-        "district": "NICOSIA",
-        "id": 304
-    },
-    {
-        "name": "Κονιά",
-        "population": 2209,
-        "district": "PAPHOS",
-        "id": 305
-    },
-    {
-        "name": "Ζύγι",
-        "population": 589,
-        "district": "LARNACA",
-        "id": 306
-    },
-    {
-        "name": "Νέο Χωριό",
-        "population": 519,
-        "district": "PAPHOS",
-        "id": 307
-    },
-    {
-        "name": "Άρμου",
-        "population": 600,
-        "district": "PAPHOS",
-        "id": 308
-    },
-    {
-        "name": "Πάνω Ακουρδάλια",
-        "population": 44,
-        "district": "PAPHOS",
-        "id": 309
-    },
-    {
-        "name": "Παχύαμμος",
-        "population": 70,
-        "district": "NICOSIA",
-        "id": 310
-    },
-    {
-        "name": "Αξύλου",
-        "population": 61,
-        "district": "PAPHOS",
-        "id": 311
-    },
-    {
-        "name": "Κοινότητα Καραβοστάσι",
-        "population": 38,
-        "district": "NICOSIA",
-        "id": 312
-    },
-    {
-        "name": "Κάτω Πολεμίδια",
-        "population": 22369,
-        "district": "LIMASSOL",
-        "id": 313
-    },
-    {
-        "name": "Κάθηκας",
-        "population": 438,
-        "district": "PAPHOS",
-        "id": 314
-    },
-    {
-        "name": "Στρογγυλός",
-        "population": 280,
-        "district": "FAMAGUSTA",
-        "id": 315
-    },
-    {
-        "name": "Κοράκου",
-        "population": 521,
-        "district": "NICOSIA",
-        "id": 316
-    },
-    {
-        "name": "Καλό Χωριό Ορεινής",
-        "population": 734,
-        "district": "NICOSIA",
-        "id": 317,
-        "photoFilename": "kx-or.jpg"
-    },
-    {
-        "name": "Ακουρσός",
-        "population": 22,
-        "district": "PAPHOS",
-        "id": 318
-    },
-    {
-        "name": "Ξυλοτύμβου",
-        "population": 3649,
-        "district": "LARNACA",
-        "id": 319
-    },
-    {
-        "name": "Βαρίσεια",
-        "population": 244,
-        "district": "NICOSIA",
-        "id": 320
-    },
-    {
-        "name": "Μουτταγιάκα",
-        "population": 2939,
-        "district": "LIMASSOL",
-        "id": 321
-    },
-    {
-        "name": "Λειβάδια Τρικώμου",
-        "population": 141,
-        "district": "FAMAGUSTA",
-        "id": 322
-    },
-    {
-        "name": "Βασίλεια",
-        "population": 477,
-        "district": "KYRENIA",
-        "id": 323,
-        "photoFilename": "1681283527-01504.jpg"
-    },
-    {
-        "name": "Κοτσιάτης",
-        "population": 160,
-        "district": "NICOSIA",
-        "id": 324
-    },
-    {
-        "name": "Τεμβριά",
-        "population": 498,
-        "district": "NICOSIA",
-        "id": 325
-    },
-    {
-        "name": "Καλυβάκια",
-        "population": 96,
-        "district": "NICOSIA",
-        "id": 326
-    },
-    {
-        "name": "Μιτσερό",
-        "population": 860,
-        "district": "NICOSIA",
-        "id": 327
-    },
-    {
-        "name": "Άγιος Φώτιος",
-        "population": 113,
-        "district": "PAPHOS",
-        "id": 328
-    },
-    {
-        "name": "Μοσφίλι",
-        "population": 20,
-        "district": "NICOSIA",
-        "id": 329
-    },
-    {
-        "name": "Σκαρίνου",
-        "population": 393,
-        "district": "LARNACA",
-        "id": 330
-    },
-    {
-        "name": "Χλώρακα",
-        "population": 5356,
-        "district": "PAPHOS",
-        "id": 331
-    },
-    {
-        "name": "Σοφτάδες",
-        "population": 62,
-        "district": "LARNACA",
-        "id": 332
-    },
-    {
-        "name": "Άγιος Αμβρόσιος",
-        "population": 323,
-        "district": "LIMASSOL",
-        "id": 333
-    },
-    {
-        "name": "Μαραθόβουνος",
-        "population": 777,
-        "district": "FAMAGUSTA",
-        "id": 334
-    },
-    {
-        "name": "Φλαμούδι",
-        "population": 235,
-        "district": "FAMAGUSTA",
-        "id": 335
-    },
-    {
-        "name": "Αγία Ειρήνη Κερύνειας",
-        "population": 682,
-        "district": "KYRENIA",
-        "id": 336,
-        "photoFilename": "a-eir.jpg"
-    },
-    {
-        "name": "Αλεθρικό",
-        "population": 1101,
-        "district": "LARNACA",
-        "id": 337
-    },
-    {
-        "name": "Μαράθα",
-        "population": 30,
-        "district": "FAMAGUSTA",
-        "id": 338
-    },
-    {
-        "name": "Πολιτικό",
-        "population": 419,
-        "district": "NICOSIA",
-        "id": 339
-    },
-    {
-        "name": "Τριμίθθι",
-        "population": 95,
-        "district": "KYRENIA",
-        "id": 340
-    },
-    {
-        "name": "Κισσούσα",
-        "population": 6,
-        "district": "LIMASSOL",
-        "id": 341
-    },
-    {
-        "name": "Βάσα Κοιλανίου",
-        "population": 163,
-        "district": "LIMASSOL",
-        "id": 342
-    },
-    {
-        "name": "Ποτάμι",
-        "population": 558,
-        "district": "NICOSIA",
-        "id": 343
-    },
-    {
-        "name": "Μαμώνια",
-        "population": 51,
-        "district": "PAPHOS",
-        "id": 344
-    },
-    {
-        "name": "Άγιος Ανδρόνικος Καρπασίας",
-        "population": 620,
-        "district": "FAMAGUSTA",
-        "id": 345
-    },
-    {
-        "name": "Αγιά Κεπίρ",
-        "population": 27,
-        "district": "NICOSIA",
-        "id": 346
-    },
-    {
-        "name": "Μόρφου",
-        "population": 2267,
-        "district": "NICOSIA",
-        "id": 347
-    },
-    {
-        "name": "Άγιος Παύλος",
-        "population": 135,
-        "district": "LIMASSOL",
-        "id": 348
-    },
-    {
-        "name": "Καλαβασός",
-        "population": 737,
-        "district": "LARNACA",
-        "id": 349
-    },
-    {
-        "name": "Κινούσα",
-        "population": 71,
-        "district": "PAPHOS",
-        "id": 350
-    },
-    {
-        "name": "Κοινότητα Κουτσοβέντη",
-        "population": 183,
-        "district": "KYRENIA",
-        "id": 351
-    },
-    {
-        "name": "Λαπηθιού",
-        "population": 0,
-        "district": "PAPHOS",
-        "id": 352
-    },
-    {
-        "name": "Άσσια",
-        "population": 989,
-        "district": "FAMAGUSTA",
-        "id": 353
-    },
-    {
-        "name": "Πολέμι",
-        "population": 848,
-        "district": "PAPHOS",
-        "id": 354
-    },
-    {
-        "name": "Πλάτρες",
-        "population": 239,
-        "district": "LIMASSOL",
-        "id": 355
-    },
-    {
-        "name": "Καμπιά",
-        "population": 475,
-        "district": "NICOSIA",
-        "id": 356
-    },
-    {
-        "name": "Άγιος Επιφάνιος Σολέας",
-        "population": 0,
-        "district": "NICOSIA",
-        "id": 357
-    },
-    {
-        "name": "Κανλί",
-        "population": 17,
-        "district": "NICOSIA",
-        "id": 358
-    },
-    {
-        "name": "Βυζακιά",
-        "population": 347,
-        "district": "NICOSIA",
-        "id": 359
-    },
-    {
-        "name": "Ζωοπηγή",
-        "population": 140,
-        "district": "LIMASSOL",
-        "id": 360
-    },
-    {
-        "name": "Μονιάτης",
-        "population": 275,
-        "district": "LIMASSOL",
-        "id": 361
-    },
-    {
-        "name": "Γαληνόπορνη",
-        "population": 415,
-        "district": "FAMAGUSTA",
-        "id": 362
-    },
-    {
-        "name": "Επτακώμη",
-        "population": 486,
-        "district": "FAMAGUSTA",
-        "id": 363
-    },
-    {
-        "name": "Λύση",
-        "population": 759,
-        "district": "FAMAGUSTA",
-        "id": 364
-    },
-    {
-        "name": "Κορνόκηπος",
-        "population": 169,
-        "district": "FAMAGUSTA",
-        "id": 365
-    },
-    {
-        "name": "Χρυσοχού",
-        "population": 132,
-        "district": "PAPHOS",
-        "id": 366
-    },
-    {
-        "name": "Κελλιά",
-        "population": 387,
-        "district": "LARNACA",
-        "id": 367
-    },
-    {
-        "name": "Μουσουλίτα",
-        "population": 132,
-        "district": "FAMAGUSTA",
-        "id": 368
-    },
-    {
-        "name": "Παλαιόσοφος",
-        "population": 92,
-        "district": "KYRENIA",
-        "id": 369
-    },
-    {
-        "name": "Άγιος Επιφάνιος Ορεινής",
-        "population": 412,
-        "district": "NICOSIA",
-        "id": 370
-    },
-    {
-        "name": "Πόλη Χρυσοχούς",
-        "population": 2018,
-        "district": "PAPHOS",
-        "id": 371
-    },
-    {
-        "name": "Αγίρδα",
-        "population": 105,
-        "district": "KYRENIA",
-        "id": 372,
-        "photoFilename": "agky.jpg"
-    },
-    {
-        "name": "Αμμαδιές",
-        "population": 140,
-        "district": "NICOSIA",
-        "id": 373
-    },
-    {
-        "name": "Αρμίνου",
-        "population": 24,
-        "district": "PAPHOS",
-        "id": 374
-    },
-    {
-        "name": "Αγγολέμι",
-        "population": 93,
-        "district": "NICOSIA",
-        "id": 375
-    },
-    {
-        "name": "Κοιλάνεμος",
-        "population": 49,
-        "district": "FAMAGUSTA",
-        "id": 376
-    },
-    {
-        "name": "Βαβατσινιά",
-        "population": 81,
-        "district": "LARNACA",
-        "id": 377
-    },
-    {
-        "name": "Φρέναρος",
-        "population": 4298,
-        "district": "FAMAGUSTA",
-        "id": 378
-    },
-    {
-        "name": "Άγιος Νικόλαος Σολέας",
-        "population": 85,
-        "district": "NICOSIA",
-        "id": 379
-    },
-    {
-        "name": "Παραλίμνι",
-        "population": 14963,
-        "district": "FAMAGUSTA",
-        "id": 380
-    },
-    {
-        "name": "Πέρα",
-        "population": 1372,
-        "district": "NICOSIA",
-        "id": 381
-    },
-    {
-        "name": "Γύψου",
-        "population": 425,
-        "district": "FAMAGUSTA",
-        "id": 382
-    },
-    {
-        "name": "Μαλιά",
-        "population": 64,
-        "district": "LIMASSOL",
-        "id": 383
-    },
-    {
-        "name": "Θελέτρα",
-        "population": 269,
-        "district": "PAPHOS",
-        "id": 384
-    },
-    {
-        "name": "Επισκοπειό",
-        "population": 524,
-        "district": "NICOSIA",
-        "id": 385
-    },
-    {
-        "name": "Κοντεμένος",
-        "population": 270,
-        "district": "KYRENIA",
-        "id": 386
-    },
-    {
-        "name": "Αγία Μαρίνα Κελοκεδάρων",
-        "population": 37,
-        "district": "PAPHOS",
-        "id": 387
-    },
-    {
-        "name": "Οίκος",
-        "population": 158,
-        "district": "NICOSIA",
-        "id": 388
-    },
-    {
-        "name": "Άγιος Σέργιος",
-        "population": 520,
-        "district": "FAMAGUSTA",
-        "id": 389
-    },
-    {
-        "name": "Λεμώνα",
-        "population": 51,
-        "district": "PAPHOS",
-        "id": 390
-    },
-    {
-        "name": "Άγιος Θεόδωρος Σολέας",
-        "population": 49,
-        "district": "NICOSIA",
-        "id": 391
-    },
-    {
-        "name": "Πέρα Χωριό",
-        "population": 2637,
-        "district": "NICOSIA",
-        "id": 392
-    },
-    {
-        "name": "Ανώγυρα",
-        "population": 301,
-        "district": "LIMASSOL",
-        "id": 393
-    },
-    {
-        "name": "Ορμήδεια",
-        "population": 4189,
-        "district": "LARNACA",
-        "id": 394
-    },
-    {
-        "name": "Κάτω Δρυς",
-        "population": 129,
-        "district": "LARNACA",
-        "id": 395
-    },
-    {
-        "name": "Άγιος Γεώργιος",
-        "population": 967,
-        "district": "KYRENIA",
-        "id": 396,
-        "photoFilename": "a-ge-k.jpg"
-    },
-    {
-        "name": "Άγιος Θεόδωρος",
-        "population": 65,
-        "district": "LIMASSOL",
-        "id": 397
-    },
-    {
-        "name": "Πάνω Αρχιμανδρίτα",
-        "population": 43,
-        "district": "PAPHOS",
-        "id": 398
-    },
-    {
-        "name": "Επισκοπή Πάφου",
-        "population": 220,
-        "district": "PAPHOS",
-        "id": 399
-    },
-    {
-        "name": "Κλωνάρι",
-        "population": 18,
-        "district": "LIMASSOL",
-        "id": 400
-    },
-    {
-        "name": "Κάτω Πλάτρες",
-        "population": 148,
-        "district": "LIMASSOL",
-        "id": 401
-    },
-    {
-        "name": "Μακούντα",
-        "population": 116,
-        "district": "PAPHOS",
-        "id": 402
-    },
-    {
-        "name": "Κοινότητα Κάρμι",
-        "population": 404,
-        "district": "KYRENIA",
-        "id": 403
-    },
-    {
-        "name": "Κορόβια",
-        "population": 248,
-        "district": "FAMAGUSTA",
-        "id": 404
-    },
-    {
-        "name": "Συκόπετρα",
-        "population": 120,
-        "district": "LIMASSOL",
-        "id": 405
-    },
-    {
-        "name": "Άγιος Θεράπων",
-        "population": 125,
-        "district": "LIMASSOL",
-        "id": 406
-    },
-    {
-        "name": "Αγία Μαρίνα",
-        "population": 568,
-        "district": "NICOSIA",
-        "id": 407
-    },
-    {
-        "name": "Μαντριά",
-        "population": 893,
-        "district": "PAPHOS",
-        "id": 408
-    },
-    {
-        "name": "Λευκόνοικο",
-        "population": 1448,
-        "district": "FAMAGUSTA",
-        "id": 409
-    },
-    {
-        "name": "Περιστερώνα",
-        "population": 2226,
-        "district": "NICOSIA",
-        "id": 410,
-        "photoFilename": "1620812110-32041.jpg"
-    },
-    {
-        "name": "Τέρρα",
-        "population": 36,
-        "district": "PAPHOS",
-        "id": 411
-    },
-    {
-        "name": "Κιδάσι",
-        "population": 11,
-        "district": "PAPHOS",
-        "id": 412
-    },
-    {
-        "name": "Σούνι-Ζανατζιά",
-        "population": 837,
-        "district": "LIMASSOL",
-        "id": 413
-    },
-    {
-        "name": "Αναρίτα",
-        "population": 876,
-        "district": "PAPHOS",
-        "id": 414
-    },
-    {
-        "name": "Πελαθούσα",
-        "population": 57,
-        "district": "PAPHOS",
-        "id": 415
-    },
-    {
-        "name": "Καμπί",
-        "population": 97,
-        "district": "NICOSIA",
-        "id": 416
-    },
-    {
-        "name": "Βώνη",
-        "population": 367,
-        "district": "NICOSIA",
-        "id": 417
-    },
-    {
-        "name": "Πολύστυπος",
-        "population": 128,
-        "district": "NICOSIA",
-        "id": 418
-    },
-    {
-        "name": "Σαράντι",
-        "population": 44,
-        "district": "NICOSIA",
-        "id": 419
-    },
-    {
-        "name": "Πραστειό Αμμοχώστου",
-        "population": 581,
-        "district": "FAMAGUSTA",
-        "id": 420
-    },
-    {
-        "name": "Φάλια",
-        "population": 2,
-        "district": "PAPHOS",
-        "id": 421
-    },
-    {
-        "name": "Βουνί",
-        "population": 149,
-        "district": "LIMASSOL",
-        "id": 422
-    },
-    {
-        "name": "Κυπερούντα",
-        "population": 1516,
-        "district": "LIMASSOL",
-        "id": 423
-    },
-    {
-        "name": "Κάτω Κυβίδες",
-        "population": 5,
-        "district": "LIMASSOL",
-        "id": 424
-    },
-    {
-        "name": "Σκούλλι",
-        "population": 65,
-        "district": "PAPHOS",
-        "id": 425
-    },
-    {
-        "name": "Φώττα",
-        "population": 143,
-        "district": "KYRENIA",
-        "id": 426
-    },
-    {
-        "name": "Άγιος Ισίδωρος",
-        "population": 7,
-        "district": "PAPHOS",
-        "id": 427
-    },
-    {
-        "name": "Λάρνακας της Λαπήθου",
-        "population": 376,
-        "district": "KYRENIA",
-        "id": 428
-    },
-    {
-        "name": "Πέτρα του Διγενή",
-        "population": 77,
-        "district": "NICOSIA",
-        "id": 429
-    },
-    {
-        "name": "Λιβάδια",
-        "population": 7177,
-        "district": "LARNACA",
-        "id": 430
-    },
-    {
-        "name": "Σπιτάλι",
-        "population": 316,
-        "district": "LIMASSOL",
-        "id": 431
-    },
-    {
-        "name": "Ορόκλινη",
-        "population": 6117,
-        "district": "LARNACA",
-        "id": 432
-    },
-    {
-        "name": "Ζαχαριά",
-        "population": 0,
-        "district": "PAPHOS",
-        "id": 433
-    },
-    {
-        "name": "Βιτσάδα",
-        "population": 242,
-        "district": "FAMAGUSTA",
-        "id": 434
-    },
-    {
-        "name": "Κάτω Μύλος",
-        "population": 50,
-        "district": "LIMASSOL",
-        "id": 435
-    },
-    {
-        "name": "Σιναόρος",
-        "population": 228,
-        "district": "NICOSIA",
-        "id": 436
-    },
-    {
-        "name": "Αμπελικού",
-        "population": 255,
-        "district": "NICOSIA",
-        "id": 437
-    },
-    {
-        "name": "Τρεμιθούσα Πάφου",
-        "population": 1041,
-        "district": "PAPHOS",
-        "id": 438
-    },
-    {
-        "name": "Πάναγρα",
-        "population": 43,
-        "district": "KYRENIA",
-        "id": 439
-    },
-    {
-        "name": "Άγιος Ανδρόνικος Τρικώμου",
-        "population": 79,
-        "district": "FAMAGUSTA",
-        "id": 440
-    },
-    {
-        "name": "Όρκα",
-        "population": 54,
-        "district": "KYRENIA",
-        "id": 441
-    },
-    {
-        "name": "Άγιος Γεώργιος Αμμοχώστου",
-        "population": 183,
-        "district": "FAMAGUSTA",
-        "id": 442
-    },
-    {
-        "name": "Μούσερε",
-        "population": 2,
-        "district": "PAPHOS",
-        "id": 443
-    },
-    {
-        "name": "Τραχώνι",
-        "population": 199,
-        "district": "NICOSIA",
-        "id": 444
-    },
-    {
-        "name": "Οδού",
-        "population": 213,
-        "district": "LARNACA",
-        "id": 445
-    },
-    {
-        "name": "Τσέρι",
-        "population": 7035,
-        "district": "NICOSIA",
-        "id": 446
-    },
-    {
-        "name": "Αυγόρου",
-        "population": 4604,
-        "district": "FAMAGUSTA",
-        "id": 447
-    },
-    {
-        "name": "Σίμου",
-        "population": 185,
-        "district": "PAPHOS",
-        "id": 448
-    },
-    {
-        "name": "Πέτρα",
-        "population": 472,
-        "district": "NICOSIA",
-        "id": 449
-    },
-    {
-        "name": "Χόλη",
-        "population": 83,
-        "district": "PAPHOS",
-        "id": 450
-    },
-    {
-        "name": "Νέο Χωριό",
-        "population": 578,
-        "district": "NICOSIA",
-        "id": 451
-    },
-    {
-        "name": "Νέα Δήμματα",
-        "population": 50,
-        "district": "PAPHOS",
-        "id": 452
-    },
-    {
-        "name": "Μελάναρκα",
-        "population": 134,
-        "district": "FAMAGUSTA",
-        "id": 453
-    },
-    {
-        "name": "Λουβαράς",
-        "population": 363,
-        "district": "LIMASSOL",
-        "id": 454
-    },
-    {
-        "name": "Σουσκιού",
-        "population": 10,
-        "district": "PAPHOS",
-        "id": 455
-    },
-    {
-        "name": "Φιλούσα Κελοκεδάρων",
-        "population": 17,
-        "district": "PAPHOS",
-        "id": 456
-    },
-    {
-        "name": "Μελούσεια",
-        "population": 82,
-        "district": "LARNACA",
-        "id": 457
-    },
-    {
-        "name": "Ψιμολόφου",
-        "population": 1626,
-        "district": "NICOSIA",
-        "id": 458
-    },
-    {
-        "name": "Άγιος Αμβρόσιος Κερύνειας",
-        "population": 1543,
-        "district": "KYRENIA",
-        "id": 459,
-        "photoFilename": "a-a-k.jpg"
-    },
-    {
-        "name": "Πάνω Δευτερά",
-        "population": 2789,
-        "district": "NICOSIA",
-        "id": 460
-    },
-    {
-        "name": "Παλαίκυθρο",
-        "population": 342,
-        "district": "NICOSIA",
-        "id": 461
-    },
-    {
-        "name": "Δήμος Πάφου",
-        "population": 32892,
-        "district": "PAPHOS",
-        "id": 462
-    },
-    {
-        "name": "Λάπαθος",
-        "population": 158,
-        "district": "FAMAGUSTA",
-        "id": 463
-    },
-    {
-        "name": "Αγία Νάπα",
-        "population": 3212,
-        "district": "FAMAGUSTA",
-        "id": 464
-    },
-    {
-        "name": "Κάτω Μονή",
-        "population": 339,
-        "district": "NICOSIA",
-        "id": 465
-    },
-    {
-        "name": "Μηλιού",
-        "population": 89,
-        "district": "PAPHOS",
-        "id": 466
-    },
-    {
-        "name": "Κοινότητα Γιαλούσα",
-        "population": 1302,
-        "district": "FAMAGUSTA",
-        "id": 467
-    },
-    {
-        "name": "Άγιος Ιωάννης Σελέμανη",
-        "population": 85,
-        "district": "NICOSIA",
-        "id": 468
-    },
-    {
-        "name": "Πάνω Ζώδεια",
-        "population": 15,
-        "district": "NICOSIA",
-        "id": 469
-    },
-    {
-        "name": "Παλαιόμυλος",
-        "population": 20,
-        "district": "LIMASSOL",
-        "id": 470
-    },
-    {
-        "name": "Αγία Μαρίνα Χρυσοχούς",
-        "population": 647,
-        "district": "PAPHOS",
-        "id": 471
-    },
-    {
-        "name": "Ξυλοφάγου",
-        "population": 6231,
-        "district": "LARNACA",
-        "id": 472
-    },
-    {
-        "name": "Ποταμιά",
-        "population": 505,
-        "district": "NICOSIA",
-        "id": 473
-    },
-    {
-        "name": "Πλατανιστάσα",
-        "population": 117,
-        "district": "NICOSIA",
-        "id": 474
-    },
-    {
-        "name": "Αγία Βαρβάρα",
-        "population": 172,
-        "district": "PAPHOS",
-        "id": 475
-    },
-    {
-        "name": "Κοινότητα Άχνα",
-        "population": 2087,
-        "district": "FAMAGUSTA",
-        "id": 476
-    },
-    {
-        "name": "Πυρόι",
-        "population": 98,
-        "district": "NICOSIA",
-        "id": 477
-    },
-    {
-        "name": "Φοίτη",
-        "population": 150,
-        "district": "PAPHOS",
-        "id": 478
-    },
-    {
-        "name": "Στενή",
-        "population": 173,
-        "district": "PAPHOS",
-        "id": 479
-    },
-    {
-        "name": "Παλαιομέτοχο",
-        "population": 4145,
-        "district": "NICOSIA",
-        "id": 480
-    },
-    {
-        "name": "Άγιος Γεώργιος Σολέας",
-        "population": 259,
-        "district": "NICOSIA",
-        "id": 481
-    },
-    {
-        "name": "Περιστερωνάρι",
-        "population": 49,
-        "district": "NICOSIA",
-        "id": 482
-    },
-    {
-        "name": "Πελένδρι",
-        "population": 1074,
-        "district": "LIMASSOL",
-        "id": 483
-    },
-    {
-        "name": "Σαλαμιού",
-        "population": 265,
-        "district": "PAPHOS",
-        "id": 484
-    },
-    {
-        "name": "Πάχνα",
-        "population": 865,
-        "district": "LIMASSOL",
-        "id": 485
-    },
-    {
-        "name": "Τάλα",
-        "population": 2695,
-        "district": "PAPHOS",
-        "id": 486
-    },
-    {
-        "name": "Πηγαίνια",
-        "population": 107,
-        "district": "NICOSIA",
-        "id": 487
-    },
-    {
-        "name": "Καντού",
-        "population": 349,
-        "district": "LIMASSOL",
-        "id": 488
-    },
-    {
-        "name": "Αχερίτου",
-        "population": 1556,
-        "district": "FAMAGUSTA",
-        "id": 489
-    },
-    {
-        "name": "Αυδήμου",
-        "population": 535,
-        "district": "LIMASSOL",
-        "id": 490
-    },
-    {
-        "name": "Άρσος",
-        "population": 185,
-        "district": "LARNACA",
-        "id": 491
-    },
-    {
-        "name": "Άγιος Χαρίτων",
-        "population": 32,
-        "district": "FAMAGUSTA",
-        "id": 492
-    },
-    {
-        "name": "Αγία Άννα Λάρνακας",
-        "population": 339,
-        "district": "LARNACA",
-        "id": 493
-    },
-    {
-        "name": "Τίμη",
-        "population": 1220,
-        "district": "PAPHOS",
-        "id": 494
-    },
-    {
-        "name": "Πυλέρι",
-        "population": 9,
-        "district": "KYRENIA",
-        "id": 495
-    },
-    {
-        "name": "Κίτι",
-        "population": 4252,
-        "district": "LARNACA",
-        "id": 496
-    },
-    {
-        "name": "Καλό Χωριό Λάρνακας",
-        "population": 1518,
-        "district": "LARNACA",
-        "id": 497
-    },
-    {
-        "name": "Άγιος Τύχωνας",
-        "population": 3455,
-        "district": "LIMASSOL",
-        "id": 498
-    },
-    {
-        "name": "Αναδιού",
-        "population": 17,
-        "district": "PAPHOS",
-        "id": 499
-    },
-    {
-        "name": "Κανναβιού",
-        "population": 175,
-        "district": "PAPHOS",
-        "id": 500
-    },
-    {
-        "name": "Πρόδρομος",
-        "population": 123,
-        "district": "LIMASSOL",
-        "id": 501
-    },
-    {
-        "name": "Μάντρες Τρικώμου",
-        "population": 127,
-        "district": "FAMAGUSTA",
-        "id": 502
-    },
-    {
-        "name": "Λυσός",
-        "population": 205,
-        "district": "PAPHOS",
-        "id": 503
-    },
-    {
-        "name": "Άγιος Μάμας",
-        "population": 114,
-        "district": "LIMASSOL",
-        "id": 504
-    },
-    {
-        "name": "Αψιού",
-        "population": 208,
-        "district": "LIMASSOL",
-        "id": 505
-    },
-    {
-        "name": "Κοινότητα Αγία Τριάδα Αμμοχώστου",
-        "population": 1078,
-        "district": "FAMAGUSTA",
-        "id": 506
-    },
-    {
-        "name": "Πισσούρι",
-        "population": 1819,
-        "district": "LIMASSOL",
-        "id": 507
-    },
-    {
-        "name": "Σκυλλούρα",
-        "population": 272,
-        "district": "NICOSIA",
-        "id": 508
-    },
-    {
-        "name": "Μοναρκά",
-        "population": 61,
-        "district": "FAMAGUSTA",
-        "id": 509
-    },
-    {
-        "name": "Ευρύχου",
-        "population": 827,
-        "district": "NICOSIA",
-        "id": 510
-    },
-    {
-        "name": "Παρεκκλησιά",
-        "population": 2738,
-        "district": "LIMASSOL",
-        "id": 511
-    },
-    {
-        "name": "Άγιος Δημητριανός Πάφου",
-        "population": 91,
-        "district": "PAPHOS",
-        "id": 512
-    },
-    {
-        "name": "Λουκρούνου",
-        "population": 4,
-        "district": "PAPHOS",
-        "id": 513
-    },
-    {
-        "name": "Δερύνεια",
-        "population": 5844,
-        "district": "FAMAGUSTA",
-        "id": 514
-    },
-    {
-        "name": "Ξυλιάτος",
-        "population": 138,
-        "district": "NICOSIA",
-        "id": 515
-    },
-    {
-        "name": "Αγρός",
-        "population": 806,
-        "district": "LIMASSOL",
-        "id": 516
-    },
-    {
-        "name": "Κόσιη",
-        "population": 0,
-        "district": "LARNACA",
-        "id": 517
-    },
-    {
-        "name": "Καλλέπεια",
-        "population": 326,
-        "district": "PAPHOS",
-        "id": 518
-    },
-    {
-        "name": "Νέτα",
-        "population": 73,
-        "district": "FAMAGUSTA",
-        "id": 519
-    },
-    {
-        "name": "Ορτάκιοϊ",
-        "population": 92,
-        "district": "NICOSIA",
-        "id": 520
-    },
-    {
-        "name": "Κορφή",
-        "population": 199,
-        "district": "LIMASSOL",
-        "id": 521
-    },
-    {
-        "name": "Δρύμου",
-        "population": 110,
-        "district": "PAPHOS",
-        "id": 522
-    },
-    {
-        "name": "Βρέτσια",
-        "population": 1,
-        "district": "PAPHOS",
-        "id": 523
-    },
-    {
-        "name": "Σπαθαρικό",
-        "population": 124,
-        "district": "FAMAGUSTA",
-        "id": 524
-    },
-    {
-        "name": "Αγκαστίνα",
-        "population": 513,
-        "district": "FAMAGUSTA",
-        "id": 525
-    },
-    {
-        "name": "Χάρτζια",
-        "population": 220,
-        "district": "KYRENIA",
-        "id": 526
-    },
-    {
-        "name": "Άλασσα",
-        "population": 282,
-        "district": "LIMASSOL",
-        "id": 527
-    },
-    {
-        "name": "Κόρνος",
-        "population": 2083,
-        "district": "LARNACA",
-        "id": 528
-    },
-    {
-        "name": "Πραστειό (Κελλακίου)",
-        "population": 103,
-        "district": "LIMASSOL",
-        "id": 529
-    },
-    {
-        "name": "Φαρμακάς",
-        "population": 480,
-        "district": "NICOSIA",
-        "id": 530
-    },
-    {
-        "name": "Στρόβολος",
-        "population": 67904,
-        "district": "NICOSIA",
-        "id": 531
-    },
-    {
-        "name": "Ψευδάς",
-        "population": 1261,
-        "district": "LARNACA",
-        "id": 532
-    },
-    {
-        "name": "Ψάθι",
-        "population": 110,
-        "district": "PAPHOS",
-        "id": 533
-    },
-    {
-        "name": "Ακρούντα",
-        "population": 455,
-        "district": "LIMASSOL",
-        "id": 534
-    },
-    {
-        "name": "Τσάδα",
-        "population": 1043,
-        "district": "PAPHOS",
-        "id": 535
-    },
-    {
-        "name": "Σύσκληπος",
-        "population": 167,
-        "district": "KYRENIA",
-        "id": 536
-    },
-    {
-        "name": "Αρμενοχώρι",
-        "population": 218,
-        "district": "LIMASSOL",
-        "id": 537
-    },
-    {
-        "name": "Άγιος Θεόδωρος Τηλλυρίας",
-        "population": 27,
-        "district": "NICOSIA",
-        "id": 538
-    },
-    {
-        "name": "Λεονάρισσο",
-        "population": 484,
-        "district": "FAMAGUSTA",
-        "id": 539
-    },
-    {
-        "name": "Καλοψίδα",
-        "population": 307,
-        "district": "FAMAGUSTA",
-        "id": 540
-    },
-    {
-        "name": "Αμαργέτη",
-        "population": 209,
-        "district": "PAPHOS",
-        "id": 541
-    },
-    {
-        "name": "Λιοπέτρι",
-        "population": 4591,
-        "district": "FAMAGUSTA",
-        "id": 542
-    },
-    {
-        "name": "Άγιος Κωνσταντίνος",
-        "population": 137,
-        "district": "LIMASSOL",
-        "id": 543
-    },
-    {
-        "name": "Μελάδια",
-        "population": 17,
-        "district": "PAPHOS",
-        "id": 544
-    },
-    {
-        "name": "Σελλάδι του Άππη",
-        "population": 0,
-        "district": "NICOSIA",
-        "id": 545
-    },
-    {
-        "name": "Χούλου",
-        "population": 147,
-        "district": "PAPHOS",
-        "id": 546
-    },
-    {
-        "name": "Τέμπλος",
-        "population": 136,
-        "district": "KYRENIA",
-        "id": 547
-    },
-    {
-        "name": "Τερσεφάνου",
-        "population": 1299,
-        "district": "LARNACA",
-        "id": 548,
-        "photoFilename": "tersefanou.jpg"
-    },
-    {
-        "name": "Επταγώνια",
-        "population": 353,
-        "district": "LIMASSOL",
-        "id": 549
-    },
-    {
-        "name": "Κλαυδιά",
-        "population": 427,
-        "district": "LARNACA",
-        "id": 550
-    },
-    {
-        "name": "Ταύρου",
-        "population": 139,
-        "district": "FAMAGUSTA",
-        "id": 551
-    },
-    {
-        "name": "Χολέτρια",
-        "population": 264,
-        "district": "PAPHOS",
-        "id": 552
-    },
-    {
-        "name": "Πλατανίστεια",
-        "population": 45,
-        "district": "LIMASSOL",
-        "id": 553
-    },
-    {
-        "name": "Ποταμίτισσα",
-        "population": 62,
-        "district": "LIMASSOL",
-        "id": 554
-    },
-    {
-        "name": "Τζιάος",
-        "population": 565,
-        "district": "FAMAGUSTA",
-        "id": 555
-    },
-    {
-        "name": "Πάνω Παναγιά Πάφου",
-        "population": 481,
-        "district": "PAPHOS",
-        "id": 556
-    },
-    {
-        "name": "Αλαμινός",
-        "population": 345,
-        "district": "LARNACA",
-        "id": 557
-    },
-    {
-        "name": "Επιχό",
-        "population": 304,
-        "district": "NICOSIA",
-        "id": 558
-    },
-    {
-        "name": "Ευρέτου",
-        "population": 3,
-        "district": "PAPHOS",
-        "id": 559
-    },
-    {
-        "name": "Αγίοι Βαβατσινιάς",
-        "population": 131,
-        "district": "LARNACA",
-        "id": 560
-    },
-    {
-        "name": "Συριανοχώρι",
-        "population": 286,
-        "district": "NICOSIA",
-        "id": 561
-    },
-    {
-        "name": "Παλώδια",
-        "population": 1568,
-        "district": "LIMASSOL",
-        "id": 562,
-        "photoFilename": "pal03.jpg"
-    },
-    {
-        "name": "Γουδί",
-        "population": 204,
-        "district": "PAPHOS",
-        "id": 563
-    },
-    {
-        "name": "Αβδελλερό",
-        "population": 196,
-        "district": "LARNACA",
-        "id": 564
-    },
-    {
-        "name": "Ποταμιού",
-        "population": 36,
-        "district": "LIMASSOL",
-        "id": 565
-    },
-    {
-        "name": "Αγία Ειρήνη Λευκωσίας",
-        "population": 27,
-        "district": "NICOSIA",
-        "id": 566
-    },
-    {
-        "name": "Γέρι",
-        "population": 8235,
-        "district": "NICOSIA",
-        "id": 567
-    },
-    {
-        "name": "Νατά",
-        "population": 181,
-        "district": "PAPHOS",
-        "id": 568
-    },
-    {
-        "name": "Νικόκλεια",
-        "population": 121,
-        "district": "PAPHOS",
-        "id": 569
-    },
-    {
-        "name": "Κακοπετριά",
-        "population": 1274,
-        "district": "NICOSIA",
-        "id": 570
-    },
-    {
-        "name": "Σκουριώτισσα",
-        "population": 11,
-        "district": "NICOSIA",
-        "id": 571
-    },
-    {
-        "name": "Αραδίππου",
-        "population": 19199,
-        "district": "LARNACA",
-        "id": 572
-    },
-    {
-        "name": "Δήμος Κυθρέας",
-        "population": 1630,
-        "district": "NICOSIA",
-        "id": 573
-    },
-    {
-        "name": "Σύγκραση",
-        "population": 133,
-        "district": "FAMAGUSTA",
-        "id": 574
-    },
-    {
-        "name": "Απλίκι",
-        "population": 87,
-        "district": "NICOSIA",
-        "id": 575
-    },
-    {
-        "name": "Δρυνιά",
-        "population": 55,
-        "district": "PAPHOS",
-        "id": 576
-    },
-    {
-        "name": "Δήμος Λεμεσού",
-        "population": 101000,
-        "district": "LIMASSOL",
-        "id": 577
-    },
-    {
-        "name": "Γεροβάσα-Τρόζενα",
-        "population": 0,
-        "district": "LIMASSOL",
-        "id": 578
-    },
-    {
-        "name": "Ανάγεια",
-        "population": 1514,
-        "district": "NICOSIA",
-        "id": 579
-    },
-    {
-        "name": "Αλεύγα",
-        "population": 9,
-        "district": "NICOSIA",
-        "id": 580
-    },
-    {
-        "name": "Δήμος Λάρνακας",
-        "population": 51214,
-        "district": "LARNACA",
-        "id": 581
-    },
-    {
-        "name": "Σανταλάρης",
-        "population": 25,
-        "district": "FAMAGUSTA",
-        "id": 582
-    },
-    {
-        "name": "Γαλάτα",
-        "population": 581,
-        "district": "NICOSIA",
-        "id": 583
-    },
-    {
-        "name": "Κελοκέδαρα",
-        "population": 193,
-        "district": "PAPHOS",
-        "id": 584
-    },
-    {
-        "name": "Λετύμπου",
-        "population": 249,
-        "district": "PAPHOS",
-        "id": 585
-    },
-    {
-        "name": "Πιταρκού",
-        "population": 0,
-        "district": "PAPHOS",
-        "id": 586
-    },
-    {
-        "name": "Πλατανισσός",
-        "population": 308,
-        "district": "FAMAGUSTA",
-        "id": 587
-    },
-    {
-        "name": "Πλατάνι Αμμοχώστου",
-        "population": 158,
-        "district": "FAMAGUSTA",
-        "id": 588
-    },
-    {
-        "name": "Πάνω Αρόδες",
-        "population": 135,
-        "district": "PAPHOS",
-        "id": 589
-    },
-    {
-        "name": "Αρακαπάς",
-        "population": 307,
-        "district": "LIMASSOL",
-        "id": 590
-    },
-    {
-        "name": "Φοίνικας Πάφου",
-        "population": 0,
-        "district": "PAPHOS",
-        "id": 591
-    },
-    {
-        "name": "Αγλαντζιά",
-        "population": 20783,
-        "district": "NICOSIA",
-        "id": 592
-    },
-    {
-        "name": "Ελιά Λευκωσίας",
-        "population": 331,
-        "district": "NICOSIA",
-        "id": 593
-    },
-    {
-        "name": "Λιμνάτης",
-        "population": 314,
-        "district": "LIMASSOL",
-        "id": 594
-    },
-    {
-        "name": "Δένεια",
-        "population": 373,
-        "district": "NICOSIA",
-        "id": 595
-    },
-    {
-        "name": "Απλάντα",
-        "population": 6,
-        "district": "LARNACA",
-        "id": 596
-    },
-    {
-        "name": "Άρσος",
-        "population": 202,
-        "district": "LIMASSOL",
-        "id": 597
-    },
-    {
-        "name": "Κοφίνου",
-        "population": 1309,
-        "district": "LARNACA",
-        "id": 598
-    },
-    {
-        "name": "Μελάνδρα",
-        "population": 2,
-        "district": "PAPHOS",
-        "id": 599
-    },
-    {
-        "name": "Κιος",
-        "population": 0,
-        "district": "PAPHOS",
-        "id": 600
-    },
-    {
-        "name": "Δάλι",
-        "population": 10466,
-        "district": "NICOSIA",
-        "id": 601
-    },
-    {
-        "name": "Καζιβερά",
-        "population": 116,
-        "district": "NICOSIA",
-        "id": 602
-    },
-    {
-        "name": "Αλάμπρα",
-        "population": 1585,
-        "district": "NICOSIA",
-        "id": 603
-    },
-    {
-        "name": "Γερμασόγεια",
-        "population": 13421,
-        "district": "LIMASSOL",
-        "id": 604
-    },
-    {
-        "name": "Απεσιά",
-        "population": 474,
-        "district": "LIMASSOL",
-        "id": 605
-    },
-    {
-        "name": "Λάνια",
-        "population": 281,
-        "district": "LIMASSOL",
-        "id": 606
-    },
-    {
-        "name": "Αγρίδια",
-        "population": 104,
-        "district": "LIMASSOL",
-        "id": 607
-    },
-    {
-        "name": "Τράπεζα Κερύνειας",
-        "population": 44,
-        "district": "KYRENIA",
-        "id": 608
-    },
-    {
-        "name": "Κυρά",
-        "population": 782,
-        "district": "NICOSIA",
-        "id": 609
-    },
-    {
-        "name": "Βίκλα",
-        "population": 1,
-        "district": "LIMASSOL",
-        "id": 610
-    },
-    {
-        "name": "Ερήμη",
-        "population": 2432,
-        "district": "LIMASSOL",
-        "id": 611
-    },
-    {
-        "name": "Φτέρυχα",
-        "population": 71,
-        "district": "KYRENIA",
-        "id": 612
-    },
-    {
-        "name": "Γιαλιά",
-        "population": 202,
-        "district": "PAPHOS",
-        "id": 613
-    },
-    {
-        "name": "Ασγάτα",
-        "population": 417,
-        "district": "LIMASSOL",
-        "id": 614
-    },
-    {
-        "name": "Τσακίστρα",
-        "population": 79,
-        "district": "NICOSIA",
-        "id": 615
-    },
-    {
-        "name": "Διόριος",
-        "population": 387,
-        "district": "KYRENIA",
-        "id": 616
-    },
-    {
-        "name": "Άρδανα",
-        "population": 99,
-        "district": "FAMAGUSTA",
-        "id": 617
-    }
+  {
+    "name": "Κάτω Ζώδεια",
+    "population": 497,
+    "district": "NICOSIA",
+    "id": 1,
+    "photoFilename": "1670834891-04644.jpg"
+  },
+  {
+    "name": "Άγιος Επίκτητος Κερύνειας",
+    "population": 1252,
+    "district": "KYRENIA",
+    "id": 2,
+    "photoFilename": "ag-epik.jpg"
+  },
+  {
+    "name": "Κνώδαρα",
+    "population": 439,
+    "district": "FAMAGUSTA",
+    "id": 3,
+    "photoFilename": "1671113101-16897.jpg"
+  },
+  {
+    "name": "Λόφου",
+    "population": 46,
+    "district": "LIMASSOL",
+    "id": 4,
+    "photoFilename": "l-lim.jpg"
+  },
+  {
+    "name": "Δαυλός",
+    "population": 359,
+    "district": "FAMAGUSTA",
+    "id": 5,
+    "photoFilename": "283745628736583276.jpg"
+  },
+  {
+    "name": "Μελούντα",
+    "population": 73,
+    "district": "FAMAGUSTA",
+    "id": 6,
+    "photoFilename": "1623654402-24216.jpg"
+  },
+  {
+    "name": "Τόχνη",
+    "population": 424,
+    "district": "LARNACA",
+    "id": 7,
+    "photoFilename": "1681217708-11553.jpg"
+  },
+  {
+    "name": "Τραχυπέδουλα",
+    "population": 64,
+    "district": "PAPHOS",
+    "id": 8,
+    "photoFilename": "1687850577-13884.jpg"
+  },
+  {
+    "name": "Φοινί",
+    "population": 391,
+    "district": "LIMASSOL",
+    "id": 9,
+    "photoFilename": "hp_theme_02.jpg"
+  },
+  {
+    "name": "Καλοπαναγιώτης",
+    "population": 263,
+    "district": "NICOSIA",
+    "id": 10,
+    "photoFilename": "43c68c4dfc1cf29f78205f42ad9d79f7_XL.jpg"
+  },
+  {
+    "name": "Αγροκηπιά",
+    "population": 509,
+    "district": "NICOSIA",
+    "id": 11,
+    "photoFilename": "slider1-1500x578.jpg"
+  },
+  {
+    "name": "Κοινότητα Έξω Μετόχι",
+    "population": 332,
+    "district": "NICOSIA",
+    "id": 12,
+    "photoFilename": "326797490_651079903372808_5169134787782161756_n.jpg"
+  },
+  {
+    "name": "Άγιος Θεόδωρος Αμμοχώστου",
+    "population": 315,
+    "district": "FAMAGUSTA",
+    "id": 13,
+    "photoFilename": "1661415345-13733.jpg"
+  },
+  {
+    "name": "Κώμη Κεπίρ",
+    "population": 714,
+    "district": "FAMAGUSTA",
+    "id": 14,
+    "photoFilename": "1663848407-32589.jpg"
+  },
+  {
+    "name": "Αρναδί",
+    "population": 193,
+    "district": "FAMAGUSTA",
+    "id": 15,
+    "photoFilename": "v-15.jpg"
+  },
+  {
+    "name": "Άγιος Αθανάσιος",
+    "population": 14578,
+    "district": "LIMASSOL",
+    "id": 16,
+    "photoFilename": "v-16.jpg"
+  },
+  {
+    "name": "Ακρωτήρι",
+    "population": 870,
+    "district": "LIMASSOL",
+    "id": 17,
+    "photoFilename": "lady-mile-beach.jpg"
+  },
+  {
+    "name": "Λύμπια",
+    "population": 2694,
+    "district": "NICOSIA",
+    "id": 18,
+    "photoFilename": "v-18.jpg"
+  },
+  {
+    "name": "Θέρμια",
+    "population": 63,
+    "district": "KYRENIA",
+    "id": 19,
+    "photoFilename": "v-19.jpg"
+  },
+  {
+    "name": "Ασκάς",
+    "population": 170,
+    "district": "NICOSIA",
+    "id": 20,
+    "photoFilename": "v-20.jpg"
+  },
+  {
+    "name": "Μακράσυκα",
+    "population": 140,
+    "district": "FAMAGUSTA",
+    "id": 21,
+    "photoFilename": "v-21.jpg"
+  },
+  {
+    "name": "Κοιλάνι",
+    "population": 216,
+    "district": "LIMASSOL",
+    "id": 22,
+    "photoFilename": "v-22.jpg"
+  },
+  {
+    "name": "Αστρομερίτης",
+    "population": 2307,
+    "district": "NICOSIA",
+    "id": 23,
+    "photoFilename": "v-23.jpg"
+  },
+  {
+    "name": "Άγιος Γεώργιος",
+    "population": 26,
+    "district": "NICOSIA",
+    "id": 24
+  },
+  {
+    "name": "Κοινότητα Έγκωμης Αμμοχώστου",
+    "population": 159,
+    "district": "FAMAGUSTA",
+    "id": 25,
+    "photoFilename": "v-25.jpg"
+  },
+  {
+    "name": "Καλό Χωριό Σολέας",
+    "population": 174,
+    "district": "NICOSIA",
+    "id": 26,
+    "photoFilename": "v-26.jpg"
+  },
+  {
+    "name": "Κλήρου",
+    "population": 1847,
+    "district": "NICOSIA",
+    "id": 27,
+    "photoFilename": "v-27.png"
+  },
+  {
+    "name": "Κρηνί",
+    "population": 100,
+    "district": "KYRENIA",
+    "id": 28,
+    "photoFilename": "v-28.jpg"
+  },
+  {
+    "name": "Άγιος Δομέτιος",
+    "population": 12456,
+    "district": "NICOSIA",
+    "id": 29,
+    "photoFilename": "v-29.jpg"
+  },
+  {
+    "name": "Λακατάμια",
+    "population": 38345,
+    "district": "NICOSIA",
+    "id": 30,
+    "photoFilename": "v-30.jpg"
+  },
+  {
+    "name": "Δορά",
+    "population": 145,
+    "district": "LIMASSOL",
+    "id": 31,
+    "photoFilename": "v-31.jpg"
+  },
+  {
+    "name": "Κρίδια",
+    "population": 136,
+    "district": "FAMAGUSTA",
+    "id": 32,
+    "photoFilename": "v-32.jpg"
+  },
+  {
+    "name": "Αγία Βαρβάρα",
+    "population": 2204,
+    "district": "NICOSIA",
+    "id": 33,
+    "photoFilename": "v-33.jpg"
+  },
+  {
+    "name": "Μένικο",
+    "population": 1023,
+    "district": "NICOSIA",
+    "id": 34,
+    "photoFilename": "v-34.jpg"
+  },
+  {
+    "name": "Λαζανιάς",
+    "population": 39,
+    "district": "NICOSIA",
+    "id": 35
+  },
+  {
+    "name": "Χοιροκοιτία",
+    "population": 632,
+    "district": "LARNACA",
+    "id": 36,
+    "photoFilename": "v-36.jpg"
+  },
+  {
+    "name": "Κορμακίτης",
+    "population": 386,
+    "district": "KYRENIA",
+    "id": 37,
+    "photoFilename": "v-37.jpg"
+  },
+  {
+    "name": "Μανσούρα",
+    "population": 9,
+    "district": "NICOSIA",
+    "id": 38,
+    "photoFilename": "v-38.jpg"
+  },
+  {
+    "name": "Παραμύθα",
+    "population": 569,
+    "district": "LIMASSOL",
+    "id": 39,
+    "photoFilename": "v-39.jpg"
+  },
+  {
+    "name": "Καλό Χωριό",
+    "population": 497,
+    "district": "LIMASSOL",
+    "id": 40,
+    "photoFilename": "v-40.jpg"
+  },
+  {
+    "name": "Άγιος Ηλίας Αμμοχώστου",
+    "population": 315,
+    "district": "FAMAGUSTA",
+    "id": 41,
+    "photoFilename": "v-41.jpg"
+  },
+  {
+    "name": "Δύο Ποταμοί",
+    "population": 5,
+    "district": "NICOSIA",
+    "id": 42
+  },
+  {
+    "name": "Καλό Χωριό Καπούτη",
+    "population": 243,
+    "district": "NICOSIA",
+    "id": 43,
+    "photoFilename": "v-43.jpg"
+  },
+  {
+    "name": "Μάμμαρη",
+    "population": 1592,
+    "district": "NICOSIA",
+    "id": 44,
+    "photoFilename": "v-44.jpg"
+  },
+  {
+    "name": "Κοντέα",
+    "population": 403,
+    "district": "FAMAGUSTA",
+    "id": 45,
+    "photoFilename": "v-45.jpg"
+  },
+  {
+    "name": "Κάτω Δευτερά",
+    "population": 2054,
+    "district": "NICOSIA",
+    "id": 46,
+    "photoFilename": "v-46.jpg"
+  },
+  {
+    "name": "Μοναγρούλλι",
+    "population": 536,
+    "district": "LIMASSOL",
+    "id": 47,
+    "photoFilename": "v-47.jpg"
+  },
+  {
+    "name": "Φοινικάρια",
+    "population": 339,
+    "district": "LIMASSOL",
+    "id": 48,
+    "photoFilename": "v-48.jpg"
+  },
+  {
+    "name": "Αυγολίδα",
+    "population": 47,
+    "district": "FAMAGUSTA",
+    "id": 49,
+    "photoFilename": "v-49.jpg"
+  },
+  {
+    "name": "Συγχαρί",
+    "population": 125,
+    "district": "KYRENIA",
+    "id": 50,
+    "photoFilename": "v-50.jpg"
+  },
+  {
+    "name": "Άλωνα",
+    "population": 67,
+    "district": "NICOSIA",
+    "id": 51,
+    "photoFilename": "v-51.jpg"
+  },
+  {
+    "name": "Άγιος Συμεών",
+    "population": 271,
+    "district": "FAMAGUSTA",
+    "id": 52,
+    "photoFilename": "v-52.jpg"
+  },
+  {
+    "name": "Μηλικούρι",
+    "population": 17,
+    "district": "NICOSIA",
+    "id": 53,
+    "photoFilename": "v-53.jpg"
+  },
+  {
+    "name": "Κατύδατα",
+    "population": 114,
+    "district": "NICOSIA",
+    "id": 54,
+    "photoFilename": "v-54.jpg"
+  },
+  {
+    "name": "Ψυλλάτος",
+    "population": 334,
+    "district": "FAMAGUSTA",
+    "id": 55
+  },
+  {
+    "name": "Άγιος Νικόλαος Αμμοχώστου",
+    "population": 105,
+    "district": "FAMAGUSTA",
+    "id": 56,
+    "photoFilename": "v-56.jpg"
+  },
+  {
+    "name": "Άγιος Βασίλειος",
+    "population": 195,
+    "district": "NICOSIA",
+    "id": 57,
+    "photoFilename": "v-57.jpg"
+  },
+  {
+    "name": "Κοινότητα Ριζοκάρπασου",
+    "population": 1858,
+    "district": "FAMAGUSTA",
+    "id": 58,
+    "photoFilename": "v-58.jpg"
+  },
+  {
+    "name": "Μαθικολώνη",
+    "population": 174,
+    "district": "LIMASSOL",
+    "id": 59,
+    "photoFilename": "v-59.jpg"
+  },
+  {
+    "name": "Μαλούντα",
+    "population": 490,
+    "district": "NICOSIA",
+    "id": 60,
+    "photoFilename": "v-60.jpg"
+  },
+  {
+    "name": "Μάσαρη",
+    "population": 45,
+    "district": "NICOSIA",
+    "id": 61,
+    "photoFilename": "v-61.jpg"
+  },
+  {
+    "name": "Τρεις Ελιές",
+    "population": 25,
+    "district": "LIMASSOL",
+    "id": 62,
+    "photoFilename": "v-62.jpg"
+  },
+  {
+    "name": "Κουρού Μοναστήρι",
+    "population": 64,
+    "district": "NICOSIA",
+    "id": 63
+  },
+  {
+    "name": "Κελλάκι",
+    "population": 299,
+    "district": "LIMASSOL",
+    "id": 64,
+    "photoFilename": "v-64.jpg"
+  },
+  {
+    "name": "Μαργό",
+    "population": 17,
+    "district": "NICOSIA",
+    "id": 65
+  },
+  {
+    "name": "Αγγλισίδες",
+    "population": 1146,
+    "district": "LARNACA",
+    "id": 66,
+    "photoFilename": "v-66.jpg"
+  },
+  {
+    "name": "Γερόλακκος",
+    "population": 447,
+    "district": "NICOSIA",
+    "id": 67,
+    "photoFilename": "v-67.jpg"
+  },
+  {
+    "name": "Μηλιά Αμμοχώστου",
+    "population": 253,
+    "district": "FAMAGUSTA",
+    "id": 68,
+    "photoFilename": "v-68.jpg"
+  },
+  {
+    "name": "Σίντα",
+    "population": 289,
+    "district": "FAMAGUSTA",
+    "id": 69,
+    "photoFilename": "v-69.jpg"
+  },
+  {
+    "name": "Τρυπημένη",
+    "population": 254,
+    "district": "FAMAGUSTA",
+    "id": 70,
+    "photoFilename": "v-70.jpg"
+  },
+  {
+    "name": "Γαστριά",
+    "population": 247,
+    "district": "FAMAGUSTA",
+    "id": 71,
+    "photoFilename": "v-71.jpg"
+  },
+  {
+    "name": "Πάνω Κυβίδες",
+    "population": 707,
+    "district": "LIMASSOL",
+    "id": 72,
+    "photoFilename": "v-72.jpg"
+  },
+  {
+    "name": "Μονή",
+    "population": 622,
+    "district": "LIMASSOL",
+    "id": 73,
+    "photoFilename": "v-73.jpg"
+  },
+  {
+    "name": "Λιβάδια Λευκωσίας",
+    "population": 18,
+    "district": "NICOSIA",
+    "id": 74,
+    "photoFilename": "v-74.jpg"
+  },
+  {
+    "name": "Αρεδιού",
+    "population": 1225,
+    "district": "NICOSIA",
+    "id": 75,
+    "photoFilename": "v-75.jpg"
+  },
+  {
+    "name": "Γεράσα",
+    "population": 69,
+    "district": "LIMASSOL",
+    "id": 76,
+    "photoFilename": "v-76.jpg"
+  },
+  {
+    "name": "Καμινάρια",
+    "population": 44,
+    "district": "LIMASSOL",
+    "id": 77,
+    "photoFilename": "v-77.jpg"
+  },
+  {
+    "name": "Μαθιάτης",
+    "population": 646,
+    "district": "NICOSIA",
+    "id": 78,
+    "photoFilename": "v-78.jpg"
+  },
+  {
+    "name": "Άρτεμη Αμμοχώστου",
+    "population": 90,
+    "district": "FAMAGUSTA",
+    "id": 79
+  },
+  {
+    "name": "Καλιάνα",
+    "population": 200,
+    "district": "NICOSIA",
+    "id": 80,
+    "photoFilename": "v-80.jpg"
+  },
+  {
+    "name": "Φτερικούδι",
+    "population": 90,
+    "district": "NICOSIA",
+    "id": 81,
+    "photoFilename": "v-81.jpg"
+  },
+  {
+    "name": "Καταλιόντας",
+    "population": 24,
+    "district": "NICOSIA",
+    "id": 82,
+    "photoFilename": "v-82.jpg"
+  },
+  {
+    "name": "Ανδρολύκου",
+    "population": 34,
+    "district": "PAPHOS",
+    "id": 83
+  },
+  {
+    "name": "Παραμάλι",
+    "population": 220,
+    "district": "LIMASSOL",
+    "id": 84,
+    "photoFilename": "v-84.jpg"
+  },
+  {
+    "name": "Τραχώνι",
+    "population": 3952,
+    "district": "LIMASSOL",
+    "id": 85
+  },
+  {
+    "name": "Αργάκα",
+    "population": 1078,
+    "district": "PAPHOS",
+    "id": 86
+  },
+  {
+    "name": "Γαλαταριά",
+    "population": 56,
+    "district": "PAPHOS",
+    "id": 87
+  },
+  {
+    "name": "Άγιος Ιωάννης Μαλούντας",
+    "population": 472,
+    "district": "NICOSIA",
+    "id": 88
+  },
+  {
+    "name": "Κώμα του Γιαλού",
+    "population": 482,
+    "district": "FAMAGUSTA",
+    "id": 89
+  },
+  {
+    "name": "Λυθράγκωμη",
+    "population": 194,
+    "district": "FAMAGUSTA",
+    "id": 90
+  },
+  {
+    "name": "Τσερκέζ Τσιφτλίκ",
+    "population": 50,
+    "district": "LIMASSOL",
+    "id": 91
+  },
+  {
+    "name": "Βασίλι",
+    "population": 183,
+    "district": "FAMAGUSTA",
+    "id": 92
+  },
+  {
+    "name": "Κάτω Πύργος",
+    "population": 1036,
+    "district": "NICOSIA",
+    "id": 93
+  },
+  {
+    "name": "Μάνδρες Λευκωσίας",
+    "population": 113,
+    "district": "NICOSIA",
+    "id": 94
+  },
+  {
+    "name": "Ελεδιώ",
+    "population": 44,
+    "district": "PAPHOS",
+    "id": 95
+  },
+  {
+    "name": "Εργάτες",
+    "population": 1792,
+    "district": "NICOSIA",
+    "id": 96
+  },
+  {
+    "name": "Κάτω Ακουρδάλια",
+    "population": 65,
+    "district": "PAPHOS",
+    "id": 97
+  },
+  {
+    "name": "Πεντάγεια",
+    "population": 84,
+    "district": "NICOSIA",
+    "id": 98
+  },
+  {
+    "name": "Γερακιές",
+    "population": 75,
+    "district": "NICOSIA",
+    "id": 99
+  },
+  {
+    "name": "Τράχωνας",
+    "population": 179,
+    "district": "NICOSIA",
+    "id": 100
+  },
+  {
+    "name": "Γαλάτεια (Κύπρος)",
+    "population": 596,
+    "district": "FAMAGUSTA",
+    "id": 101
+  },
+  {
+    "name": "Καρπάσια",
+    "population": 63,
+    "district": "KYRENIA",
+    "id": 102
+  },
+  {
+    "name": "Άγιοι Τριμιθιάς",
+    "population": 1529,
+    "district": "NICOSIA",
+    "id": 103
+  },
+  {
+    "name": "Κάμπος",
+    "population": 271,
+    "district": "NICOSIA",
+    "id": 104
+  },
+  {
+    "name": "Δήμος Αμμοχώστου",
+    "population": 658,
+    "district": "FAMAGUSTA",
+    "id": 105
+  },
+  {
+    "name": "Ακαπνού",
+    "population": 20,
+    "district": "LIMASSOL",
+    "id": 106
+  },
+  {
+    "name": "Δήμος Λαπήθου",
+    "population": 2370,
+    "district": "KYRENIA",
+    "id": 107
+  },
+  {
+    "name": "Λάγια",
+    "population": 28,
+    "district": "LARNACA",
+    "id": 108
+  },
+  {
+    "name": "Μπογάζι",
+    "population": 15,
+    "district": "FAMAGUSTA",
+    "id": 109
+  },
+  {
+    "name": "Γεροσκήπου",
+    "population": 7878,
+    "district": "PAPHOS",
+    "id": 110
+  },
+  {
+    "name": "Λάσα Πάφου",
+    "population": 67,
+    "district": "PAPHOS",
+    "id": 111
+  },
+  {
+    "name": "Τρόοδος",
+    "population": 0,
+    "district": "LIMASSOL",
+    "id": 112
+  },
+  {
+    "name": "Λουτρός",
+    "population": 143,
+    "district": "NICOSIA",
+    "id": 113
+  },
+  {
+    "name": "Μεσόγη",
+    "population": 1689,
+    "district": "PAPHOS",
+    "id": 114
+  },
+  {
+    "name": "Μάρωνας",
+    "population": 0,
+    "district": "PAPHOS",
+    "id": 115
+  },
+  {
+    "name": "Καράκουμι",
+    "population": 43,
+    "district": "KYRENIA",
+    "id": 116
+  },
+  {
+    "name": "Λατσιά",
+    "population": 16774,
+    "district": "NICOSIA",
+    "id": 117
+  },
+  {
+    "name": "Τρούλλοι",
+    "population": 1169,
+    "district": "LARNACA",
+    "id": 118
+  },
+  {
+    "name": "Κοινότητα Άγιος Ευστάθιος Αμμοχώστου",
+    "population": 78,
+    "district": "FAMAGUSTA",
+    "id": 119
+  },
+  {
+    "name": "Σταυροκόννου",
+    "population": 56,
+    "district": "PAPHOS",
+    "id": 120
+  },
+  {
+    "name": "Αγία Μαρίνα Σκυλλούρας",
+    "population": 74,
+    "district": "NICOSIA",
+    "id": 121
+  },
+  {
+    "name": "Άγιος Νικόλαος Πάφου",
+    "population": 61,
+    "district": "PAPHOS",
+    "id": 122
+  },
+  {
+    "name": "Κολόσσι",
+    "population": 5651,
+    "district": "LIMASSOL",
+    "id": 123
+  },
+  {
+    "name": "Έμπα",
+    "population": 4855,
+    "district": "PAPHOS",
+    "id": 124
+  },
+  {
+    "name": "Πέγεια",
+    "population": 3953,
+    "district": "PAPHOS",
+    "id": 125
+  },
+  {
+    "name": "Μαρί",
+    "population": 158,
+    "district": "LARNACA",
+    "id": 126
+  },
+  {
+    "name": "Πωμός",
+    "population": 448,
+    "district": "PAPHOS",
+    "id": 127
+  },
+  {
+    "name": "Κοινότητα Ξερόβουνος",
+    "population": 227,
+    "district": "NICOSIA",
+    "id": 128
+  },
+  {
+    "name": "Αληθινού",
+    "population": 9,
+    "district": "NICOSIA",
+    "id": 129
+  },
+  {
+    "name": "Κέδαρες",
+    "population": 80,
+    "district": "PAPHOS",
+    "id": 130
+  },
+  {
+    "name": "Αθηένου",
+    "population": 4996,
+    "district": "LARNACA",
+    "id": 131,
+    "photoFilename": "athienou.jpeg"
+  },
+  {
+    "name": "Λαγουδερά",
+    "population": 84,
+    "district": "NICOSIA",
+    "id": 132
+  },
+  {
+    "name": "Διερώνα",
+    "population": 192,
+    "district": "LIMASSOL",
+    "id": 133
+  },
+  {
+    "name": "Αφάνεια",
+    "population": 355,
+    "district": "FAMAGUSTA",
+    "id": 134
+  },
+  {
+    "name": "Καλογραία",
+    "population": 283,
+    "district": "KYRENIA",
+    "id": 135
+  },
+  {
+    "name": "Αγριδάκι",
+    "population": 165,
+    "district": "KYRENIA",
+    "id": 136,
+    "photoFilename": "agraki.jpg"
+  },
+  {
+    "name": "Συλίκου",
+    "population": 137,
+    "district": "LIMASSOL",
+    "id": 137
+  },
+  {
+    "name": "Φασούλα Κελοκεδάρων",
+    "population": 56,
+    "district": "PAPHOS",
+    "id": 138
+  },
+  {
+    "name": "Ακανθού",
+    "population": 1162,
+    "district": "FAMAGUSTA",
+    "id": 139
+  },
+  {
+    "name": "Φλάσου",
+    "population": 240,
+    "district": "NICOSIA",
+    "id": 140
+  },
+  {
+    "name": "Γέναγρα",
+    "population": 381,
+    "district": "FAMAGUSTA",
+    "id": 141
+  },
+  {
+    "name": "Ληνού",
+    "population": 161,
+    "district": "NICOSIA",
+    "id": 142
+  },
+  {
+    "name": "Μέσανα",
+    "population": 31,
+    "district": "PAPHOS",
+    "id": 143
+  },
+  {
+    "name": "Δήμος Δρομολαξιάς-Μενεού",
+    "population": 6689,
+    "district": "LARNACA",
+    "id": 144
+  },
+  {
+    "name": "Ορούντα",
+    "population": 604,
+    "district": "NICOSIA",
+    "id": 145
+  },
+  {
+    "name": "Μότιδες",
+    "population": 31,
+    "district": "KYRENIA",
+    "id": 146
+  },
+  {
+    "name": "Αγία Μαρινούδα",
+    "population": 266,
+    "district": "PAPHOS",
+    "id": 147
+  },
+  {
+    "name": "Άγιος Θεόδωρος Σκαρίνου",
+    "population": 663,
+    "district": "LARNACA",
+    "id": 148
+  },
+  {
+    "name": "Μανδριά",
+    "population": 107,
+    "district": "LIMASSOL",
+    "id": 149
+  },
+  {
+    "name": "Ασώματος",
+    "population": 726,
+    "district": "LIMASSOL",
+    "id": 150
+  },
+  {
+    "name": "Κάτω Λεύκαρα",
+    "population": 128,
+    "district": "LARNACA",
+    "id": 151
+  },
+  {
+    "name": "Μπέικιοϊ",
+    "population": 191,
+    "district": "NICOSIA",
+    "id": 152
+  },
+  {
+    "name": "Μόρα",
+    "population": 238,
+    "district": "NICOSIA",
+    "id": 153
+  },
+  {
+    "name": "Κοινότητα Κόκκινα",
+    "population": 155,
+    "district": "NICOSIA",
+    "id": 154
+  },
+  {
+    "name": "Φυλλιά",
+    "population": 153,
+    "district": "NICOSIA",
+    "id": 155
+  },
+  {
+    "name": "Στατός-Άγιος Φώτιος",
+    "population": 243,
+    "district": "PAPHOS",
+    "id": 156
+  },
+  {
+    "name": "Λουρουκίνα",
+    "population": 11,
+    "district": "NICOSIA",
+    "id": 157
+  },
+  {
+    "name": "Ψεματισμένος",
+    "population": 271,
+    "district": "LARNACA",
+    "id": 158
+  },
+  {
+    "name": "Περιστερώνα Χρυσοχούς",
+    "population": 302,
+    "district": "PAPHOS",
+    "id": 159
+  },
+  {
+    "name": "Μενόγια",
+    "population": 50,
+    "district": "LARNACA",
+    "id": 160
+  },
+  {
+    "name": "Βουνό",
+    "population": 63,
+    "district": "KYRENIA",
+    "id": 161,
+    "photoFilename": "vnky.jpg"
+  },
+  {
+    "name": "Πενταλιά",
+    "population": 63,
+    "district": "PAPHOS",
+    "id": 162
+  },
+  {
+    "name": "Μουτουλλάς",
+    "population": 174,
+    "district": "NICOSIA",
+    "id": 163
+  },
+  {
+    "name": "Αργάκι",
+    "population": 451,
+    "district": "NICOSIA",
+    "id": 164
+  },
+  {
+    "name": "Κάτω Δίκωμο",
+    "population": 415,
+    "district": "KYRENIA",
+    "id": 165
+  },
+  {
+    "name": "Σανίδα",
+    "population": 42,
+    "district": "LIMASSOL",
+    "id": 166,
+    "photoFilename": "sanlem.jpg"
+  },
+  {
+    "name": "Περιστερώνα Αμμοχώστου",
+    "population": 450,
+    "district": "FAMAGUSTA",
+    "id": 167
+  },
+  {
+    "name": "Αναφωτία",
+    "population": 790,
+    "district": "LARNACA",
+    "id": 168
+  },
+  {
+    "name": "Αλόδα",
+    "population": 34,
+    "district": "FAMAGUSTA",
+    "id": 169
+  },
+  {
+    "name": "Συνοικισμός Ανθούπολης",
+    "population": 1756,
+    "district": "NICOSIA",
+    "id": 170
+  },
+  {
+    "name": "Πραστειό Κελοκεδάρων",
+    "population": 8,
+    "district": "PAPHOS",
+    "id": 171
+  },
+  {
+    "name": "Ορά",
+    "population": 206,
+    "district": "LARNACA",
+    "id": 172
+  },
+  {
+    "name": "Δήμος Λευκωσίας",
+    "population": 55014,
+    "district": "NICOSIA",
+    "id": 173
+  },
+  {
+    "name": "Περιβόλια του Τρικώμου",
+    "population": 73,
+    "district": "FAMAGUSTA",
+    "id": 174
+  },
+  {
+    "name": "Μαζωτός",
+    "population": 832,
+    "district": "LARNACA",
+    "id": 175
+  },
+  {
+    "name": "Μοσφιλωτή",
+    "population": 1342,
+    "district": "LARNACA",
+    "id": 176
+  },
+  {
+    "name": "Ασώματος Κερύνειας",
+    "population": 191,
+    "district": "KYRENIA",
+    "id": 177,
+    "photoFilename": "asmtky.jpg"
+  },
+  {
+    "name": "Πάνω Κουτραφάς",
+    "population": 4,
+    "district": "NICOSIA",
+    "id": 178
+  },
+  {
+    "name": "Γεράνι Αμμοχώστου",
+    "population": 141,
+    "district": "FAMAGUSTA",
+    "id": 179
+  },
+  {
+    "name": "Φιλούσα Χρυσοχούς",
+    "population": 31,
+    "district": "PAPHOS",
+    "id": 180
+  },
+  {
+    "name": "Τύμβου",
+    "population": 278,
+    "district": "NICOSIA",
+    "id": 181
+  },
+  {
+    "name": "Αναλιόντας",
+    "population": 443,
+    "district": "NICOSIA",
+    "id": 182
+  },
+  {
+    "name": "Περβόλια Λάρνακας",
+    "population": 3009,
+    "district": "LARNACA",
+    "id": 183
+  },
+  {
+    "name": "Φροδίσια",
+    "population": 297,
+    "district": "NICOSIA",
+    "id": 184
+  },
+  {
+    "name": "Πάνω Πύργος",
+    "population": 22,
+    "district": "NICOSIA",
+    "id": 185
+  },
+  {
+    "name": "Φασλί",
+    "population": 0,
+    "district": "PAPHOS",
+    "id": 186
+  },
+  {
+    "name": "Καννάβια",
+    "population": 129,
+    "district": "NICOSIA",
+    "id": 187
+  },
+  {
+    "name": "Πεντάκωμο",
+    "population": 644,
+    "district": "LIMASSOL",
+    "id": 188
+  },
+  {
+    "name": "Κούκλια",
+    "population": 892,
+    "district": "PAPHOS",
+    "id": 189
+  },
+  {
+    "name": "Πάνω Πολεμίδια",
+    "population": 3470,
+    "district": "LIMASSOL",
+    "id": 190
+  },
+  {
+    "name": "Δήμος Καραβά",
+    "population": 1474,
+    "district": "KYRENIA",
+    "id": 191,
+    "photoFilename": "Escape_Beach_North_Cyprus.jpg"
+  },
+  {
+    "name": "Σωτήρα",
+    "population": 143,
+    "district": "LIMASSOL",
+    "id": 192
+  },
+  {
+    "name": "Μύρτου",
+    "population": 278,
+    "district": "KYRENIA",
+    "id": 193
+  },
+  {
+    "name": "Δήμος Κερύνειας",
+    "population": 1192,
+    "district": "KYRENIA",
+    "id": 194
+  },
+  {
+    "name": "Κούκλια Αμμοχώστου",
+    "population": 135,
+    "district": "FAMAGUSTA",
+    "id": 195
+  },
+  {
+    "name": "Γαληνή",
+    "population": 283,
+    "district": "NICOSIA",
+    "id": 196
+  },
+  {
+    "name": "Κισσόνεργα",
+    "population": 2004,
+    "district": "PAPHOS",
+    "id": 197
+  },
+  {
+    "name": "Αχέλεια",
+    "population": 145,
+    "district": "PAPHOS",
+    "id": 198
+  },
+  {
+    "name": "Τριμίκλινη",
+    "population": 307,
+    "district": "LIMASSOL",
+    "id": 199
+  },
+  {
+    "name": "Στύλλοι",
+    "population": 216,
+    "district": "FAMAGUSTA",
+    "id": 200
+  },
+  {
+    "name": "Άγιος Σωζόμενος",
+    "population": 11,
+    "district": "NICOSIA",
+    "id": 201
+  },
+  {
+    "name": "Παλαιχώρι Ορεινής",
+    "population": 333,
+    "district": "NICOSIA",
+    "id": 202
+  },
+  {
+    "name": "Λιβάδι Πάφου",
+    "population": 0,
+    "district": "PAPHOS",
+    "id": 203
+  },
+  {
+    "name": "Βατυλή",
+    "population": 866,
+    "district": "FAMAGUSTA",
+    "id": 204
+  },
+  {
+    "name": "Κοινότητα Λεύκα Λευκωσίας",
+    "population": 4544,
+    "district": "NICOSIA",
+    "id": 205
+  },
+  {
+    "name": "Κλεπίνη",
+    "population": 88,
+    "district": "KYRENIA",
+    "id": 206
+  },
+  {
+    "name": "Άγιος Ιωάννης",
+    "population": 339,
+    "district": "LIMASSOL",
+    "id": 207
+  },
+  {
+    "name": "Κοινότητα Πέργαμος",
+    "population": 193,
+    "district": "LARNACA",
+    "id": 208,
+    "photoFilename": "1692712624-31528.jpg"
+  },
+  {
+    "name": "Πηγή Αμμοχώστου",
+    "population": 291,
+    "district": "FAMAGUSTA",
+    "id": 209
+  },
+  {
+    "name": "Άγιοι Ηλιόφωτοι",
+    "population": 60,
+    "district": "NICOSIA",
+    "id": 210
+  },
+  {
+    "name": "Όμοδος",
+    "population": 322,
+    "district": "LIMASSOL",
+    "id": 211
+  },
+  {
+    "name": "Μπέλλα-Πάις",
+    "population": 319,
+    "district": "KYRENIA",
+    "id": 212
+  },
+  {
+    "name": "Δελίκηπος",
+    "population": 23,
+    "district": "LARNACA",
+    "id": 213
+  },
+  {
+    "name": "Γούφες",
+    "population": 263,
+    "district": "FAMAGUSTA",
+    "id": 214
+  },
+  {
+    "name": "Βαθύλακας",
+    "population": 213,
+    "district": "FAMAGUSTA",
+    "id": 215
+  },
+  {
+    "name": "Γιόλου",
+    "population": 762,
+    "district": "PAPHOS",
+    "id": 216
+  },
+  {
+    "name": "Πραστειό",
+    "population": 190,
+    "district": "NICOSIA",
+    "id": 217
+  },
+  {
+    "name": "Τρεμετουσιά",
+    "population": 139,
+    "district": "LARNACA",
+    "id": 218
+  },
+  {
+    "name": "Άγιος Ιωάννης",
+    "population": 29,
+    "district": "PAPHOS",
+    "id": 219
+  },
+  {
+    "name": "Ύψωνας",
+    "population": 11117,
+    "district": "LIMASSOL",
+    "id": 220
+  },
+  {
+    "name": "Λιβερά",
+    "population": 34,
+    "district": "KYRENIA",
+    "id": 221
+  },
+  {
+    "name": "Βοκολίδα",
+    "population": 170,
+    "district": "FAMAGUSTA",
+    "id": 222
+  },
+  {
+    "name": "Βάβλα",
+    "population": 39,
+    "district": "LARNACA",
+    "id": 223
+  },
+  {
+    "name": "Κρήτου Μαρόττου",
+    "population": 85,
+    "district": "PAPHOS",
+    "id": 224
+  },
+  {
+    "name": "Μηλιά Πάφου",
+    "population": 14,
+    "district": "PAPHOS",
+    "id": 225
+  },
+  {
+    "name": "Μια Μηλιά",
+    "population": 268,
+    "district": "NICOSIA",
+    "id": 226
+  },
+  {
+    "name": "Φικάρδου",
+    "population": 15,
+    "district": "NICOSIA",
+    "id": 227
+  },
+  {
+    "name": "Άγιος Θωμάς",
+    "population": 50,
+    "district": "LIMASSOL",
+    "id": 228
+  },
+  {
+    "name": "Κοίλη",
+    "population": 466,
+    "district": "PAPHOS",
+    "id": 229
+  },
+  {
+    "name": "Αλέκτορα",
+    "population": 64,
+    "district": "LIMASSOL",
+    "id": 230
+  },
+  {
+    "name": "Σαραμά",
+    "population": 2,
+    "district": "PAPHOS",
+    "id": 231
+  },
+  {
+    "name": "Καμπυλή",
+    "population": 103,
+    "district": "KYRENIA",
+    "id": 232
+  },
+  {
+    "name": "Σπήλια",
+    "population": 142,
+    "district": "NICOSIA",
+    "id": 233
+  },
+  {
+    "name": "Γαϊδουράς",
+    "population": 150,
+    "district": "FAMAGUSTA",
+    "id": 234
+  },
+  {
+    "name": "Πύλα",
+    "population": 2771,
+    "district": "LARNACA",
+    "id": 235
+  },
+  {
+    "name": "Καζάφανι",
+    "population": 497,
+    "district": "KYRENIA",
+    "id": 236
+  },
+  {
+    "name": "Πάνω Δίκωμο",
+    "population": 227,
+    "district": "KYRENIA",
+    "id": 237
+  },
+  {
+    "name": "Μαμούνταλι",
+    "population": 18,
+    "district": "PAPHOS",
+    "id": 238
+  },
+  {
+    "name": "Δωρός",
+    "population": 135,
+    "district": "LIMASSOL",
+    "id": 239
+  },
+  {
+    "name": "Μονάγρι",
+    "population": 175,
+    "district": "LIMASSOL",
+    "id": 240
+  },
+  {
+    "name": "Κουκά",
+    "population": 27,
+    "district": "LIMASSOL",
+    "id": 241
+  },
+  {
+    "name": "Πραιτώρι",
+    "population": 23,
+    "district": "PAPHOS",
+    "id": 242
+  },
+  {
+    "name": "Μαραθούντα",
+    "population": 309,
+    "district": "PAPHOS",
+    "id": 243
+  },
+  {
+    "name": "Στατός",
+    "population": 214,
+    "district": "PAPHOS",
+    "id": 244
+  },
+  {
+    "name": "Άγιος Δημήτριος",
+    "population": 54,
+    "district": "LIMASSOL",
+    "id": 245
+  },
+  {
+    "name": "Πεδουλάς",
+    "population": 132,
+    "district": "NICOSIA",
+    "id": 246
+  },
+  {
+    "name": "Κοκκινοτριμιθιά",
+    "population": 4077,
+    "district": "NICOSIA",
+    "id": 247
+  },
+  {
+    "name": "Παλαιχώρι Μόρφου",
+    "population": 686,
+    "district": "NICOSIA",
+    "id": 248
+  },
+  {
+    "name": "Κοινότητα Τρίκωμου",
+    "population": 869,
+    "district": "FAMAGUSTA",
+    "id": 249
+  },
+  {
+    "name": "Μέσα Γειτονιά",
+    "population": 14477,
+    "district": "LIMASSOL",
+    "id": 250
+  },
+  {
+    "name": "Δύμες",
+    "population": 165,
+    "district": "LIMASSOL",
+    "id": 251
+  },
+  {
+    "name": "Καπηλειό",
+    "population": 34,
+    "district": "LIMASSOL",
+    "id": 252
+  },
+  {
+    "name": "Κάτω Αρόδες",
+    "population": 39,
+    "district": "PAPHOS",
+    "id": 253
+  },
+  {
+    "name": "Καπέδες",
+    "population": 572,
+    "district": "NICOSIA",
+    "id": 254
+  },
+  {
+    "name": "Άγιος Γεώργιος Πάφου",
+    "population": 101,
+    "district": "PAPHOS",
+    "id": 255
+  },
+  {
+    "name": "Καραμούλληδες",
+    "population": 33,
+    "district": "PAPHOS",
+    "id": 256
+  },
+  {
+    "name": "Μελίνη",
+    "population": 59,
+    "district": "LARNACA",
+    "id": 257
+  },
+  {
+    "name": "Λέμπα",
+    "population": 506,
+    "district": "PAPHOS",
+    "id": 258
+  },
+  {
+    "name": "Κιόνελι",
+    "population": 307,
+    "district": "NICOSIA",
+    "id": 259
+  },
+  {
+    "name": "Επισκοπή",
+    "population": 3681,
+    "district": "LIMASSOL",
+    "id": 260
+  },
+  {
+    "name": "Κούρτακα",
+    "population": 7,
+    "district": "PAPHOS",
+    "id": 261
+  },
+  {
+    "name": "Σωτήρα",
+    "population": 5474,
+    "district": "FAMAGUSTA",
+    "id": 262
+  },
+  {
+    "name": "Ελιά Κερύνειας",
+    "population": 59,
+    "district": "KYRENIA",
+    "id": 263
+  },
+  {
+    "name": "Γούρρη",
+    "population": 196,
+    "district": "NICOSIA",
+    "id": 264
+  },
+  {
+    "name": "Βάσα Κελλακίου",
+    "population": 73,
+    "district": "LIMASSOL",
+    "id": 265
+  },
+  {
+    "name": "Άγιος Γεώργιος",
+    "population": 111,
+    "district": "LIMASSOL",
+    "id": 266
+  },
+  {
+    "name": "Όβγορος",
+    "population": 201,
+    "district": "FAMAGUSTA",
+    "id": 267
+  },
+  {
+    "name": "Λιμνιά",
+    "population": 498,
+    "district": "FAMAGUSTA",
+    "id": 268
+  },
+  {
+    "name": "Κρήτου Τέρρα",
+    "population": 86,
+    "district": "PAPHOS",
+    "id": 269
+  },
+  {
+    "name": "Φασούλα",
+    "population": 560,
+    "district": "LIMASSOL",
+    "id": 270
+  },
+  {
+    "name": "Πραστειό (Αυδήμου)",
+    "population": 245,
+    "district": "LIMASSOL",
+    "id": 271
+  },
+  {
+    "name": "Ασπρογιά",
+    "population": 60,
+    "district": "PAPHOS",
+    "id": 272
+  },
+  {
+    "name": "Δρούσια",
+    "population": 405,
+    "district": "PAPHOS",
+    "id": 273
+  },
+  {
+    "name": "Κοινότητα Κατωκοπιά",
+    "population": 1578,
+    "district": "NICOSIA",
+    "id": 274
+  },
+  {
+    "name": "Αυλώνα",
+    "population": 160,
+    "district": "NICOSIA",
+    "id": 275
+  },
+  {
+    "name": "Πετροφάνι",
+    "population": 0,
+    "district": "LARNACA",
+    "id": 276
+  },
+  {
+    "name": "Άγιος Ερμόλαος",
+    "population": 508,
+    "district": "KYRENIA",
+    "id": 277,
+    "photoFilename": "a-erm.jpg"
+  },
+  {
+    "name": "Σιά",
+    "population": 754,
+    "district": "NICOSIA",
+    "id": 278
+  },
+  {
+    "name": "Πύργος",
+    "population": 2363,
+    "district": "LIMASSOL",
+    "id": 279,
+    "photoFilename": "pyrlem.jpg"
+  },
+  {
+    "name": "Λυθροδόντας",
+    "population": 3043,
+    "district": "NICOSIA",
+    "id": 280
+  },
+  {
+    "name": "Κιομουρτζιού",
+    "population": 44,
+    "district": "KYRENIA",
+    "id": 281
+  },
+  {
+    "name": "Αμίαντος",
+    "population": 228,
+    "district": "LIMASSOL",
+    "id": 282
+  },
+  {
+    "name": "Λεμύθου",
+    "population": 88,
+    "district": "LIMASSOL",
+    "id": 283
+  },
+  {
+    "name": "Νικήτας",
+    "population": 160,
+    "district": "NICOSIA",
+    "id": 284
+  },
+  {
+    "name": "Νικητάρι",
+    "population": 447,
+    "district": "NICOSIA",
+    "id": 285
+  },
+  {
+    "name": "Τριμιθούσα Χρυσοχούς",
+    "population": 0,
+    "district": "PAPHOS",
+    "id": 286
+  },
+  {
+    "name": "Χανδριά",
+    "population": 162,
+    "district": "LIMASSOL",
+    "id": 287
+  },
+  {
+    "name": "Μαργί",
+    "population": 146,
+    "district": "NICOSIA",
+    "id": 288
+  },
+  {
+    "name": "Κοιλίνια",
+    "population": 39,
+    "district": "PAPHOS",
+    "id": 289
+  },
+  {
+    "name": "Πυργά Λάρνακας",
+    "population": 782,
+    "district": "LARNACA",
+    "id": 290
+  },
+  {
+    "name": "Πέρα Πεδί",
+    "population": 120,
+    "district": "LIMASSOL",
+    "id": 291
+  },
+  {
+    "name": "Μαρώνι",
+    "population": 710,
+    "district": "LARNACA",
+    "id": 292
+  },
+  {
+    "name": "Άγιος Ιάκωβος",
+    "population": 92,
+    "district": "FAMAGUSTA",
+    "id": 293
+  },
+  {
+    "name": "Ίνεια",
+    "population": 385,
+    "district": "PAPHOS",
+    "id": 294
+  },
+  {
+    "name": "Μέσα Χωριό",
+    "population": 586,
+    "district": "PAPHOS",
+    "id": 295
+  },
+  {
+    "name": "Πατρίκι",
+    "population": 354,
+    "district": "FAMAGUSTA",
+    "id": 296
+  },
+  {
+    "name": "Κάτω Κουτραφάς",
+    "population": 17,
+    "district": "NICOSIA",
+    "id": 297
+  },
+  {
+    "name": "Πάνω Λεύκαρα",
+    "population": 737,
+    "district": "LARNACA",
+    "id": 298
+  },
+  {
+    "name": "Κιβισίλι",
+    "population": 233,
+    "district": "LARNACA",
+    "id": 299
+  },
+  {
+    "name": "Έγκωμη Λευκωσίας",
+    "population": 18010,
+    "district": "NICOSIA",
+    "id": 300
+  },
+  {
+    "name": "Νήσου",
+    "population": 2179,
+    "district": "NICOSIA",
+    "id": 301
+  },
+  {
+    "name": "Πυργά Αμμοχώστου",
+    "population": 347,
+    "district": "FAMAGUSTA",
+    "id": 302
+  },
+  {
+    "name": "Στρουμπί",
+    "population": 540,
+    "district": "PAPHOS",
+    "id": 303
+  },
+  {
+    "name": "Ακάκι",
+    "population": 3003,
+    "district": "NICOSIA",
+    "id": 304
+  },
+  {
+    "name": "Κονιά",
+    "population": 2209,
+    "district": "PAPHOS",
+    "id": 305
+  },
+  {
+    "name": "Ζύγι",
+    "population": 589,
+    "district": "LARNACA",
+    "id": 306
+  },
+  {
+    "name": "Νέο Χωριό",
+    "population": 519,
+    "district": "PAPHOS",
+    "id": 307
+  },
+  {
+    "name": "Άρμου",
+    "population": 600,
+    "district": "PAPHOS",
+    "id": 308
+  },
+  {
+    "name": "Πάνω Ακουρδάλια",
+    "population": 44,
+    "district": "PAPHOS",
+    "id": 309
+  },
+  {
+    "name": "Παχύαμμος",
+    "population": 70,
+    "district": "NICOSIA",
+    "id": 310
+  },
+  {
+    "name": "Αξύλου",
+    "population": 61,
+    "district": "PAPHOS",
+    "id": 311
+  },
+  {
+    "name": "Κοινότητα Καραβοστάσι",
+    "population": 38,
+    "district": "NICOSIA",
+    "id": 312
+  },
+  {
+    "name": "Κάτω Πολεμίδια",
+    "population": 22369,
+    "district": "LIMASSOL",
+    "id": 313
+  },
+  {
+    "name": "Κάθηκας",
+    "population": 438,
+    "district": "PAPHOS",
+    "id": 314
+  },
+  {
+    "name": "Στρογγυλός",
+    "population": 280,
+    "district": "FAMAGUSTA",
+    "id": 315
+  },
+  {
+    "name": "Κοράκου",
+    "population": 521,
+    "district": "NICOSIA",
+    "id": 316
+  },
+  {
+    "name": "Καλό Χωριό Ορεινής",
+    "population": 734,
+    "district": "NICOSIA",
+    "id": 317,
+    "photoFilename": "kx-or.jpg"
+  },
+  {
+    "name": "Ακουρσός",
+    "population": 22,
+    "district": "PAPHOS",
+    "id": 318
+  },
+  {
+    "name": "Ξυλοτύμβου",
+    "population": 3649,
+    "district": "LARNACA",
+    "id": 319
+  },
+  {
+    "name": "Βαρίσεια",
+    "population": 244,
+    "district": "NICOSIA",
+    "id": 320
+  },
+  {
+    "name": "Μουτταγιάκα",
+    "population": 2939,
+    "district": "LIMASSOL",
+    "id": 321
+  },
+  {
+    "name": "Λειβάδια Τρικώμου",
+    "population": 141,
+    "district": "FAMAGUSTA",
+    "id": 322
+  },
+  {
+    "name": "Βασίλεια",
+    "population": 477,
+    "district": "KYRENIA",
+    "id": 323,
+    "photoFilename": "1681283527-01504.jpg"
+  },
+  {
+    "name": "Κοτσιάτης",
+    "population": 160,
+    "district": "NICOSIA",
+    "id": 324
+  },
+  {
+    "name": "Τεμβριά",
+    "population": 498,
+    "district": "NICOSIA",
+    "id": 325
+  },
+  {
+    "name": "Καλυβάκια",
+    "population": 96,
+    "district": "NICOSIA",
+    "id": 326
+  },
+  {
+    "name": "Μιτσερό",
+    "population": 860,
+    "district": "NICOSIA",
+    "id": 327
+  },
+  {
+    "name": "Άγιος Φώτιος",
+    "population": 113,
+    "district": "PAPHOS",
+    "id": 328
+  },
+  {
+    "name": "Μοσφίλι",
+    "population": 20,
+    "district": "NICOSIA",
+    "id": 329
+  },
+  {
+    "name": "Σκαρίνου",
+    "population": 393,
+    "district": "LARNACA",
+    "id": 330
+  },
+  {
+    "name": "Χλώρακα",
+    "population": 5356,
+    "district": "PAPHOS",
+    "id": 331
+  },
+  {
+    "name": "Σοφτάδες",
+    "population": 62,
+    "district": "LARNACA",
+    "id": 332
+  },
+  {
+    "name": "Άγιος Αμβρόσιος",
+    "population": 323,
+    "district": "LIMASSOL",
+    "id": 333
+  },
+  {
+    "name": "Μαραθόβουνος",
+    "population": 777,
+    "district": "FAMAGUSTA",
+    "id": 334
+  },
+  {
+    "name": "Φλαμούδι",
+    "population": 235,
+    "district": "FAMAGUSTA",
+    "id": 335
+  },
+  {
+    "name": "Αγία Ειρήνη Κερύνειας",
+    "population": 682,
+    "district": "KYRENIA",
+    "id": 336,
+    "photoFilename": "a-eir.jpg"
+  },
+  {
+    "name": "Αλεθρικό",
+    "population": 1101,
+    "district": "LARNACA",
+    "id": 337
+  },
+  {
+    "name": "Μαράθα",
+    "population": 30,
+    "district": "FAMAGUSTA",
+    "id": 338
+  },
+  {
+    "name": "Πολιτικό",
+    "population": 419,
+    "district": "NICOSIA",
+    "id": 339
+  },
+  {
+    "name": "Τριμίθθι",
+    "population": 95,
+    "district": "KYRENIA",
+    "id": 340
+  },
+  {
+    "name": "Κισσούσα",
+    "population": 6,
+    "district": "LIMASSOL",
+    "id": 341
+  },
+  {
+    "name": "Βάσα Κοιλανίου",
+    "population": 163,
+    "district": "LIMASSOL",
+    "id": 342
+  },
+  {
+    "name": "Ποτάμι",
+    "population": 558,
+    "district": "NICOSIA",
+    "id": 343
+  },
+  {
+    "name": "Μαμώνια",
+    "population": 51,
+    "district": "PAPHOS",
+    "id": 344
+  },
+  {
+    "name": "Άγιος Ανδρόνικος Καρπασίας",
+    "population": 620,
+    "district": "FAMAGUSTA",
+    "id": 345
+  },
+  {
+    "name": "Αγιά Κεπίρ",
+    "population": 27,
+    "district": "NICOSIA",
+    "id": 346
+  },
+  {
+    "name": "Μόρφου",
+    "population": 2267,
+    "district": "NICOSIA",
+    "id": 347
+  },
+  {
+    "name": "Άγιος Παύλος",
+    "population": 135,
+    "district": "LIMASSOL",
+    "id": 348
+  },
+  {
+    "name": "Καλαβασός",
+    "population": 737,
+    "district": "LARNACA",
+    "id": 349
+  },
+  {
+    "name": "Κινούσα",
+    "population": 71,
+    "district": "PAPHOS",
+    "id": 350
+  },
+  {
+    "name": "Κοινότητα Κουτσοβέντη",
+    "population": 183,
+    "district": "KYRENIA",
+    "id": 351
+  },
+  {
+    "name": "Λαπηθιού",
+    "population": 0,
+    "district": "PAPHOS",
+    "id": 352
+  },
+  {
+    "name": "Άσσια",
+    "population": 989,
+    "district": "FAMAGUSTA",
+    "id": 353
+  },
+  {
+    "name": "Πολέμι",
+    "population": 848,
+    "district": "PAPHOS",
+    "id": 354
+  },
+  {
+    "name": "Πλάτρες",
+    "population": 239,
+    "district": "LIMASSOL",
+    "id": 355
+  },
+  {
+    "name": "Καμπιά",
+    "population": 475,
+    "district": "NICOSIA",
+    "id": 356
+  },
+  {
+    "name": "Άγιος Επιφάνιος Σολέας",
+    "population": 0,
+    "district": "NICOSIA",
+    "id": 357
+  },
+  {
+    "name": "Κανλί",
+    "population": 17,
+    "district": "NICOSIA",
+    "id": 358
+  },
+  {
+    "name": "Βυζακιά",
+    "population": 347,
+    "district": "NICOSIA",
+    "id": 359
+  },
+  {
+    "name": "Ζωοπηγή",
+    "population": 140,
+    "district": "LIMASSOL",
+    "id": 360
+  },
+  {
+    "name": "Μονιάτης",
+    "population": 275,
+    "district": "LIMASSOL",
+    "id": 361
+  },
+  {
+    "name": "Γαληνόπορνη",
+    "population": 415,
+    "district": "FAMAGUSTA",
+    "id": 362
+  },
+  {
+    "name": "Επτακώμη",
+    "population": 486,
+    "district": "FAMAGUSTA",
+    "id": 363
+  },
+  {
+    "name": "Λύση",
+    "population": 759,
+    "district": "FAMAGUSTA",
+    "id": 364
+  },
+  {
+    "name": "Κορνόκηπος",
+    "population": 169,
+    "district": "FAMAGUSTA",
+    "id": 365
+  },
+  {
+    "name": "Χρυσοχού",
+    "population": 132,
+    "district": "PAPHOS",
+    "id": 366
+  },
+  {
+    "name": "Κελλιά",
+    "population": 387,
+    "district": "LARNACA",
+    "id": 367
+  },
+  {
+    "name": "Μουσουλίτα",
+    "population": 132,
+    "district": "FAMAGUSTA",
+    "id": 368
+  },
+  {
+    "name": "Παλαιόσοφος",
+    "population": 92,
+    "district": "KYRENIA",
+    "id": 369
+  },
+  {
+    "name": "Άγιος Επιφάνιος Ορεινής",
+    "population": 412,
+    "district": "NICOSIA",
+    "id": 370
+  },
+  {
+    "name": "Πόλη Χρυσοχούς",
+    "population": 2018,
+    "district": "PAPHOS",
+    "id": 371
+  },
+  {
+    "name": "Αγίρδα",
+    "population": 105,
+    "district": "KYRENIA",
+    "id": 372,
+    "photoFilename": "agky.jpg"
+  },
+  {
+    "name": "Αμμαδιές",
+    "population": 140,
+    "district": "NICOSIA",
+    "id": 373
+  },
+  {
+    "name": "Αρμίνου",
+    "population": 24,
+    "district": "PAPHOS",
+    "id": 374
+  },
+  {
+    "name": "Αγγολέμι",
+    "population": 93,
+    "district": "NICOSIA",
+    "id": 375
+  },
+  {
+    "name": "Κοιλάνεμος",
+    "population": 49,
+    "district": "FAMAGUSTA",
+    "id": 376
+  },
+  {
+    "name": "Βαβατσινιά",
+    "population": 81,
+    "district": "LARNACA",
+    "id": 377
+  },
+  {
+    "name": "Φρέναρος",
+    "population": 4298,
+    "district": "FAMAGUSTA",
+    "id": 378
+  },
+  {
+    "name": "Άγιος Νικόλαος Σολέας",
+    "population": 85,
+    "district": "NICOSIA",
+    "id": 379
+  },
+  {
+    "name": "Παραλίμνι",
+    "population": 14963,
+    "district": "FAMAGUSTA",
+    "id": 380
+  },
+  {
+    "name": "Πέρα",
+    "population": 1372,
+    "district": "NICOSIA",
+    "id": 381
+  },
+  {
+    "name": "Γύψου",
+    "population": 425,
+    "district": "FAMAGUSTA",
+    "id": 382
+  },
+  {
+    "name": "Μαλιά",
+    "population": 64,
+    "district": "LIMASSOL",
+    "id": 383
+  },
+  {
+    "name": "Θελέτρα",
+    "population": 269,
+    "district": "PAPHOS",
+    "id": 384
+  },
+  {
+    "name": "Επισκοπειό",
+    "population": 524,
+    "district": "NICOSIA",
+    "id": 385
+  },
+  {
+    "name": "Κοντεμένος",
+    "population": 270,
+    "district": "KYRENIA",
+    "id": 386
+  },
+  {
+    "name": "Αγία Μαρίνα Κελοκεδάρων",
+    "population": 37,
+    "district": "PAPHOS",
+    "id": 387
+  },
+  {
+    "name": "Οίκος",
+    "population": 158,
+    "district": "NICOSIA",
+    "id": 388
+  },
+  {
+    "name": "Άγιος Σέργιος",
+    "population": 520,
+    "district": "FAMAGUSTA",
+    "id": 389
+  },
+  {
+    "name": "Λεμώνα",
+    "population": 51,
+    "district": "PAPHOS",
+    "id": 390
+  },
+  {
+    "name": "Άγιος Θεόδωρος Σολέας",
+    "population": 49,
+    "district": "NICOSIA",
+    "id": 391
+  },
+  {
+    "name": "Πέρα Χωριό",
+    "population": 2637,
+    "district": "NICOSIA",
+    "id": 392
+  },
+  {
+    "name": "Ανώγυρα",
+    "population": 301,
+    "district": "LIMASSOL",
+    "id": 393
+  },
+  {
+    "name": "Ορμήδεια",
+    "population": 4189,
+    "district": "LARNACA",
+    "id": 394
+  },
+  {
+    "name": "Κάτω Δρυς",
+    "population": 129,
+    "district": "LARNACA",
+    "id": 395
+  },
+  {
+    "name": "Άγιος Γεώργιος",
+    "population": 967,
+    "district": "KYRENIA",
+    "id": 396,
+    "photoFilename": "a-ge-k.jpg"
+  },
+  {
+    "name": "Άγιος Θεόδωρος",
+    "population": 65,
+    "district": "LIMASSOL",
+    "id": 397
+  },
+  {
+    "name": "Πάνω Αρχιμανδρίτα",
+    "population": 43,
+    "district": "PAPHOS",
+    "id": 398
+  },
+  {
+    "name": "Επισκοπή Πάφου",
+    "population": 220,
+    "district": "PAPHOS",
+    "id": 399
+  },
+  {
+    "name": "Κλωνάρι",
+    "population": 18,
+    "district": "LIMASSOL",
+    "id": 400
+  },
+  {
+    "name": "Κάτω Πλάτρες",
+    "population": 148,
+    "district": "LIMASSOL",
+    "id": 401
+  },
+  {
+    "name": "Μακούντα",
+    "population": 116,
+    "district": "PAPHOS",
+    "id": 402
+  },
+  {
+    "name": "Κοινότητα Κάρμι",
+    "population": 404,
+    "district": "KYRENIA",
+    "id": 403
+  },
+  {
+    "name": "Κορόβια",
+    "population": 248,
+    "district": "FAMAGUSTA",
+    "id": 404
+  },
+  {
+    "name": "Συκόπετρα",
+    "population": 120,
+    "district": "LIMASSOL",
+    "id": 405
+  },
+  {
+    "name": "Άγιος Θεράπων",
+    "population": 125,
+    "district": "LIMASSOL",
+    "id": 406
+  },
+  {
+    "name": "Αγία Μαρίνα",
+    "population": 568,
+    "district": "NICOSIA",
+    "id": 407
+  },
+  {
+    "name": "Μαντριά",
+    "population": 893,
+    "district": "PAPHOS",
+    "id": 408
+  },
+  {
+    "name": "Λευκόνοικο",
+    "population": 1448,
+    "district": "FAMAGUSTA",
+    "id": 409
+  },
+  {
+    "name": "Περιστερώνα",
+    "population": 2226,
+    "district": "NICOSIA",
+    "id": 410,
+    "photoFilename": "1620812110-32041.jpg"
+  },
+  {
+    "name": "Τέρρα",
+    "population": 36,
+    "district": "PAPHOS",
+    "id": 411
+  },
+  {
+    "name": "Κιδάσι",
+    "population": 11,
+    "district": "PAPHOS",
+    "id": 412
+  },
+  {
+    "name": "Σούνι-Ζανατζιά",
+    "population": 837,
+    "district": "LIMASSOL",
+    "id": 413
+  },
+  {
+    "name": "Αναρίτα",
+    "population": 876,
+    "district": "PAPHOS",
+    "id": 414
+  },
+  {
+    "name": "Πελαθούσα",
+    "population": 57,
+    "district": "PAPHOS",
+    "id": 415
+  },
+  {
+    "name": "Καμπί",
+    "population": 97,
+    "district": "NICOSIA",
+    "id": 416
+  },
+  {
+    "name": "Βώνη",
+    "population": 367,
+    "district": "NICOSIA",
+    "id": 417
+  },
+  {
+    "name": "Πολύστυπος",
+    "population": 128,
+    "district": "NICOSIA",
+    "id": 418
+  },
+  {
+    "name": "Σαράντι",
+    "population": 44,
+    "district": "NICOSIA",
+    "id": 419
+  },
+  {
+    "name": "Πραστειό Αμμοχώστου",
+    "population": 581,
+    "district": "FAMAGUSTA",
+    "id": 420
+  },
+  {
+    "name": "Φάλια",
+    "population": 2,
+    "district": "PAPHOS",
+    "id": 421
+  },
+  {
+    "name": "Βουνί",
+    "population": 149,
+    "district": "LIMASSOL",
+    "id": 422
+  },
+  {
+    "name": "Κυπερούντα",
+    "population": 1516,
+    "district": "LIMASSOL",
+    "id": 423
+  },
+  {
+    "name": "Κάτω Κυβίδες",
+    "population": 5,
+    "district": "LIMASSOL",
+    "id": 424
+  },
+  {
+    "name": "Σκούλλι",
+    "population": 65,
+    "district": "PAPHOS",
+    "id": 425
+  },
+  {
+    "name": "Φώττα",
+    "population": 143,
+    "district": "KYRENIA",
+    "id": 426
+  },
+  {
+    "name": "Άγιος Ισίδωρος",
+    "population": 7,
+    "district": "PAPHOS",
+    "id": 427
+  },
+  {
+    "name": "Λάρνακας της Λαπήθου",
+    "population": 376,
+    "district": "KYRENIA",
+    "id": 428
+  },
+  {
+    "name": "Πέτρα του Διγενή",
+    "population": 77,
+    "district": "NICOSIA",
+    "id": 429
+  },
+  {
+    "name": "Λιβάδια",
+    "population": 7177,
+    "district": "LARNACA",
+    "id": 430
+  },
+  {
+    "name": "Σπιτάλι",
+    "population": 316,
+    "district": "LIMASSOL",
+    "id": 431
+  },
+  {
+    "name": "Ορόκλινη",
+    "population": 6117,
+    "district": "LARNACA",
+    "id": 432
+  },
+  {
+    "name": "Ζαχαριά",
+    "population": 0,
+    "district": "PAPHOS",
+    "id": 433
+  },
+  {
+    "name": "Βιτσάδα",
+    "population": 242,
+    "district": "FAMAGUSTA",
+    "id": 434
+  },
+  {
+    "name": "Κάτω Μύλος",
+    "population": 50,
+    "district": "LIMASSOL",
+    "id": 435
+  },
+  {
+    "name": "Σιναόρος",
+    "population": 228,
+    "district": "NICOSIA",
+    "id": 436
+  },
+  {
+    "name": "Αμπελικού",
+    "population": 255,
+    "district": "NICOSIA",
+    "id": 437
+  },
+  {
+    "name": "Τρεμιθούσα Πάφου",
+    "population": 1041,
+    "district": "PAPHOS",
+    "id": 438
+  },
+  {
+    "name": "Πάναγρα",
+    "population": 43,
+    "district": "KYRENIA",
+    "id": 439
+  },
+  {
+    "name": "Άγιος Ανδρόνικος Τρικώμου",
+    "population": 79,
+    "district": "FAMAGUSTA",
+    "id": 440
+  },
+  {
+    "name": "Όρκα",
+    "population": 54,
+    "district": "KYRENIA",
+    "id": 441
+  },
+  {
+    "name": "Άγιος Γεώργιος Αμμοχώστου",
+    "population": 183,
+    "district": "FAMAGUSTA",
+    "id": 442
+  },
+  {
+    "name": "Μούσερε",
+    "population": 2,
+    "district": "PAPHOS",
+    "id": 443
+  },
+  {
+    "name": "Τραχώνι",
+    "population": 199,
+    "district": "NICOSIA",
+    "id": 444
+  },
+  {
+    "name": "Οδού",
+    "population": 213,
+    "district": "LARNACA",
+    "id": 445
+  },
+  {
+    "name": "Τσέρι",
+    "population": 7035,
+    "district": "NICOSIA",
+    "id": 446
+  },
+  {
+    "name": "Αυγόρου",
+    "population": 4604,
+    "district": "FAMAGUSTA",
+    "id": 447
+  },
+  {
+    "name": "Σίμου",
+    "population": 185,
+    "district": "PAPHOS",
+    "id": 448
+  },
+  {
+    "name": "Πέτρα",
+    "population": 472,
+    "district": "NICOSIA",
+    "id": 449
+  },
+  {
+    "name": "Χόλη",
+    "population": 83,
+    "district": "PAPHOS",
+    "id": 450
+  },
+  {
+    "name": "Νέο Χωριό",
+    "population": 578,
+    "district": "NICOSIA",
+    "id": 451
+  },
+  {
+    "name": "Νέα Δήμματα",
+    "population": 50,
+    "district": "PAPHOS",
+    "id": 452
+  },
+  {
+    "name": "Μελάναρκα",
+    "population": 134,
+    "district": "FAMAGUSTA",
+    "id": 453
+  },
+  {
+    "name": "Λουβαράς",
+    "population": 363,
+    "district": "LIMASSOL",
+    "id": 454
+  },
+  {
+    "name": "Σουσκιού",
+    "population": 10,
+    "district": "PAPHOS",
+    "id": 455
+  },
+  {
+    "name": "Φιλούσα Κελοκεδάρων",
+    "population": 17,
+    "district": "PAPHOS",
+    "id": 456
+  },
+  {
+    "name": "Μελούσεια",
+    "population": 82,
+    "district": "LARNACA",
+    "id": 457
+  },
+  {
+    "name": "Ψιμολόφου",
+    "population": 1626,
+    "district": "NICOSIA",
+    "id": 458
+  },
+  {
+    "name": "Άγιος Αμβρόσιος Κερύνειας",
+    "population": 1543,
+    "district": "KYRENIA",
+    "id": 459,
+    "photoFilename": "a-a-k.jpg"
+  },
+  {
+    "name": "Πάνω Δευτερά",
+    "population": 2789,
+    "district": "NICOSIA",
+    "id": 460
+  },
+  {
+    "name": "Παλαίκυθρο",
+    "population": 342,
+    "district": "NICOSIA",
+    "id": 461
+  },
+  {
+    "name": "Δήμος Πάφου",
+    "population": 32892,
+    "district": "PAPHOS",
+    "id": 462
+  },
+  {
+    "name": "Λάπαθος",
+    "population": 158,
+    "district": "FAMAGUSTA",
+    "id": 463
+  },
+  {
+    "name": "Αγία Νάπα",
+    "population": 3212,
+    "district": "FAMAGUSTA",
+    "id": 464
+  },
+  {
+    "name": "Κάτω Μονή",
+    "population": 339,
+    "district": "NICOSIA",
+    "id": 465
+  },
+  {
+    "name": "Μηλιού",
+    "population": 89,
+    "district": "PAPHOS",
+    "id": 466
+  },
+  {
+    "name": "Κοινότητα Γιαλούσα",
+    "population": 1302,
+    "district": "FAMAGUSTA",
+    "id": 467
+  },
+  {
+    "name": "Άγιος Ιωάννης Σελέμανη",
+    "population": 85,
+    "district": "NICOSIA",
+    "id": 468
+  },
+  {
+    "name": "Πάνω Ζώδεια",
+    "population": 15,
+    "district": "NICOSIA",
+    "id": 469
+  },
+  {
+    "name": "Παλαιόμυλος",
+    "population": 20,
+    "district": "LIMASSOL",
+    "id": 470
+  },
+  {
+    "name": "Αγία Μαρίνα Χρυσοχούς",
+    "population": 647,
+    "district": "PAPHOS",
+    "id": 471
+  },
+  {
+    "name": "Ξυλοφάγου",
+    "population": 6231,
+    "district": "LARNACA",
+    "id": 472
+  },
+  {
+    "name": "Ποταμιά",
+    "population": 505,
+    "district": "NICOSIA",
+    "id": 473
+  },
+  {
+    "name": "Πλατανιστάσα",
+    "population": 117,
+    "district": "NICOSIA",
+    "id": 474
+  },
+  {
+    "name": "Αγία Βαρβάρα",
+    "population": 172,
+    "district": "PAPHOS",
+    "id": 475
+  },
+  {
+    "name": "Κοινότητα Άχνα",
+    "population": 2087,
+    "district": "FAMAGUSTA",
+    "id": 476
+  },
+  {
+    "name": "Πυρόι",
+    "population": 98,
+    "district": "NICOSIA",
+    "id": 477
+  },
+  {
+    "name": "Φοίτη",
+    "population": 150,
+    "district": "PAPHOS",
+    "id": 478
+  },
+  {
+    "name": "Στενή",
+    "population": 173,
+    "district": "PAPHOS",
+    "id": 479
+  },
+  {
+    "name": "Παλαιομέτοχο",
+    "population": 4145,
+    "district": "NICOSIA",
+    "id": 480
+  },
+  {
+    "name": "Άγιος Γεώργιος Σολέας",
+    "population": 259,
+    "district": "NICOSIA",
+    "id": 481
+  },
+  {
+    "name": "Περιστερωνάρι",
+    "population": 49,
+    "district": "NICOSIA",
+    "id": 482
+  },
+  {
+    "name": "Πελένδρι",
+    "population": 1074,
+    "district": "LIMASSOL",
+    "id": 483
+  },
+  {
+    "name": "Σαλαμιού",
+    "population": 265,
+    "district": "PAPHOS",
+    "id": 484
+  },
+  {
+    "name": "Πάχνα",
+    "population": 865,
+    "district": "LIMASSOL",
+    "id": 485
+  },
+  {
+    "name": "Τάλα",
+    "population": 2695,
+    "district": "PAPHOS",
+    "id": 486
+  },
+  {
+    "name": "Πηγαίνια",
+    "population": 107,
+    "district": "NICOSIA",
+    "id": 487
+  },
+  {
+    "name": "Καντού",
+    "population": 349,
+    "district": "LIMASSOL",
+    "id": 488
+  },
+  {
+    "name": "Αχερίτου",
+    "population": 1556,
+    "district": "FAMAGUSTA",
+    "id": 489
+  },
+  {
+    "name": "Αυδήμου",
+    "population": 535,
+    "district": "LIMASSOL",
+    "id": 490
+  },
+  {
+    "name": "Άρσος",
+    "population": 185,
+    "district": "LARNACA",
+    "id": 491
+  },
+  {
+    "name": "Άγιος Χαρίτων",
+    "population": 32,
+    "district": "FAMAGUSTA",
+    "id": 492
+  },
+  {
+    "name": "Αγία Άννα Λάρνακας",
+    "population": 339,
+    "district": "LARNACA",
+    "id": 493
+  },
+  {
+    "name": "Τίμη",
+    "population": 1220,
+    "district": "PAPHOS",
+    "id": 494
+  },
+  {
+    "name": "Πυλέρι",
+    "population": 9,
+    "district": "KYRENIA",
+    "id": 495
+  },
+  {
+    "name": "Κίτι",
+    "population": 4252,
+    "district": "LARNACA",
+    "id": 496
+  },
+  {
+    "name": "Καλό Χωριό Λάρνακας",
+    "population": 1518,
+    "district": "LARNACA",
+    "id": 497
+  },
+  {
+    "name": "Άγιος Τύχωνας",
+    "population": 3455,
+    "district": "LIMASSOL",
+    "id": 498
+  },
+  {
+    "name": "Αναδιού",
+    "population": 17,
+    "district": "PAPHOS",
+    "id": 499
+  },
+  {
+    "name": "Κανναβιού",
+    "population": 175,
+    "district": "PAPHOS",
+    "id": 500
+  },
+  {
+    "name": "Πρόδρομος",
+    "population": 123,
+    "district": "LIMASSOL",
+    "id": 501
+  },
+  {
+    "name": "Μάντρες Τρικώμου",
+    "population": 127,
+    "district": "FAMAGUSTA",
+    "id": 502
+  },
+  {
+    "name": "Λυσός",
+    "population": 205,
+    "district": "PAPHOS",
+    "id": 503
+  },
+  {
+    "name": "Άγιος Μάμας",
+    "population": 114,
+    "district": "LIMASSOL",
+    "id": 504
+  },
+  {
+    "name": "Αψιού",
+    "population": 208,
+    "district": "LIMASSOL",
+    "id": 505
+  },
+  {
+    "name": "Κοινότητα Αγία Τριάδα Αμμοχώστου",
+    "population": 1078,
+    "district": "FAMAGUSTA",
+    "id": 506
+  },
+  {
+    "name": "Πισσούρι",
+    "population": 1819,
+    "district": "LIMASSOL",
+    "id": 507
+  },
+  {
+    "name": "Σκυλλούρα",
+    "population": 272,
+    "district": "NICOSIA",
+    "id": 508
+  },
+  {
+    "name": "Μοναρκά",
+    "population": 61,
+    "district": "FAMAGUSTA",
+    "id": 509
+  },
+  {
+    "name": "Ευρύχου",
+    "population": 827,
+    "district": "NICOSIA",
+    "id": 510
+  },
+  {
+    "name": "Παρεκκλησιά",
+    "population": 2738,
+    "district": "LIMASSOL",
+    "id": 511
+  },
+  {
+    "name": "Άγιος Δημητριανός Πάφου",
+    "population": 91,
+    "district": "PAPHOS",
+    "id": 512
+  },
+  {
+    "name": "Λουκρούνου",
+    "population": 4,
+    "district": "PAPHOS",
+    "id": 513
+  },
+  {
+    "name": "Δερύνεια",
+    "population": 5844,
+    "district": "FAMAGUSTA",
+    "id": 514
+  },
+  {
+    "name": "Ξυλιάτος",
+    "population": 138,
+    "district": "NICOSIA",
+    "id": 515
+  },
+  {
+    "name": "Αγρός",
+    "population": 806,
+    "district": "LIMASSOL",
+    "id": 516
+  },
+  {
+    "name": "Κόσιη",
+    "population": 0,
+    "district": "LARNACA",
+    "id": 517
+  },
+  {
+    "name": "Καλλέπεια",
+    "population": 326,
+    "district": "PAPHOS",
+    "id": 518
+  },
+  {
+    "name": "Νέτα",
+    "population": 73,
+    "district": "FAMAGUSTA",
+    "id": 519
+  },
+  {
+    "name": "Ορτάκιοϊ",
+    "population": 92,
+    "district": "NICOSIA",
+    "id": 520
+  },
+  {
+    "name": "Κορφή",
+    "population": 199,
+    "district": "LIMASSOL",
+    "id": 521
+  },
+  {
+    "name": "Δρύμου",
+    "population": 110,
+    "district": "PAPHOS",
+    "id": 522
+  },
+  {
+    "name": "Βρέτσια",
+    "population": 1,
+    "district": "PAPHOS",
+    "id": 523
+  },
+  {
+    "name": "Σπαθαρικό",
+    "population": 124,
+    "district": "FAMAGUSTA",
+    "id": 524
+  },
+  {
+    "name": "Αγκαστίνα",
+    "population": 513,
+    "district": "FAMAGUSTA",
+    "id": 525
+  },
+  {
+    "name": "Χάρτζια",
+    "population": 220,
+    "district": "KYRENIA",
+    "id": 526
+  },
+  {
+    "name": "Άλασσα",
+    "population": 282,
+    "district": "LIMASSOL",
+    "id": 527
+  },
+  {
+    "name": "Κόρνος",
+    "population": 2083,
+    "district": "LARNACA",
+    "id": 528
+  },
+  {
+    "name": "Πραστειό (Κελλακίου)",
+    "population": 103,
+    "district": "LIMASSOL",
+    "id": 529
+  },
+  {
+    "name": "Φαρμακάς",
+    "population": 480,
+    "district": "NICOSIA",
+    "id": 530
+  },
+  {
+    "name": "Στρόβολος",
+    "population": 67904,
+    "district": "NICOSIA",
+    "id": 531
+  },
+  {
+    "name": "Ψευδάς",
+    "population": 1261,
+    "district": "LARNACA",
+    "id": 532
+  },
+  {
+    "name": "Ψάθι",
+    "population": 110,
+    "district": "PAPHOS",
+    "id": 533
+  },
+  {
+    "name": "Ακρούντα",
+    "population": 455,
+    "district": "LIMASSOL",
+    "id": 534
+  },
+  {
+    "name": "Τσάδα",
+    "population": 1043,
+    "district": "PAPHOS",
+    "id": 535
+  },
+  {
+    "name": "Σύσκληπος",
+    "population": 167,
+    "district": "KYRENIA",
+    "id": 536
+  },
+  {
+    "name": "Αρμενοχώρι",
+    "population": 218,
+    "district": "LIMASSOL",
+    "id": 537
+  },
+  {
+    "name": "Άγιος Θεόδωρος Τηλλυρίας",
+    "population": 27,
+    "district": "NICOSIA",
+    "id": 538
+  },
+  {
+    "name": "Λεονάρισσο",
+    "population": 484,
+    "district": "FAMAGUSTA",
+    "id": 539
+  },
+  {
+    "name": "Καλοψίδα",
+    "population": 307,
+    "district": "FAMAGUSTA",
+    "id": 540
+  },
+  {
+    "name": "Αμαργέτη",
+    "population": 209,
+    "district": "PAPHOS",
+    "id": 541
+  },
+  {
+    "name": "Λιοπέτρι",
+    "population": 4591,
+    "district": "FAMAGUSTA",
+    "id": 542
+  },
+  {
+    "name": "Άγιος Κωνσταντίνος",
+    "population": 137,
+    "district": "LIMASSOL",
+    "id": 543
+  },
+  {
+    "name": "Μελάδια",
+    "population": 17,
+    "district": "PAPHOS",
+    "id": 544
+  },
+  {
+    "name": "Σελλάδι του Άππη",
+    "population": 0,
+    "district": "NICOSIA",
+    "id": 545
+  },
+  {
+    "name": "Χούλου",
+    "population": 147,
+    "district": "PAPHOS",
+    "id": 546
+  },
+  {
+    "name": "Τέμπλος",
+    "population": 136,
+    "district": "KYRENIA",
+    "id": 547
+  },
+  {
+    "name": "Τερσεφάνου",
+    "population": 1299,
+    "district": "LARNACA",
+    "id": 548,
+    "photoFilename": "tersefanou.jpg"
+  },
+  {
+    "name": "Επταγώνια",
+    "population": 353,
+    "district": "LIMASSOL",
+    "id": 549
+  },
+  {
+    "name": "Κλαυδιά",
+    "population": 427,
+    "district": "LARNACA",
+    "id": 550
+  },
+  {
+    "name": "Ταύρου",
+    "population": 139,
+    "district": "FAMAGUSTA",
+    "id": 551
+  },
+  {
+    "name": "Χολέτρια",
+    "population": 264,
+    "district": "PAPHOS",
+    "id": 552
+  },
+  {
+    "name": "Πλατανίστεια",
+    "population": 45,
+    "district": "LIMASSOL",
+    "id": 553
+  },
+  {
+    "name": "Ποταμίτισσα",
+    "population": 62,
+    "district": "LIMASSOL",
+    "id": 554
+  },
+  {
+    "name": "Τζιάος",
+    "population": 565,
+    "district": "FAMAGUSTA",
+    "id": 555
+  },
+  {
+    "name": "Πάνω Παναγιά Πάφου",
+    "population": 481,
+    "district": "PAPHOS",
+    "id": 556
+  },
+  {
+    "name": "Αλαμινός",
+    "population": 345,
+    "district": "LARNACA",
+    "id": 557
+  },
+  {
+    "name": "Επιχό",
+    "population": 304,
+    "district": "NICOSIA",
+    "id": 558
+  },
+  {
+    "name": "Ευρέτου",
+    "population": 3,
+    "district": "PAPHOS",
+    "id": 559
+  },
+  {
+    "name": "Αγίοι Βαβατσινιάς",
+    "population": 131,
+    "district": "LARNACA",
+    "id": 560
+  },
+  {
+    "name": "Συριανοχώρι",
+    "population": 286,
+    "district": "NICOSIA",
+    "id": 561
+  },
+  {
+    "name": "Παλώδια",
+    "population": 1568,
+    "district": "LIMASSOL",
+    "id": 562,
+    "photoFilename": "pal03.jpg"
+  },
+  {
+    "name": "Γουδί",
+    "population": 204,
+    "district": "PAPHOS",
+    "id": 563
+  },
+  {
+    "name": "Αβδελλερό",
+    "population": 196,
+    "district": "LARNACA",
+    "id": 564
+  },
+  {
+    "name": "Ποταμιού",
+    "population": 36,
+    "district": "LIMASSOL",
+    "id": 565
+  },
+  {
+    "name": "Αγία Ειρήνη Λευκωσίας",
+    "population": 27,
+    "district": "NICOSIA",
+    "id": 566
+  },
+  {
+    "name": "Γέρι",
+    "population": 8235,
+    "district": "NICOSIA",
+    "id": 567
+  },
+  {
+    "name": "Νατά",
+    "population": 181,
+    "district": "PAPHOS",
+    "id": 568
+  },
+  {
+    "name": "Νικόκλεια",
+    "population": 121,
+    "district": "PAPHOS",
+    "id": 569
+  },
+  {
+    "name": "Κακοπετριά",
+    "population": 1274,
+    "district": "NICOSIA",
+    "id": 570
+  },
+  {
+    "name": "Σκουριώτισσα",
+    "population": 11,
+    "district": "NICOSIA",
+    "id": 571
+  },
+  {
+    "name": "Αραδίππου",
+    "population": 19199,
+    "district": "LARNACA",
+    "id": 572
+  },
+  {
+    "name": "Δήμος Κυθρέας",
+    "population": 1630,
+    "district": "NICOSIA",
+    "id": 573
+  },
+  {
+    "name": "Σύγκραση",
+    "population": 133,
+    "district": "FAMAGUSTA",
+    "id": 574
+  },
+  {
+    "name": "Απλίκι",
+    "population": 87,
+    "district": "NICOSIA",
+    "id": 575
+  },
+  {
+    "name": "Δρυνιά",
+    "population": 55,
+    "district": "PAPHOS",
+    "id": 576
+  },
+  {
+    "name": "Δήμος Λεμεσού",
+    "population": 101000,
+    "district": "LIMASSOL",
+    "id": 577
+  },
+  {
+    "name": "Γεροβάσα-Τρόζενα",
+    "population": 0,
+    "district": "LIMASSOL",
+    "id": 578
+  },
+  {
+    "name": "Ανάγεια",
+    "population": 1514,
+    "district": "NICOSIA",
+    "id": 579
+  },
+  {
+    "name": "Αλεύγα",
+    "population": 9,
+    "district": "NICOSIA",
+    "id": 580
+  },
+  {
+    "name": "Δήμος Λάρνακας",
+    "population": 51214,
+    "district": "LARNACA",
+    "id": 581
+  },
+  {
+    "name": "Σανταλάρης",
+    "population": 25,
+    "district": "FAMAGUSTA",
+    "id": 582
+  },
+  {
+    "name": "Γαλάτα",
+    "population": 581,
+    "district": "NICOSIA",
+    "id": 583
+  },
+  {
+    "name": "Κελοκέδαρα",
+    "population": 193,
+    "district": "PAPHOS",
+    "id": 584
+  },
+  {
+    "name": "Λετύμπου",
+    "population": 249,
+    "district": "PAPHOS",
+    "id": 585
+  },
+  {
+    "name": "Πιταρκού",
+    "population": 0,
+    "district": "PAPHOS",
+    "id": 586
+  },
+  {
+    "name": "Πλατανισσός",
+    "population": 308,
+    "district": "FAMAGUSTA",
+    "id": 587
+  },
+  {
+    "name": "Πλατάνι Αμμοχώστου",
+    "population": 158,
+    "district": "FAMAGUSTA",
+    "id": 588
+  },
+  {
+    "name": "Πάνω Αρόδες",
+    "population": 135,
+    "district": "PAPHOS",
+    "id": 589
+  },
+  {
+    "name": "Αρακαπάς",
+    "population": 307,
+    "district": "LIMASSOL",
+    "id": 590
+  },
+  {
+    "name": "Φοίνικας Πάφου",
+    "population": 0,
+    "district": "PAPHOS",
+    "id": 591
+  },
+  {
+    "name": "Αγλαντζιά",
+    "population": 20783,
+    "district": "NICOSIA",
+    "id": 592
+  },
+  {
+    "name": "Ελιά Λευκωσίας",
+    "population": 331,
+    "district": "NICOSIA",
+    "id": 593
+  },
+  {
+    "name": "Λιμνάτης",
+    "population": 314,
+    "district": "LIMASSOL",
+    "id": 594
+  },
+  {
+    "name": "Δένεια",
+    "population": 373,
+    "district": "NICOSIA",
+    "id": 595
+  },
+  {
+    "name": "Απλάντα",
+    "population": 6,
+    "district": "LARNACA",
+    "id": 596
+  },
+  {
+    "name": "Άρσος",
+    "population": 202,
+    "district": "LIMASSOL",
+    "id": 597
+  },
+  {
+    "name": "Κοφίνου",
+    "population": 1309,
+    "district": "LARNACA",
+    "id": 598
+  },
+  {
+    "name": "Μελάνδρα",
+    "population": 2,
+    "district": "PAPHOS",
+    "id": 599
+  },
+  {
+    "name": "Κιος",
+    "population": 0,
+    "district": "PAPHOS",
+    "id": 600
+  },
+  {
+    "name": "Δάλι",
+    "population": 10466,
+    "district": "NICOSIA",
+    "id": 601
+  },
+  {
+    "name": "Καζιβερά",
+    "population": 116,
+    "district": "NICOSIA",
+    "id": 602
+  },
+  {
+    "name": "Αλάμπρα",
+    "population": 1585,
+    "district": "NICOSIA",
+    "id": 603
+  },
+  {
+    "name": "Γερμασόγεια",
+    "population": 13421,
+    "district": "LIMASSOL",
+    "id": 604
+  },
+  {
+    "name": "Απεσιά",
+    "population": 474,
+    "district": "LIMASSOL",
+    "id": 605
+  },
+  {
+    "name": "Λάνια",
+    "population": 281,
+    "district": "LIMASSOL",
+    "id": 606
+  },
+  {
+    "name": "Αγρίδια",
+    "population": 104,
+    "district": "LIMASSOL",
+    "id": 607
+  },
+  {
+    "name": "Τράπεζα Κερύνειας",
+    "population": 44,
+    "district": "KYRENIA",
+    "id": 608
+  },
+  {
+    "name": "Κυρά",
+    "population": 782,
+    "district": "NICOSIA",
+    "id": 609
+  },
+  {
+    "name": "Βίκλα",
+    "population": 1,
+    "district": "LIMASSOL",
+    "id": 610
+  },
+  {
+    "name": "Ερήμη",
+    "population": 2432,
+    "district": "LIMASSOL",
+    "id": 611
+  },
+  {
+    "name": "Φτέρυχα",
+    "population": 71,
+    "district": "KYRENIA",
+    "id": 612
+  },
+  {
+    "name": "Γιαλιά",
+    "population": 202,
+    "district": "PAPHOS",
+    "id": 613
+  },
+  {
+    "name": "Ασγάτα",
+    "population": 417,
+    "district": "LIMASSOL",
+    "id": 614
+  },
+  {
+    "name": "Τσακίστρα",
+    "population": 79,
+    "district": "NICOSIA",
+    "id": 615
+  },
+  {
+    "name": "Διόριος",
+    "population": 387,
+    "district": "KYRENIA",
+    "id": 616
+  },
+  {
+    "name": "Άρδανα",
+    "population": 99,
+    "district": "FAMAGUSTA",
+    "id": 617
+  }
 ]
