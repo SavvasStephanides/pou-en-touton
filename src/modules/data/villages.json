@@ -583,37 +583,43 @@
     "name": "Τραχώνι",
     "population": 3952,
     "district": "LIMASSOL",
-    "id": 85
+    "id": 85,
+    "photoFilename": "v-85.jpg"
   },
   {
     "name": "Αργάκα",
     "population": 1078,
     "district": "PAPHOS",
-    "id": 86
+    "id": 86,
+    "photoFilename": "v-86.jpg"
   },
   {
     "name": "Γαλαταριά",
     "population": 56,
     "district": "PAPHOS",
-    "id": 87
+    "id": 87,
+    "photoFilename": "v-87.jpg"
   },
   {
     "name": "Άγιος Ιωάννης Μαλούντας",
     "population": 472,
     "district": "NICOSIA",
-    "id": 88
+    "id": 88,
+    "photoFilename": "v-88.jpg"
   },
   {
     "name": "Κώμα του Γιαλού",
     "population": 482,
     "district": "FAMAGUSTA",
-    "id": 89
+    "id": 89,
+    "photoFilename": "v-89.jpg"
   },
   {
     "name": "Λυθράγκωμη",
     "population": 194,
     "district": "FAMAGUSTA",
-    "id": 90
+    "id": 90,
+    "photoFilename": "v-90.jpg"
   },
   {
     "name": "Τσερκέζ Τσιφτλίκ",
@@ -625,13 +631,15 @@
     "name": "Βασίλι",
     "population": 183,
     "district": "FAMAGUSTA",
-    "id": 92
+    "id": 92,
+    "photoFilename": "v-92.jpg"
   },
   {
     "name": "Κάτω Πύργος",
     "population": 1036,
     "district": "NICOSIA",
-    "id": 93
+    "id": 93,
+    "photoFilename": "v-93.jpg"
   },
   {
     "name": "Μάνδρες Λευκωσίας",
@@ -649,31 +657,36 @@
     "name": "Εργάτες",
     "population": 1792,
     "district": "NICOSIA",
-    "id": 96
+    "id": 96,
+    "photoFilename": "v-96.jpg"
   },
   {
     "name": "Κάτω Ακουρδάλια",
     "population": 65,
     "district": "PAPHOS",
-    "id": 97
+    "id": 97,
+    "photoFilename": "v-97.jpg"
   },
   {
     "name": "Πεντάγεια",
     "population": 84,
     "district": "NICOSIA",
-    "id": 98
+    "id": 98,
+    "photoFilename": "v-98.jpg"
   },
   {
     "name": "Γερακιές",
     "population": 75,
     "district": "NICOSIA",
-    "id": 99
+    "id": 99,
+    "photoFilename": "v-99.jpg"
   },
   {
     "name": "Τράχωνας",
     "population": 179,
     "district": "NICOSIA",
-    "id": 100
+    "id": 100,
+    "photoFilename": "v-100.jpg"
   },
   {
     "name": "Γαλάτεια (Κύπρος)",
