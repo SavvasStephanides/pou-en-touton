@@ -689,28 +689,32 @@
     "photoFilename": "v-100.jpg"
   },
   {
-    "name": "Γαλάτεια (Κύπρος)",
+    "name": "Γαλάτεια",
     "population": 596,
     "district": "FAMAGUSTA",
-    "id": 101
+    "id": 101,
+    "photoFilename": "v-101.jpg"
   },
   {
     "name": "Καρπάσια",
     "population": 63,
     "district": "KYRENIA",
-    "id": 102
+    "id": 102,
+    "photoFilename": "v-102.jpg"
   },
   {
     "name": "Άγιοι Τριμιθιάς",
     "population": 1529,
     "district": "NICOSIA",
-    "id": 103
+    "id": 103,
+    "photoFilename": "v-103.jpg"
   },
   {
     "name": "Κάμπος",
     "population": 271,
     "district": "NICOSIA",
-    "id": 104
+    "id": 104,
+    "photoFilename": "v-104.jpg"
   },
   {
     "name": "Δήμος Αμμοχώστου",
@@ -722,37 +726,43 @@
     "name": "Ακαπνού",
     "population": 20,
     "district": "LIMASSOL",
-    "id": 106
+    "id": 106,
+    "photoFilename": "v-106.jpg"
   },
   {
     "name": "Δήμος Λαπήθου",
     "population": 2370,
     "district": "KYRENIA",
-    "id": 107
+    "id": 107,
+    "photoFilename": "v-107.jpg"
   },
   {
     "name": "Λάγια",
     "population": 28,
     "district": "LARNACA",
-    "id": 108
+    "id": 108,
+    "photoFilename": "v-108.jpg"
   },
   {
     "name": "Μπογάζι",
     "population": 15,
     "district": "FAMAGUSTA",
-    "id": 109
+    "id": 109,
+    "photoFilename": "v-109.jpg"
   },
   {
     "name": "Γεροσκήπου",
     "population": 7878,
     "district": "PAPHOS",
-    "id": 110
+    "id": 110,
+    "photoFilename": "v-110.jpg"
   },
   {
     "name": "Λάσα Πάφου",
     "population": 67,
     "district": "PAPHOS",
-    "id": 111
+    "id": 111,
+    "photoFilename": "v-111.jpg"
   },
   {
     "name": "Τρόοδος",
@@ -770,7 +780,8 @@
     "name": "Μεσόγη",
     "population": 1689,
     "district": "PAPHOS",
-    "id": 114
+    "id": 114,
+    "photoFilename": "v-114.jpg"
   },
   {
     "name": "Μάρωνας",
@@ -788,7 +799,8 @@
     "name": "Λατσιά",
     "population": 16774,
     "district": "NICOSIA",
-    "id": 117
+    "id": 117,
+    "photoFilename": "v-117.jpg"
   },
   {
     "name": "Τρούλλοι",
