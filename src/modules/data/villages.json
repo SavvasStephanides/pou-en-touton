@@ -806,7 +806,8 @@
     "name": "Τρούλλοι",
     "population": 1169,
     "district": "LARNACA",
-    "id": 118
+    "id": 118,
+    "photoFilename": "v-118.jpg"
   },
   {
     "name": "Κοινότητα Άγιος Ευστάθιος Αμμοχώστου",
@@ -818,49 +819,57 @@
     "name": "Σταυροκόννου",
     "population": 56,
     "district": "PAPHOS",
-    "id": 120
+    "id": 120,
+    "photoFilename": "v-120.jpg"
   },
   {
     "name": "Αγία Μαρίνα Σκυλλούρας",
     "population": 74,
     "district": "NICOSIA",
-    "id": 121
+    "id": 121,
+    "photoFilename": "v-121.jpg"
   },
   {
     "name": "Άγιος Νικόλαος Πάφου",
     "population": 61,
     "district": "PAPHOS",
-    "id": 122
+    "id": 122,
+    "photoFilename": "v-122.jpg"
   },
   {
     "name": "Κολόσσι",
     "population": 5651,
     "district": "LIMASSOL",
-    "id": 123
+    "id": 123,
+    "photoFilename": "v-123.jpg"
   },
   {
     "name": "Έμπα",
     "population": 4855,
     "district": "PAPHOS",
-    "id": 124
+    "id": 124,
+    "photoFilename": "v-124.jpg"
   },
   {
     "name": "Πέγεια",
     "population": 3953,
     "district": "PAPHOS",
-    "id": 125
+    "id": 125,
+    "photoFilename": "v-125.jpg"
   },
   {
     "name": "Μαρί",
     "population": 158,
     "district": "LARNACA",
-    "id": 126
+    "id": 126,
+    "photoFilename": "v-126.jpg"
   },
   {
     "name": "Πωμός",
     "population": 448,
     "district": "PAPHOS",
-    "id": 127
+    "id": 127,
+    "photoFilename": "v-127.jpg"
   },
   {
     "name": "Κοινότητα Ξερόβουνος",
@@ -872,13 +881,15 @@
     "name": "Αληθινού",
     "population": 9,
     "district": "NICOSIA",
-    "id": 129
+    "id": 129,
+    "photoFilename": "v-129.jpg"
   },
   {
     "name": "Κέδαρες",
     "population": 80,
     "district": "PAPHOS",
-    "id": 130
+    "id": 130,
+    "photoFilename": "v-130.jpg"
   },
   {
     "name": "Αθηένου",
