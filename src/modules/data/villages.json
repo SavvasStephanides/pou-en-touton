@@ -902,13 +902,15 @@
     "name": "Λαγουδερά",
     "population": 84,
     "district": "NICOSIA",
-    "id": 132
+    "id": 132,
+    "photoFilename": "v-132.jpg"
   },
   {
     "name": "Διερώνα",
     "population": 192,
     "district": "LIMASSOL",
-    "id": 133
+    "id": 133,
+    "photoFilename": "v-133.jpg"
   },
   {
     "name": "Αφάνεια",
@@ -920,7 +922,8 @@
     "name": "Καλογραία",
     "population": 283,
     "district": "KYRENIA",
-    "id": 135
+    "id": 135,
+    "photoFilename": "v-135.jpg"
   },
   {
     "name": "Αγριδάκι",
@@ -933,7 +936,8 @@
     "name": "Συλίκου",
     "population": 137,
     "district": "LIMASSOL",
-    "id": 137
+    "id": 137,
+    "photoFilename": "v-137.jpg"
   },
   {
     "name": "Φασούλα Κελοκεδάρων",
@@ -945,7 +949,8 @@
     "name": "Ακανθού",
     "population": 1162,
     "district": "FAMAGUSTA",
-    "id": 139
+    "id": 139,
+    "photoFilename": "v-139.jpg"
   },
   {
     "name": "Φλάσου",
