@@ -956,7 +956,8 @@
     "name": "Φλάσου",
     "population": 240,
     "district": "NICOSIA",
-    "id": 140
+    "id": 140,
+    "photoFilename": "v-140.jpg"
   },
   {
     "name": "Γέναγρα",
@@ -968,25 +969,29 @@
     "name": "Ληνού",
     "population": 161,
     "district": "NICOSIA",
-    "id": 142
+    "id": 142,
+    "photoFilename": "v-142.jpg"
   },
   {
     "name": "Μέσανα",
     "population": 31,
     "district": "PAPHOS",
-    "id": 143
+    "id": 143,
+    "photoFilename": "v-143.jpg"
   },
   {
     "name": "Δήμος Δρομολαξιάς-Μενεού",
     "population": 6689,
     "district": "LARNACA",
-    "id": 144
+    "id": 144,
+    "photoFilename": "v-144.jpg"
   },
   {
     "name": "Ορούντα",
     "population": 604,
     "district": "NICOSIA",
-    "id": 145
+    "id": 145,
+    "photoFilename": "v-145.jpg"
   },
   {
     "name": "Μότιδες",
@@ -998,37 +1003,43 @@
     "name": "Αγία Μαρινούδα",
     "population": 266,
     "district": "PAPHOS",
-    "id": 147
+    "id": 147,
+    "photoFilename": "v-147.jpg"
   },
   {
     "name": "Άγιος Θεόδωρος Σκαρίνου",
     "population": 663,
     "district": "LARNACA",
-    "id": 148
+    "id": 148,
+    "photoFilename": "v-148.jpg"
   },
   {
     "name": "Μανδριά",
     "population": 107,
     "district": "LIMASSOL",
-    "id": 149
+    "id": 149,
+    "photoFilename": "v-149.jpg"
   },
   {
     "name": "Ασώματος",
     "population": 726,
     "district": "LIMASSOL",
-    "id": 150
+    "id": 150,
+    "photoFilename": "v-150.jpg"
   },
   {
     "name": "Κάτω Λεύκαρα",
     "population": 128,
     "district": "LARNACA",
-    "id": 151
+    "id": 151,
+    "photoFilename": "v-151.jpg"
   },
   {
     "name": "Μπέικιοϊ",
     "population": 191,
     "district": "NICOSIA",
-    "id": 152
+    "id": 152,
+    "photoFilename": "v-152.jpg"
   },
   {
     "name": "Μόρα",
