@@ -17,9 +17,15 @@ section#question .question-title{
 section#question ul.possible-answers{
     list-style: none;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     padding: 15px;
     gap: 5px;
+}
+
+@media (min-width: 500px){
+    section#question ul.possible-answers{
+        grid-template-columns: 1fr 1fr;
+    }
 }
 
 section#question ul.possible-answers li button{

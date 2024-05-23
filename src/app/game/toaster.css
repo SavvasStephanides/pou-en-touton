@@ -1,13 +1,9 @@
-/* style={{display: "flex", position: "absolute", top: 0, left: 0, width: "100%", opacity: 0}} */
-
 #toaster-wrapper{
     display: flex;
-    position: absolute;
-    top: 0;
-    left: 0;
+    position: fixed;
+    bottom: 100%;
     width: 100%;
-    opacity: 0;
-    transition: opacity 1s ease;
+    transition: bottom 0.3s ease;
     font-weight: bold;
 }
 
@@ -22,5 +18,5 @@
 }
 
 #toaster-wrapper[show="1"]{
-    opacity: 1;
+    bottom: calc(100% - 60px);
 }

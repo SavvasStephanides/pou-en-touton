@@ -65,10 +65,6 @@ function getGameFromVillage(village) {
                 {
                     question: `Πόσος είναι ο πληθυσμός του χωριού ${village.name};`,
                     iconEmoji: "👨‍👩‍👦"
-                },
-                {
-                    question: `Ποιό απο τα χωριά βρίσκονται στην επαρχία ${districts.find(d => d.id === village.district).name};`,
-                    iconEmoji: "🏙️"
                 }
             ]
         }
@@ -120,30 +116,6 @@ function getGameFromVillage(village) {
     if (village.population >= 10000) game.game.gameQuestions[2].correctAnswer = 3
 
     game.game.gameQuestions[2].placePhoto = village.photoFilename ? village.photoFilename : ""
-
-    // Ποιό απο τα χωριά βρίσκονται στην επαρχία
-
-    let district = districts.find(district => district.id === village.district)
-
-    game.game.gameQuestions[3].placePhoto = `districts/${district.photoFilename}`
-    game.game.gameQuestions[3].possibleAnswers = Array(4)
-    let correctIndex = Math.floor(Math.random() * 4)
-    game.game.gameQuestions[3].correctAnswer = correctIndex
-    game.game.gameQuestions[3].possibleAnswers[correctIndex] = {
-        title: getRandomVillageByDistrict(village.district).name,
-        status: "none"
-    }
-    
-    for(let i = 0 ; i < 4 ; i++){
-        if(game.game.gameQuestions[3].possibleAnswers[i] === undefined){
-            let districtsWithVillageDistrictFilteredOut = districts.filter(district => district.id !== village.district)
-            let district = districtsWithVillageDistrictFilteredOut[Math.floor(Math.random() * districtsWithVillageDistrictFilteredOut.length)]
-            game.game.gameQuestions[3].possibleAnswers[i] = {
-                title: getRandomVillageByDistrict(district.id).name,
-                status: "none"
-            }
-        }
-    }
 
     return game
 }

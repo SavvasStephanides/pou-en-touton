@@ -159,7 +159,7 @@ export default function GamePage() {
           </section>
           {gameState.gameQuestions[gameState.currentLevel].correctAnswerIsFound() && <div className="question-end-buttons">
             <button className="share" onClick={() => copyShareableString()}>Μοιράσου το σκόρ σου!</button>
-            {gameState.currentLevel !== (gameState.gameQuestions.length-1) && <button className="next-level" onClick={() => goToNextLevel()}>🎁 Επόμενος γύρος</button>}
+            {gameState.currentLevel !== (gameState.gameQuestions.length-1) && <button className="next-level" onClick={() => goToNextLevel()}>🎁 Bonus γύρος</button>}
 
             
           </div>}
