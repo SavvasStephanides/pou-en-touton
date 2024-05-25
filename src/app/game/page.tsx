@@ -146,6 +146,7 @@ export default function GamePage() {
         <div className="game-question">
           <section id="place-photo">
             <img src={`${BASE_PATH}/place-photos/${gameState.gameQuestions[gameState.currentLevel].placePhoto}`} alt="" />
+            {gameState.gameQuestions[0].possibleAnswers.some(answer => answer.status === "CORRECT") && <div className="place-name">{gameState.gameQuestions[0].possibleAnswers[gameState.gameQuestions[0].correctAnswer].title}</div>}
           </section>
           <section id="question">
             <div className="question-title">{gameState.gameQuestions[gameState.currentLevel].iconEmoji} {gameState.gameQuestions[gameState.currentLevel].question}</div>
