@@ -1051,43 +1051,50 @@
     "name": "Κοινότητα Κόκκινα",
     "population": 155,
     "district": "NICOSIA",
-    "id": 154
+    "id": 154,
+    "photoFilename": "v-154.jpg"
   },
   {
     "name": "Φυλλιά",
     "population": 153,
     "district": "NICOSIA",
-    "id": 155
+    "id": 155,
+    "photoFilename": "v-155.jpg"
   },
   {
     "name": "Στατός-Άγιος Φώτιος",
     "population": 243,
     "district": "PAPHOS",
-    "id": 156
+    "id": 156,
+    "photoFilename": "v-156.jpg"
   },
   {
     "name": "Λουρουκίνα",
     "population": 11,
     "district": "NICOSIA",
-    "id": 157
+    "id": 157,
+    "photoFilename": "v-157.jpg"
   },
   {
     "name": "Ψεματισμένος",
     "population": 271,
     "district": "LARNACA",
-    "id": 158
+    "id": 158,
+    "photoFilename": "v-158.jpg"
   },
   {
     "name": "Περιστερώνα Χρυσοχούς",
     "population": 302,
     "district": "PAPHOS",
-    "id": 159
+    "id": 159,
+    "photoFilename": "v-159.jpg"
   },
   {
     "name": "Μενόγια",
     "population": 50,
     "district": "LARNACA",
-    "id": 160
+    "id": 160,
+    "photoFilename": "v-160.jpg"
   },
   {
     "name": "Βουνό",
@@ -1100,13 +1107,15 @@
     "name": "Πενταλιά",
     "population": 63,
     "district": "PAPHOS",
-    "id": 162
+    "id": 162,
+    "photoFilename": "v-162.jpg"
   },
   {
     "name": "Μουτουλλάς",
     "population": 174,
     "district": "NICOSIA",
-    "id": 163
+    "id": 163,
+    "photoFilename": "v-163.jpg"
   },
   {
     "name": "Αργάκι",
@@ -1137,7 +1146,8 @@
     "name": "Αναφωτία",
     "population": 790,
     "district": "LARNACA",
-    "id": 168
+    "id": 168,
+    "photoFilename": "v-168.jpg"
   },
   {
     "name": "Αλόδα",
@@ -1149,7 +1159,8 @@
     "name": "Συνοικισμός Ανθούπολης",
     "population": 1756,
     "district": "NICOSIA",
-    "id": 170
+    "id": 170,
+    "photoFilename": "v-170.jpg"
   },
   {
     "name": "Πραστειό Κελοκεδάρων",
@@ -1179,13 +1190,15 @@
     "name": "Μαζωτός",
     "population": 832,
     "district": "LARNACA",
-    "id": 175
+    "id": 175,
+    "photoFilename": "v-175.jpg"
   },
   {
     "name": "Μοσφιλωτή",
     "population": 1342,
     "district": "LARNACA",
-    "id": 176
+    "id": 176,
+    "photoFilename": "v-176.jpg"
   },
   {
     "name": "Ασώματος Κερύνειας",
