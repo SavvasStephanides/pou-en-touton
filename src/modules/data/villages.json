@@ -1166,13 +1166,15 @@
     "name": "Πραστειό Κελοκεδάρων",
     "population": 8,
     "district": "PAPHOS",
-    "id": 171
+    "id": 171,
+    "photoFilename": "v-171.jpg"
   },
   {
     "name": "Ορά",
     "population": 206,
     "district": "LARNACA",
-    "id": 172
+    "id": 172,
+    "photoFilename": "v-172.jpg"
   },
   {
     "name": "Δήμος Λευκωσίας",
@@ -1184,7 +1186,8 @@
     "name": "Περιβόλια του Τρικώμου",
     "population": 73,
     "district": "FAMAGUSTA",
-    "id": 174
+    "id": 174,
+    "photoFilename": "v-174.jpg"
   },
   {
     "name": "Μαζωτός",
@@ -1217,31 +1220,36 @@
     "name": "Γεράνι Αμμοχώστου",
     "population": 141,
     "district": "FAMAGUSTA",
-    "id": 179
+    "id": 179,
+    "photoFilename": "v-179.jpg"
   },
   {
     "name": "Φιλούσα Χρυσοχούς",
     "population": 31,
     "district": "PAPHOS",
-    "id": 180
+    "id": 180,
+    "photoFilename": "v-180.jpg"
   },
   {
     "name": "Τύμβου",
     "population": 278,
     "district": "NICOSIA",
-    "id": 181
+    "id": 181,
+    "photoFilename": "v-181.jpg"
   },
   {
     "name": "Αναλιόντας",
     "population": 443,
     "district": "NICOSIA",
-    "id": 182
+    "id": 182,
+    "photoFilename": "v-182.jpg"
   },
   {
     "name": "Περβόλια Λάρνακας",
     "population": 3009,
     "district": "LARNACA",
-    "id": 183
+    "id": 183,
+    "photoFilename": "v-183.jpg"
   },
   {
     "name": "Φροδίσια",
@@ -1265,25 +1273,29 @@
     "name": "Καννάβια",
     "population": 129,
     "district": "NICOSIA",
-    "id": 187
+    "id": 187,
+    "photoFilename": "v-187.jpg"
   },
   {
     "name": "Πεντάκωμο",
     "population": 644,
     "district": "LIMASSOL",
-    "id": 188
+    "id": 188,
+    "photoFilename": "v-188.jpg"
   },
   {
     "name": "Κούκλια",
     "population": 892,
     "district": "PAPHOS",
-    "id": 189
+    "id": 189,
+    "photoFilename": "v-189.jpg"
   },
   {
     "name": "Πάνω Πολεμίδια",
     "population": 3470,
     "district": "LIMASSOL",
-    "id": 190
+    "id": 190,
+    "photoFilename": "v-190.jpg"
   },
   {
     "name": "Δήμος Καραβά",
@@ -1296,7 +1308,8 @@
     "name": "Σωτήρα",
     "population": 143,
     "district": "LIMASSOL",
-    "id": 192
+    "id": 192,
+    "photoFilename": "v-192.jpg"
   },
   {
     "name": "Μύρτου",
@@ -1326,7 +1339,8 @@
     "name": "Κισσόνεργα",
     "population": 2004,
     "district": "PAPHOS",
-    "id": 197
+    "id": 197,
+    "photoFilename": "v-197.jpg"
   },
   {
     "name": "Αχέλεια",
