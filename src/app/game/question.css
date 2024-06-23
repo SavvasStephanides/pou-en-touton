@@ -31,7 +31,8 @@ section#question ul.possible-answers{
 section#question ul.possible-answers li button{
     display: block;
     background-color: white;
-    border: 2px solid #333;
+    border: 2px solid #eee;
+    box-shadow: 0 0 15px #eee;
     width: 100%;
     padding: 15px;
     font-size: 18px;
@@ -100,9 +101,9 @@ button.share{
 
 @keyframes scale-up-and-shake {
     0% {transform: scale(1) rotate(0deg);}
-    33% {transform: scale(1.1) rotate(-15deg);}
-    66% {transform: scale(1.3) rotate(30deg);}
-    100% {transform: scale(1) rotate(-15deg);}
+    33% {transform: scale(1.1) rotate(-6deg);}
+    66% {transform: scale(1.1) rotate(30deg);}
+    100% {transform: scale(1) rotate(-6deg);}
 }
 
 @keyframes fade-in {

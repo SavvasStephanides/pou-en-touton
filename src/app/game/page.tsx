@@ -182,7 +182,7 @@ export default function GamePage() {
 
         </div>
       </div>
-      <div style={{position: "absolute", left: 0, top: 0, width: "300px", backgroundColor: "white", height: "100%", borderRight: "1px solid #eee", display: sideMenuIsVisible ? "block" : "none", padding: "21px"}}>
+      <div style={{position: "absolute", left: 0, top: 0, width: "300px", backgroundColor: "white", height: "100%", borderRight: "1px solid #eee", display: sideMenuIsVisible ? "block" : "none", padding: "21px", boxShadow: "0 0 15px #eee"}}>
         <h2>Τζιάλλα παιχνίδκια!</h2>
         <div style={{marginTop: "15px"}}>
           <Link href={"https://savvas.me/xorkaton"} style={{display: "block", width: "100%"}}>
